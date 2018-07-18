@@ -9,4 +9,5 @@ group :jekyll_plugins do
 	gem 'sass'
 	gem 'jekyll-sitemap'
 	gem 'jekyll-paginate'
+	gem 'jekyll-figure'
 end
