@@ -51,3 +51,5 @@ Gemfile.lock
 composer.lock
 Untitled.code-workspace
 Untitled.code-workspace
+vendor
+.bundle
