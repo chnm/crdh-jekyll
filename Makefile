@@ -1,10 +1,11 @@
+gulp = ./node_modules/gulp/bin/gulp.js
 preview :
-	gulp
+	$(gulp)
 
 deploy :
 	@echo "Building site ..."
-	gulp clean
-	gulp build
+	$(gulp) clean
+	$(gulp) build
 	@echo "Deploying to server ..."
 	rsync --checksum --delete --exclude appendices/ -avz \
 		_site/* athena:/websites/crdh/www/
