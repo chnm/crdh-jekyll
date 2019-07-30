@@ -1,11 +1,22 @@
 gulp = ./node_modules/gulp/bin/gulp.js
-preview :
-	$(gulp)
+# Creating the CSS needs to be run through Gulp
 
-deploy :
+clean :
+	rm -rf _site/*
+
+preview : clean
+	bundle exec jekyll serve --watch --drafts
+
+build : clean
 	@echo "Building site ..."
-	$(gulp) clean
-	$(gulp) build
+	bundle exec jekyll build
+
+deploy : build
+	@echo "Deploying to dev server ..."
+	rsync --checksum --delete --exclude appendices/ -avz \
+		_site/* athena:/websites/crdh/www/dev/
+
+deploy-production : build
 	@echo "Deploying to server ..."
 	rsync --checksum --delete --exclude appendices/ -avz \
 		_site/* athena:/websites/crdh/www/
