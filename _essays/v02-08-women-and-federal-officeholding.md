@@ -1,7 +1,6 @@
 ---
 title: "Women and Federal Officeholding in the Late Nineteenth-Century U.S."
-subtitle: ""
-doi: "https://doi.org/10.31835/crdh.2019.00"
+doi: "https://doi.org/10.31835/crdh.2019.08"
 category: "2019"
 volume-number: 2
 year: 2019
@@ -74,10 +73,10 @@ single year. By 1895, roughly *fifty-five* women were appointed. This
 growth cannot be chalked up to a wider expansion in the federal
 workforce. Even when calculated as a percentage of all Presidential
 postmaster appointments, the share of women roughly tripled between the
-1860s and the 1890s.[^4] (See figure 1.)
+1860s and the 1890s (see figure 1).[^4] 
 
 {% figure caption: "Figure 1. Each year, sitting U.S. Presidents would nominate people to federal office and the Senate would then confirm those nominations. The majority of these positions were for postmaster positions in large urban post offices. The chart was calculated from a dataset provided by Scott James." %}
-![Text](/assets/img/v02/blevins/figure1.png)
+![Line graph of percentage of women among U.S. Presidential postmaster nominations.](/assets/img/v02/blevins/figure1.png)
 {% endfigure %}
 
 A few notes of caution: these numbers are estimated inferences. They
@@ -109,12 +108,12 @@ state of Texas between 1846--1930. I scraped this data from his website,
 processed it into a database, and then used the same gender R package to
 infer the gender of some 38,500 Texas postmasters. Jim Wheat's dataset
 of Texas postmasters shows a similar pattern as Scott James's dataset of
-"Presidential postmaster appointments, with a steady rise in the share
+Presidential postmaster appointments, with a steady rise in the share
 of female appointees over the final decades of the nineteenth
-century.[^7] (See figure 2.)
+century (see figure 2).[^7]
 
 {% figure caption: "Figure 2. This chart illustrates the share of all nineteenth-century postmaster appointments in Texas that were held by women. Data compiled from Wheat, “Postmasters & Post Offices of Texas, 1846--1930.”" %}
-![Text](/assets/img/v02/blevins/figure2.png)
+![Line graph of percentage of women among postmaster appointments in Texas in the nineteenth-century.](/assets/img/v02/blevins/figure2.png)
 {% endfigure %}
 
 There are some telling differences between the two measurements. First,
@@ -150,15 +149,15 @@ mirrors that of the first two datasets: use of the phrase "postmistress"
 rose dramatically in printed texts during the 1870s and 1880s. (See
 figures 3, 4, and 5.)
 
-{% figure caption: "Figure 3. This chart shows the relative frequency of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers from 1840--1900. The search term was case-insensitive and the chart uses a three-year smoothing."[^9] %}
+{% figure caption: "Figure 3. This chart shows the relative frequency of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers from 1840--1900. The search term was case-insensitive. The chart uses a three-year smoothing, and comes from a [Bookworm interface for Chronicling America](http://benschmidt.org/ChronAm/#?%7B%22words_collation%22%3A%22Case_Insensitive%22%2C%22search_limits%22%3A%5B%7B%22word%22%3A%5B%22postmistress%22%5D%2C%22publish_year%22%3A%7B%22%24gte%22%3A1836%2C%22%24lte%22%3A1922%7D%7D%5D%7D.) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers, using two million texts and twenty-two billion words.](/assets/img/v02/blevins/figure3.png)
 {% endfigure %}
 
-{% figure caption: "Figure 4. This chart shows the relative frequency of the term “postmistress” in the HathiTrust Digital Library from 1840--1900. The search term was case-insensitive and searched a corpus of English language books published in the United States. The chart uses a three-year smoothing.[^10]" %}
+{% figure caption: "Figure 4. This chart shows the relative frequency of the term “postmistress” in the HathiTrust Digital Library from 1840--1900. The search term was case-insensitive and searched a corpus of English language books published in the United States. The chart uses a three-year smoothing, and comes from a [Bookworm interface for HathiTrust](https://bookworm.htrc.illinois.edu/develop/#?%7B%22search_limits%22:%5B%7B%22word%22:%5B%22postmistress%22%5D,%22date_year%22:%7B%22$gte%22:1840,%22$lte%22:1900%7D,%22language__id%22:%5B%221%22%5D,%22publication_country__id%22:%5B%221%22%5D%7D%5D,%22counttype%22:%22WordsPerMillion%22%7D) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the HathiTrust Digital Library, using six hundred and twenty-five thousand texts and one hundred and seventeen billion words.](/assets/img/v02/blevins/figure4.png)
 {% endfigure %}
 
-{% figure caption: "Figure 5. This chart shows the relative frequency of the term “postmistress” as a percentage of all words in Google Books (American English Corpus) from 1840--1900. The search term was case-sensitive and searched the Google Books American English corpus. It uses a three-year smoothing.[^11]" %}
+{% figure caption: "Figure 5. This chart shows the relative frequency of the term “postmistress” as a percentage of all words in Google Books (American English Corpus) from 1840--1900. The search term was case-sensitive and searched the Google Books American English corpus. The chart uses a three-year smoothing, and comes from the [Google Books NGram Viewer](https://books.google.com/ngrams/graph?content=postmistress&year_start=1840&year_end=1900&corpus=17&smoothing=3&share=&direct_url=t1%3B%2Cpostmistress%3B%2Cc0). Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the Google Books American English Corpus.](/assets/img/v02/blevins/figure5.png)
 {% endfigure %}
 
@@ -168,8 +167,7 @@ measurement for a real-world pattern. The relationship between lexical
 use and material changes is fuzzy at best: "postmistress" might have
 become a more popular phrase for reasons other than (or in addition to)
 the entry of women into the postal workforce. Moreover, all three
-databases have their own pitfalls, from corpus coverage to OCR
-quality.[^12]
+databases have their own pitfalls, from corpus coverage to OCR quality.[^9]
 
 Given that this lexical pattern roughly mirrors the trajectory of
 postmaster appointments in the first two datasets, however, we can
@@ -198,7 +196,7 @@ advantages to women hoping to secure a position in government. One
 advantage was that the position of postmaster was the most commonly
 available federal job. Outside of times of war, the Post Office
 Department regularly employed more people than the entire rest of the
-executive, judicial, and legislative branches combined.[^13] Moreover,
+executive, judicial, and legislative branches combined.[^10] Moreover,
 because postmasters were typically linked to party patronage and
 electoral politics, turnover in office was common. Whichever party
 controlled the presidency had the power to dismiss and appoint most of
@@ -209,7 +207,7 @@ patronage wasn't good for job security, it did give women many more
 opportunities to jump on board.
 
 {% figure caption: "Figure 6. New presidential administrations would often install party leaders as officials in the Post Office Department in order to disburse patronage positions. This meant often meant that previous officeholders were replaced with party loyalists. Annual totals transcribed from *Annual Reports of the Postmaster General*, 1865--1900, with each year reflecting the *previous* fiscal year running from July to June. For example, 1886 represents removals from July 1, 1885 to June 30, 1886." %}
-![Text](/assets/img/v02/blevins/figure6.png)
+![Bar chart showing the number of postmasters removed during each presidential administration from eighteen sixty-five to nineteen hundred.](/assets/img/v02/blevins/figure6.png)
 {% endfigure %}
 
 The second advantage had to do with the job itself. Unlike today, most
@@ -221,14 +219,14 @@ blurring between private and public gave women an opening in which to
 step into public office without representing a wholesale transgression
 of traditional gendered boundaries. This was especially true if the post
 office itself was housed within the postmaster's home, a space over
-which women held traditional authority.[^14] The nature of the work
+which women held traditional authority.[^11] The nature of the work
 helped as well. Postmasters did not wield regulatory or coercive power.
 They were not tax collectors or constables, instead acting as vendors
 who provided a popular public service. This made local communities
 generally more comfortable with a woman holding the position---even as
 writers lampooned postmistresses as gossiping busybodies and newspapers
 never tired of making endless puns about their ability to handle both
-"the mails" and "the males."[^15]
+"the mails" and "the males."[^12]
 
 The entry of women into these offices represented a quiet yet important
 initial foray into public officeholding for women who were eager to take
@@ -244,7 +242,7 @@ partisan nature of the position, securing an appointment required the
 officeholder to lobby local and national politicians. This gave women a
 chance to establish channels of communication and develop important
 relationships that they could then turn towards other sorts of public
-pursuits.[^16]
+pursuits.[^13]
 
 Finally, the sheer ubiquity of postmasters---numerically and
 geographically---meant that the position was one of the most common
@@ -259,9 +257,9 @@ just a few months after the passage of the Nineteenth Amendment, making
 her the second woman to serve in U.S. Congress. It was not, however,
 Robertson's first time to hold federal office. A decade before, she had
 run the post office in Muskogee as an official U.S. postmaster. She was
-far from alone.[^17]
+far from alone.[^14]
 
-{% figure caption: "Figure 7. Alice Robertson[^18] was the postmaster of Muskogee, Oklahoma, from 1905--1913 before she was elected Congresswoman from Oklahoma in 1920." %}
+{% figure caption: "Figure 7. Alice Robertson was the postmaster of Muskogee, Oklahoma, from 1905--1913 before she was elected Congresswoman from Oklahoma in 1920." Image: "Alice Robertson, 1922." Library of Congress.%}
 ![Photograph of Alice Robertson in old age, seated with papers on a table in front of her.](/assets/img/v02/blevins/figure7.jpg)
 {% endfigure %}
 
@@ -333,22 +331,14 @@ Wheat, Jim. "Postmasters & Post Offices of Texas, 1846--1930." December 28, 2006
 
 [^8]: Richter, “We Must Rubb Out and Begin Anew,” 348--50. For the larger context of “loyalty oaths” in the South, see Rubin, *A Shattered Nation*, 164--71.
 
-[^9]: The chart comes from a [Bookworm interface for Chronicling America](http://benschmidt.org/ChronAm/#?%7B%22words_collation%22%3A%22Case_Insensitive%22%2C%22search_limits%22%3A%5B%7B%22word%22%3A%5B%22postmistress%22%5D%2C%22publish_year%22%3A%7B%22%24gte%22%3A1836%2C%22%24lte%22%3A1922%7D%7D%5D%7D.) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018.
+[^9]: Pechenick, Danforth, and Dodds, “Characterizing the Google Books Corpus.”
 
-[^10]: [Bookworm interface for HathiTrust](https://bookworm.htrc.illinois.edu/develop/#?%7B%22search_limits%22:%5B%7B%22word%22:%5B%22postmistress%22%5D,%22date_year%22:%7B%22$gte%22:1840,%22$lte%22:1900%7D,%22language__id%22:%5B%221%22%5D,%22publication_country__id%22:%5B%221%22%5D%7D%5D,%22counttype%22:%22WordsPerMillion%22%7D) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018. 
+[^10]: Wallis, “Table Ea894-903.”
 
-[^11]: [Google Books NGram Viewer](https://books.google.com/ngrams/graph?content=postmistress&year_start=1840&year_end=1900&corpus=17&smoothing=3&share=&direct_url=t1%3B%2Cpostmistress%3B%2Cc0). Generated on October 15, 2018.
+[^11]: The blurring of different kinds of work space and the opportunities this has provided for women can be seen especially clearly during times of war. See, for instance, Edwards, *Angels in the Machinery*, 12--38; Greenwald, “Working-Class Feminism and the Family Wage Ideal.”
 
-[^12]: Pechenick, Danforth, and Dodds, “Characterizing the Google Books Corpus.”
+[^12]: Foss, “The Postmistress of Pokumville.” For “mails/males” jokes, see *Trinity Journal* (Yreka, CA), March 22, 1873, quoted in Boggs, *My Playhouse Was a Concord Coach*, 584; “Males and Mails.”
 
-[^13]: Wallis, “Table Ea894-903.”
+[^13]: I explore the nineteenth-century U.S. Post in more detail in my forthcoming book, Blevins, *Gossamer Network*.
 
-[^14]: The blurring of different kinds of work space and the opportunities this has provided for women can be seen especially clearly during times of war. See, for instance, Edwards, *Angels in the Machinery*, 12--38; Greenwald, “Working-Class Feminism and the Family Wage Ideal.”
-
-[^15]: Foss, “The Postmistress of Pokumville.” For “mails/males” jokes, see *Trinity Journal* (Yreka, CA), March 22, 1873, quoted in Boggs, *My Playhouse Was a Concord Coach*, 584; “Males and Mails.”
-
-[^16]: I explore the nineteenth-century U.S. Post in more detail in my forthcoming book, Blevins, *Gossamer Network*.
-
-[^17]: United States Congress, "[Robertson, Alice Mary](http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000318)."
-
-[^18]: Library of Congress. "Alice Robertson, 1922."
+[^14]: United States Congress, "[Robertson, Alice Mary](http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000318)."

@@ -1,7 +1,6 @@
 ---
 title: "Topic Modeling and Textual Analysis of American Scientific Journals, 1818–1922"
-subtitle: ""
-doi: "https://doi.org/10.31835/crdh.2019.00"
+doi: "https://doi.org/10.31835/crdh.2019.11"
 category: "2019"
 volume-number: 2
 year: 2019

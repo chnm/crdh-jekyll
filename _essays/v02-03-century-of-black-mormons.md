@@ -1,7 +1,7 @@
 ---
 title: "Century of Black Mormons"
 subtitle: "A Preliminary Interpretation of the Data"
-doi: "https://doi.org/10.31835/crdh.2019.00"
+doi: "https://doi.org/10.31835/crdh.2019.03"
 category: "2019"
 volume-number: 2
 year: 2019
@@ -33,15 +33,15 @@ Black Mormons](http://www.cc.com/video-clips/auxb75/the-daily-show-with-jon-stew
 and then called them "mythical creatures, the unicorns of politics." She
 asked if the five whom she met comprised the entire population of Black
 people in the Church of Jesus Christ of Latter-day Saints?[^2] Susan
-Saulny, a reporter for the *New York Times*, similarly speculated in [a *Times* online video](http://www.nytimes.com/2012/05/23/us/for-black-mormons-a-political-choice-like-no-other.html?_r=2&hp&) that there were only a "very small number" of Black Mormons, a "couple
+Saulny, a reporter for the *New York Times*, similarly speculated in a *Times* [online video](http://www.nytimes.com/2012/05/23/us/for-black-mormons-a-political-choice-like-no-other.html?_r=2&hp&) that there were only a "very small number" of Black Mormons, a "couple
 of thousand max," or somewhere between "500 to 2,000."[^3] Likewise,
 Jimmy Kimmel [asked on *Jimmy Kimmel Live*](http://www.sistasinzion.com/2012/10/jimmy-kimmel-doesnt-believe-there-are.html), "Are there Black Mormons? I find that hard to
 believe."[^4]
 
-*Century of Black Mormons* (CBM) is a digital history project designed
+[*Century of Black Mormons* (CBM)](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/welcome) is a digital history project designed
 to not merely answer these questions but to historicize them.[^5] The
 first documented black person to join this American born faith was
-[[Black Pete](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/black-pete),
+[Black Pete](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/black-pete),
 a former slave who was baptized in 1830, when the fledgling movement was
 less than a year old.[^6] Other Black Saints trickled in over the course
 of the nineteenth century (more than 280 identified so far) and are
@@ -60,11 +60,18 @@ history project organized around biographies of Black Latter-day
 Saints.[^8] Researchers collect primary source documents such as
 baptismal records, census records, journal entries, diaries, and vital
 records which are made publicly available in a digital viewer at the
-bottom of each biography. A [timeline feature](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/when) tracks dates of
-baptism and a map pinpoints location of baptisms. The database thus seeks to be
+bottom of each biography. A [timeline feature](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/when) (see figure 1) tracks dates of
+baptism and a [map](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/where) (see figure 4) pinpoints location of baptisms. The database thus seeks to be
 a principal repository for primary and secondary source information for
 scholars and laypeople alike on what it meant to be black and Mormon
 during the faith's pioneering century.
+
+<figure>
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ibEVeY-s9YyVNuy6dF5Wcsgg45McuoHoj3M184e2vh0&amp;font=Default&amp;lang=en&amp;initial_zoom=1" frameborder="0" width="100%" height="500"></iframe>
+<figcaption>
+Figure 1. Text
+</figcaption>
+</figure>
 
 As scholars of religion in the United States have begun to challenge the
 perception of a monolithic "Black Church," they have explored what
@@ -114,25 +121,25 @@ how many of its members were of black African descent. While LDS baptism
 and confirmation records do not contain racial categories, those who
 created those records sometimes did note race in the margins of the
 documents they made. A clerk or missionary might scrawl "colored" next
-to a person's name (see figures 1 and 2), a fact that highlights the way
+to a person's name (see figures 2 and 3), a fact that highlights the way
 in which white was deemed normal and a variation from white was
 considered noteworthy.[^13] This is one of the ways that CBM researchers
 have been able to identify individuals to include in the database along
 with crowdsourcing, journals, diaries, and other records.
 
-{% figure caption: "Figure 1. Esther Jane “Nettie” Scott Kirchhoff, 1925 LDS Census Record Oshkosh, Wisconsin, with “colored” written in the upper righthand corner. This 1925 census and other documents are available in the document reader at the bottom of [Kirchhoff's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott#?) at Century of Black Mormons. Kirchhoff was a founding member of the Oshkosh, Wisconsin Latter-day Saint congregation where she served as Sunday School Secretary and then theological teacher." %}
-![Text](/assets/img/v02/reeve/figure1.jpg)
+{% figure caption: "Figure 2. Esther Jane “Nettie” Scott Kirchhoff, 1925 LDS Census Record Oshkosh, Wisconsin, with “colored” written in the upper righthand corner. This 1925 census and other documents are available in the document reader at the bottom of [Kirchhoff's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott#?) at Century of Black Mormons. Kirchhoff was a founding member of the Oshkosh, Wisconsin Latter-day Saint congregation where she served as Sunday School Secretary and then theological teacher." %}
+![Text](/assets/img/v02/reeve/figure2.jpg)
 {% endfigure %}
 
-{% figure caption: "Figure 2. Henry Barr, baptismal record, South Carolina, with
+{% figure caption: "Figure 3. Henry Barr, baptismal record, South Carolina, with
 “colored” written next to his name. See the full baptismal record at
 the bottom of [Barr's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/barr-henry#?) at Century of Black Mormons. Barr was born to enslaved parents six years
 before the end of the Civil War and converted to the Church of Jesus
 Christ of Latter-day Saints in 1896 when he was 37 years old. " %}
-![Text](/assets/img/v02/reeve/figure2.jpg)
+![Text](/assets/img/v02/reeve/figure3.jpg)
 {% endfigure %}
 
-As of July 2019 Century of Black Mormons contained nearly seventy
+As of July 2019, Century of Black Mormons contained nearly seventy
 individuals whose files were complete and publicly available. Their
 stories and the corresponding metadata highlight two early findings.
 First, integrated Sunday worship services varied across time and space
@@ -174,7 +181,7 @@ charitable causes.[^17]
 
 Meanwhile in Oshkosh, Wisconsin, [Esther Jane "Nettie" Kirchhoff](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott)
 was a founding member of the tiny LDS branch organized there in 1904.
-Her husband Richard was a German- born immigrant and Nettie was of mixed
+Her husband Richard was a German-born immigrant and Nettie was of mixed
 racial ancestry. She became Sunday School Secretary in an atypical mixed
 gender and mixed-race Sunday School presidency.[^18] She also taught
 Sunday School, as did [Elijah Banks](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah),
@@ -193,7 +200,7 @@ congregation: "I was taught you can't go into the temple, you're not the
 right color. You're not good enough," she said. For a time she attended
 the Methodist Church in Salt Lake City and refused to raise her
 daughters as Latter-day Saints in an effort to shield them from the same
-type of prejudice she had experienced. Even still she returned to the
+type of prejudice she had experienced. Even still, she returned to the
 Church of Jesus Christ of Latter-day Saints after her husband converted
 and remained a practicing member for the rest of her life.[^21]
 
@@ -213,8 +220,8 @@ for example, a convert in 1910 in South Africa, encountered white
 coreligionists who refused to allow Harris to worship with them
 altogether. In response, missionaries administered the sacrament of the
 Lord's Supper to him in his home.[^23] Similarly, in Cincinnati, Ohio,
-white members made it clear to [Len](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-len) and [Mary Hope](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-mary-lee-pugh) that they were not welcome at Sunday services but when the couple moved
-to Salt Lake City they worshiped in an integrated congregation.[^24] Sunday worship for Black Mormons thus varied across time and space. Lack
+white members made it clear to [Len](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-len) and [Mary Hope](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-mary-lee-pugh) that they were not welcome at Sunday services. But when the couple moved
+to Salt Lake City, they worshiped in an integrated congregation.[^24] Sunday worship for Black Mormons thus varied across time and space. Lack
 of sources makes it impossible to know what worship looked like in all
 situations, but the database is yielding clues previously unavailable.
 
@@ -233,7 +240,7 @@ There are already eleven of their descendants included among the
 completed profiles in the database with at least eight more family
 members under research.
 
-Elsewhere, in Tylertown, Mississippi, missionaries baptized [[Samuel Magee](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-samuel) in 1908. Within four months, his wife [Ardella Bickham Magee](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ardella-bickham) followed him into the faith and their children joined after that. In
+Elsewhere, in Tylertown, Mississippi, missionaries baptized [Samuel Magee](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-samuel) in 1908. Within four months, his wife [Ardella Bickham Magee](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ardella-bickham) followed him into the faith and their children joined after that. In
 total eleven members of the Magee family converted.[^26] Ardella gave
 birth to her youngest son at the time of the family's conversion and she
 and Samuel named their new baby [Moroni](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ernest-moroni)
@@ -267,23 +274,23 @@ for more than a century.
 <figure>
 <iframe src="https://uploads.knightlab.com/storymapjs/64d0d2e8cf2ee227b901e504f846f253/cbm-1/index.html" frameborder="0" width="100%" height="600"></iframe>
 <figcaption>
-Figure 3. 
+Figure 4. 
 </figcaption>
 </figure>
 
-In fact, the map feature in *Century of Black Mormons* has already
+In fact, the map feature in *Century of Black Mormons* (see figure 4) has already
 revealed an interesting pattern of conversion, especially when combined
 with the database's timeline. Second, third, fourth, and fifth
 generation Mormons represent a growing number of Utah based baptisms and
 so far account for all of the baptisms between 1873 and 1891 (see figure
-4). Of the twenty-one Utah baptisms thus far, sixty-five percent were of
+5). Of the twenty-one Utah baptisms thus far, sixty-five percent were of
 people who were second generation or later Mormons. As Mormonism
 reinvigorated its missionary program by the 1890s in the wake of a
 federal anti-polygamy crackdown, baptisms outside of Utah followed
 through the 1930s.
 
-{% figure caption: "Figure 4. Baptismal Locations in Comparison. Those “Baptized in U.S.” include all people baptized in the United States, excluding those baptized in Utah. Of the Utah baptisms, sixty-five percent were second, third, fourth, and fifth generation Black Mormons. The international baptisms include people baptized in South Africa, England, and three sailors baptized on board an LDS immigrant ship somewhere in the Atlantic Ocean." %}
-![Text](/assets/img/v02/reeve/figure4.png)
+{% figure caption: "Figure 5. Baptismal Locations in Comparison. Those “Baptized in U.S.” include all people baptized in the United States, excluding those baptized in Utah. Of the Utah baptisms, sixty-five percent were second, third, fourth, and fifth generation Black Mormons. The international baptisms include people baptized in South Africa, England, and three sailors baptized on board an LDS immigrant ship somewhere in the Atlantic Ocean." %}
+![Text](/assets/img/v02/reeve/figure5.png)
 {% endfigure %}
 
 In sum, Century of Black Mormons is yielding new clues about the
@@ -342,19 +349,13 @@ Johnson, Karen Joy. "Healing the Mystical Body: Catholic Attempts to Overcome th
 
 Mauss, Armand L. *All Abraham's Children: Changing Mormon Conceptions of Race and Lineage*. Urbana: University of Illinois Press, 2003.
 
-McBride, Matthew. "Black Pete."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/black-pete]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/black-pete),
-accessed 5 October 2018.
+McBride, Matthew. "Black Pete." Accessed October 5, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/black-pete>.
 
-McBride, Matthew. "Paul Thomas Harris."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/harris-paul-thomas]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/harris-paul-thomas),
-accessed 10 October 2018.
+McBride, Matthew. "Paul Thomas Harris." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/harris-paul-thomas>. 
 
 Mueller, Max Perry. *Race and the Making of the Mormon People*. Chapel Hill: University of North Carolina Press, 2017. <https://doi.org/10.5149/northcarolina/9781469636160.001.0001>.
 
-Newell, Quincy D. "Jane Elizabeth Manning James."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/james-jane-elizabeth-manning]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/james-jane-elizabeth-manning),
-accessed 5 October 2018.
+Newell, Quincy D. "Jane Elizabeth Manning James." Accessed October 5, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/james-jane-elizabeth-manning>.
 
 Newell, Quincy D. "The Autobiography and Interview of Jane Elizabeth Manning James." *Journal of Africana Religions* 1, no. 2 (2013): 251--91. <https://doi.org/10.5325/jafrireli.1.2.0251>.
 
@@ -362,87 +363,54 @@ Newell, Quincy D. "What Jane James Saw." In *Directions for Mormon Studies in th
 
 Newell, Quincy D. *Your Sister in the Gospel: The Life of Jane Manning James, A Nineteenth Century Black Woman*. New York: Oxford University Press, 2019. <https://doi.org/10.1093/oso/9780199338665.001.0001>.
 
-Parshall, Ardis E. "Marie Graves."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-marie]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-marie)
+Parshall, Ardis E. "Marie Graves." <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-marie>.
 
 Parshall, Ardis E. "William and Marie Graves: 'We found the Right Church
 All Right...'." Accessed February 1, 2019. <http://www.keepapitchinin.org/2018/09/12/william-and-marie-graves-we-found-the-right-church-all-right/>.
 
-Parshall, Ardis E. "William Graves."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-william]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-william).
+Parshall, Ardis E. "William Graves." <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-william>.
 
-Parshall, Ardis W. "Elijah Banks."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah),
-accessed 10 October 2018.
+Parshall, Ardis W. "Elijah Banks." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah>.
 
 Pew Research Center. "A Portrait of Mormons in the U.S." July 24, 2009. Accessed May 18, 2019. <https://www.pewforum.org/2009/07/24/a-portrait-of-mormons-in-the-us/#3>.
 
-Reeve, W. Paul. "Ardella Bickham Magee."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ardella-bickham]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ardella-bickham),
-accessed 18 May 2019.
+Reeve, W. Paul. "Ardella Bickham Magee." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ardella-bickham>.
 
-Reeve, W. Paul. "Elijah Able."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-elijah]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-elijah),
-accessed 10 October 2018.
+Reeve, W. Paul. "Elijah Able." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-elijah>.
 
-Reeve, W. Paul. "Elijah R. Ables."
-<https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/ables-elijah-r>,
-accessed 22 July 1019.
+Reeve, W. Paul. "Elijah R. Ables." Accessed July 22, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/ables-elijah-r>.
 
-Reeve, W. Paul. "Ernest Moroni Magee."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ernest-moroni]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ernest-moroni),
-accessed 18 May 2019.
+Reeve, W. Paul. "Ernest Moroni Magee." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-ernest-moroni>.
 
-Reeve, W. Paul. "Esther Jane 'Nettie' Scott Kirchhoff."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott),
-accessed 10 October 2018.
+Reeve, W. Paul. "Esther Jane 'Nettie' Scott Kirchhoff." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott>.
 
-Reeve, W. Paul. "Moroni Able."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-moroni]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-moroni),
-accessed 18 May 2019.
+Reeve, W. Paul. "Moroni Able." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/able-moroni>. 
 
-Reeve, W. Paul. "Samuel Magee."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-samuel]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-samuel),
-accessed 18 May 2019.
+Reeve, W. Paul. "Samuel Magee." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/magee-samuel>.
 
 Reeve, W. Paul. *Religion of a Different Color: Race and the Mormon Struggle for Whiteness*. New York: Oxford University Press, 2015. <https://doi.org/10.1093/acprof:oso/9780199754076.001.0001>.
 
-Reiter, Tonya S. "Edward 'Ned' Leggroan."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-edward-ned]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-edward-ned),
-accessed 18 May 2019.
+Reiter, Tonya S. "Edward 'Ned' Leggroan." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-edward-ned>.
 
-Reiter, Tonya S. "Esther Jane James Leggroan."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-esther-jane-james]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-esther-jane-james),
-accessed 10 October 2018.
+Reiter, Tonya S. "Esther Jane James Leggroan." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-esther-jane-james>.
 
-Reiter, Tonya S. "Frances Leggroan Fleming."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/fleming-frances-leggroan]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/fleming-frances-leggroan),
-accessed 10 October 2018.
+Reiter, Tonya S. "Frances Leggroan Fleming." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/fleming-frances-leggroan>. 
 
-Reiter, Tonya S. "Hyrum Leggroan."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-hyrum]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-hyrum),
-accessed 10 October 2018.
+Reiter, Tonya S. "Hyrum Leggroan." Accessed October 10 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-hyrum>.
 
 Reiter, Tonya S. "Life on the Hill: The Black Farming Families of Mill Creek." *Journal of Mormon History* 44, no. 4 (October 2018): 68--89. <https://doi.org/10.5406/jmormhist.44.4.0068>.
 
-Reiter, Tonya S. "Mildred Bernice Leggroan Ellis."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/ellis-mildred-bernice-leggroan]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/ellis-mildred-bernice-leggroan),
-accessed 10 October 2018.
+Reiter, Tonya S. "Mildred Bernice Leggroan Ellis." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/ellis-mildred-bernice-leggroan>.
 
-Reiter, Tonya S. "Susan Gray Reed Leggroan."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-susan-gray-reed]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-susan-gray-reed),
-accessed 18 May 2019
+Reiter, Tonya S. "Susan Gray Reed Leggroan." Accessed May 18, 2019. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/leggroan-susan-gray-reed>.
 
 Rust, Val Dean. *Radical Origins: Early Mormon Converts and Their Colonial Ancestors*. Urbana: University of Illinois Press, 2004.
 
 Saulny, Susan. "Black Mormons and the Politics of Identity." *New York Times,* May 22, 2012. Accessed October 5, 2018. <http://www.nytimes.com/2012/05/23/us/for-black-mormons-a-political-choice-like-no-other.html?_r=2&hp&>.
 
-
-Shearer, Tobin Miller. "'Buttcheek to Buttcheek in the Pew': Interracial Relationalism in a Mennonite Congregation, 1957-2010." In *Christians and the Color Line: Race and Religion after Divided by Faith*, edited by J. Russell Hawkins and Phillip Luke Sinitiere. New York: Oxford
-University Press, 2014. <https://doi.org/10.1093/acprof:oso/9780199329502.003.0005>.
+Shearer, Tobin Miller. "'Buttcheek to Buttcheek in the Pew': Interracial Relationalism in a Mennonite Congregation, 1957-2010." In *Christians and the Color Line: Race and Religion after Divided by Faith*, edited by J. Russell Hawkins and Phillip Luke Sinitiere. New York: Oxford University Press, 2014. <https://doi.org/10.1093/acprof:oso/9780199329502.003.0005>.
 
 Sistas in Zion. "Jimmy Kimmel Doesn't Believe There are black Mormons." October 5, 2012. Accessed 5 October 2018. <http://www.sistasinzion.com/2012/10/jimmy-kimmel-doesnt-believe-there-are.html>.
-
 
 Staker, Mark Lyman. *Hearken, O Ye People: The Historical Setting of Joseph Smith's Ohio Revelations.* Salt Lake City: Greg Kofford Books, 2009.
 
@@ -456,16 +424,11 @@ Stevenson, Russell W. *For the Cause of Righteousness: A Global History of Black
 
 Strickling, Laura Rutter. *On Fire in Baltimore: Black Mormon Women and Conversion in a Raging City*. Salt Lake City: Greg Kofford Books, 2018.
 
-Stuart, Joseph R. "Len Hope."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-len]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-len),
-accessed 10 October 2018.
+Stuart, Joseph R. "Len Hope." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-len>.
 
-Stuart, Joseph R. "Mary Lee Pugh Hope."
-[[https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-mary-lee-pugh]{.underline}](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-mary-lee-pugh)
-, accessed 10 October 2018.
+Stuart, Joseph R. "Mary Lee Pugh Hope." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/hope-mary-lee-pugh>.
 
-Williams, Jessica. "The Black Mormon Vote." October 9, 2012. Accessed October 5, 2018. <http://www.cc.com/video-clips/auxb75/the-daily-show-with-jon-stewart-the-black-mormon-vote>,
-
+Williams, Jessica. "The Black Mormon Vote." October 9, 2012. Accessed October 5, 2018. <http://www.cc.com/video-clips/auxb75/the-daily-show-with-jon-stewart-the-black-mormon-vote>.
 
 ---
 
@@ -531,6 +494,6 @@ Williams, Jessica. "The Black Mormon Vote." October 9, 2012. Accessed October 5,
 
 [^30]: Reeve, “Elijah R. Ables”; Reeve, “Elijah Able”; Reeve, “Moroni Able.” The biographies for ArLene Able and other Able descendants are forthcoming. 
 
-[^31]: Newell, Your Sister in the Gospel.
+[^31]: Newell, *Your Sister in the Gospel*.
 
 [^32]: See Reiter, “Hyrum Leggroan,” for a fourth generation descendant of James and Reiter, “Mildred Bernice Leggroan Ellis,” for a fifth generation descendant. For additional insights on kinship networks among black converts see Reiter, “Life on the Hill.”

@@ -1,7 +1,7 @@
 ---
 title: "Race and Place"
 subtitle: "Dialect and the Construction of Southern Identity in the Ex-Slave Narratives"
-doi: "https://doi.org/10.31835/crdh.2019.00"
+doi: "https://doi.org/10.31835/crdh.2019.14"
 category: "2019"
 volume-number: 2
 year: 2019
