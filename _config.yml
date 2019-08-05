@@ -3,7 +3,7 @@ language:               "en"
 title:                  "Current Research in Digital History"
 description:            "Hosted by the Roy Rosenzweig Center for History and New Media, Current Research in Digital History is an annual one-day conference that publishes online, peer-reviewed proceedings. Its primary aim is to encourage and publish scholarship in digital history that offers discipline-specific arguments and interpretations."
 google-verification:    ""
-current_volume: "2018"
+current_volume: "2019"
 
 collections:
   essays:
@@ -62,5 +62,5 @@ highlighter:      rouge
 # CRDH
 
 appendices:       "http://crdh.rrchnm.org/appendices"
-current_volume:   "2018"
-current_number:   "1"
+current_volume:   "2019"
+current_number:   "2"
