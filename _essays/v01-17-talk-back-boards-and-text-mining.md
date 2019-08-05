@@ -60,7 +60,7 @@ not prioritize gathering talk-back board responses until roughly the
 past decade.
 
 {% figure caption: "Figure 1. SRM Talk-Back Board and part of the 'Remembrance, Reconciliation, Renewal' Exhibit (Photo by Author)" %}
-![Photograph of a talk-back board at the Seminary Ridge Museum in Gettysburg, Pennsylvania. The question reads: What do you thin is the unfinished work for freedom?](/assets/img/v01/howard/smr.jpg)
+![Photograph of a talk-back board at the Seminary Ridge Museum in Gettysburg, Pennsylvania. The question reads: What do you thin is the unfinished work for freedom?]({{site.url}}/assets/img/v01/howard/smr.jpg)
 {% endfigure %}
 
 The primary finding from this study is that talk-back boards offer
@@ -145,7 +145,7 @@ sacred, new talk-back questions could tap into such complex questions
 one piece at a time.
 
 {% figure caption: "Figure 2. WORI Talk-Back Board, July 2014 (Photo by Author)" %}
-![Photograph of a talk-back board at the Women's Rights National Historical Park in Seneca Falls, New York. The question reads: What will it be like when men and women are truly equal?](/assets/img/v01/howard/wori.jpg)
+![Photograph of a talk-back board at the Women's Rights National Historical Park in Seneca Falls, New York. The question reads: What will it be like when men and women are truly equal?]({{site.url}}/assets/img/v01/howard/wori.jpg)
 {% endfigure %}
 
 Talk-back boards also generate surprising revelations about museum

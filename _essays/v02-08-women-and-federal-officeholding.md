@@ -76,7 +76,7 @@ postmaster appointments, the share of women roughly tripled between the
 1860s and the 1890s (see figure 1).[^4] 
 
 {% figure caption: "Figure 1. Each year, sitting U.S. Presidents would nominate people to federal office and the Senate would then confirm those nominations. The majority of these positions were for postmaster positions in large urban post offices. The chart was calculated from a dataset provided by Scott James." %}
-![Line graph of percentage of women among U.S. Presidential postmaster nominations.](/assets/img/v02/blevins/figure1.png)
+![Line graph of percentage of women among U.S. Presidential postmaster nominations.]({{site.url}}/assets/img/v02/blevins/figure1.png)
 {% endfigure %}
 
 A few notes of caution: these numbers are estimated inferences. They
@@ -113,7 +113,7 @@ of female appointees over the final decades of the nineteenth
 century (see figure 2).[^7]
 
 {% figure caption: "Figure 2. This chart illustrates the share of all nineteenth-century postmaster appointments in Texas that were held by women. Data compiled from Wheat, “Postmasters & Post Offices of Texas, 1846--1930.”" %}
-![Line graph of percentage of women among postmaster appointments in Texas in the nineteenth-century.](/assets/img/v02/blevins/figure2.png)
+![Line graph of percentage of women among postmaster appointments in Texas in the nineteenth-century.]({{site.url}}/assets/img/v02/blevins/figure2.png)
 {% endfigure %}
 
 There are some telling differences between the two measurements. First,
@@ -150,15 +150,15 @@ rose dramatically in printed texts during the 1870s and 1880s. (See
 figures 3, 4, and 5.)
 
 {% figure caption: "Figure 3. This chart shows the relative frequency of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers from 1840--1900. The search term was case-insensitive. The chart uses a three-year smoothing, and comes from a [Bookworm interface for Chronicling America](http://benschmidt.org/ChronAm/#?%7B%22words_collation%22%3A%22Case_Insensitive%22%2C%22search_limits%22%3A%5B%7B%22word%22%3A%5B%22postmistress%22%5D%2C%22publish_year%22%3A%7B%22%24gte%22%3A1836%2C%22%24lte%22%3A1922%7D%7D%5D%7D.) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
-![Line graph of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers, using two million texts and twenty-two billion words.](/assets/img/v02/blevins/figure3.png)
+![Line graph of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers, using two million texts and twenty-two billion words.]({{site.url}}/assets/img/v02/blevins/figure3.png)
 {% endfigure %}
 
 {% figure caption: "Figure 4. This chart shows the relative frequency of the term “postmistress” in the HathiTrust Digital Library from 1840--1900. The search term was case-insensitive and searched a corpus of English language books published in the United States. The chart uses a three-year smoothing, and comes from a [Bookworm interface for HathiTrust](https://bookworm.htrc.illinois.edu/develop/#?%7B%22search_limits%22:%5B%7B%22word%22:%5B%22postmistress%22%5D,%22date_year%22:%7B%22$gte%22:1840,%22$lte%22:1900%7D,%22language__id%22:%5B%221%22%5D,%22publication_country__id%22:%5B%221%22%5D%7D%5D,%22counttype%22:%22WordsPerMillion%22%7D) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
-![Line graph of the term “postmistress” in the HathiTrust Digital Library, using six hundred and twenty-five thousand texts and one hundred and seventeen billion words.](/assets/img/v02/blevins/figure4.png)
+![Line graph of the term “postmistress” in the HathiTrust Digital Library, using six hundred and twenty-five thousand texts and one hundred and seventeen billion words.]({{site.url}}/assets/img/v02/blevins/figure4.png)
 {% endfigure %}
 
 {% figure caption: "Figure 5. This chart shows the relative frequency of the term “postmistress” as a percentage of all words in Google Books (American English Corpus) from 1840--1900. The search term was case-sensitive and searched the Google Books American English corpus. The chart uses a three-year smoothing, and comes from the [Google Books NGram Viewer](https://books.google.com/ngrams/graph?content=postmistress&year_start=1840&year_end=1900&corpus=17&smoothing=3&share=&direct_url=t1%3B%2Cpostmistress%3B%2Cc0). Generated on October 15, 2018." %}
-![Line graph of the term “postmistress” in the Google Books American English Corpus.](/assets/img/v02/blevins/figure5.png)
+![Line graph of the term “postmistress” in the Google Books American English Corpus.]({{site.url}}/assets/img/v02/blevins/figure5.png)
 {% endfigure %}
 
 On their own, the charts in figures 3, 4, and 5 don't tell us all that
@@ -207,7 +207,7 @@ patronage wasn't good for job security, it did give women many more
 opportunities to jump on board.
 
 {% figure caption: "Figure 6. New presidential administrations would often install party leaders as officials in the Post Office Department in order to disburse patronage positions. This meant often meant that previous officeholders were replaced with party loyalists. Annual totals transcribed from *Annual Reports of the Postmaster General*, 1865--1900, with each year reflecting the *previous* fiscal year running from July to June. For example, 1886 represents removals from July 1, 1885 to June 30, 1886." %}
-![Bar chart showing the number of postmasters removed during each presidential administration from eighteen sixty-five to nineteen hundred.](/assets/img/v02/blevins/figure6.png)
+![Bar chart showing the number of postmasters removed during each presidential administration from eighteen sixty-five to nineteen hundred.]({{site.url}}/assets/img/v02/blevins/figure6.png)
 {% endfigure %}
 
 The second advantage had to do with the job itself. Unlike today, most
@@ -260,7 +260,7 @@ run the post office in Muskogee as an official U.S. postmaster. She was
 far from alone.[^14]
 
 {% figure caption: "Figure 7. Alice Robertson was the postmaster of Muskogee, Oklahoma, from 1905--1913 before she was elected Congresswoman from Oklahoma in 1920." Image: "Alice Robertson, 1922." Library of Congress.%}
-![Photograph of Alice Robertson in old age, seated with papers on a table in front of her.](/assets/img/v02/blevins/figure7.jpg)
+![Photograph of Alice Robertson in old age, seated with papers on a table in front of her.]({{site.url}}/assets/img/v02/blevins/figure7.jpg)
 {% endfigure %}
 
 ---

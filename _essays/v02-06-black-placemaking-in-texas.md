@@ -72,7 +72,7 @@ planning records, and lack access to the funding and technical
 assistance afforded incorporated, urbanized, mapped places.
 
 {% figure caption: "Figure 1. The left image shows Huff Creek Chapel, which was once a school. It is the last remaining anchor site of the Huff Creek Community, a freedom colony. The Chapel faces Huff Creek Road where James Byrd’s (center image) body was found after his dragging death in 1998. In the right image (by Butch Ireland, 1998), Jasper Co. Assistant DA Pat Hardy displays the chain used to drag James Byrd Jr., for whom a hate crime bill has been named." %}
-![Three photographs. The left image shows Huff Creek Chapel. The center image is a photograph of James Byrd. The right image shows Pat Hardy displaying the chain used to drag James Byrd.](/assets/img/v02/roberts/figure1.png)
+![Three photographs. The left image shows Huff Creek Chapel. The center image is a photograph of James Byrd. The right image shows Pat Hardy displaying the chain used to drag James Byrd.]({{site.url}}/assets/img/v02/roberts/figure1.png)
 {% endfigure %}
 
 Archaeologists, cultural resource management professionals,
@@ -98,7 +98,7 @@ Sprawl, climate change, and gentrification have endangered what
 buildings remain.
 
 {% figure caption: "Figure 2. Freedom colonies can be situated within the Reconstruction Era Black Towns and Settlements movement. Well-known settlements are Rosewood, FL, Nicodemus, KS, and Eatonville, FL. In contrast to these towns, most freedom colonies were rarely their own independent, incorporated towns." %}
-![Three photographs. The left image shows a house in Rosewood, FL in 1870. The center images shows four people standing in front of a building in Nicodemus, KS in 1877. The right image shows a woman and three children in Eatonville, FL in 1887.](/assets/img/v02/roberts/figure2.png)
+![Three photographs. The left image shows a house in Rosewood, FL in 1870. The center images shows four people standing in front of a building in Nicodemus, KS in 1877. The right image shows a woman and three children in Eatonville, FL in 1887.]({{site.url}}/assets/img/v02/roberts/figure2.png)
 {% endfigure %}
 
 Furthermore, FCs were often founded in bottomland in low-lying
@@ -113,7 +113,7 @@ likely to be considered endangered by public preservation agencies.
 
 {% figure caption: "Figure 3. The FEMA - Hurricane Harvey Impact layer of the Texas Freedom Colony Atlas showedthat 229 FCs are in 53 FEMA designated counties, constituting 41% of total FCs or 64 % of the 357 mapped FCs. The map, generated from the Atlas data, indicates the vulnerability of remaining
 historic sites in freedom colonies." %}
-![This map from the Texas Freedom Colony Atlas shows the counties, predominantly in the eastern part of the state, which suffered the greatest impact of Hurricane Harvey.](/assets/img/v02/roberts/figure3.jpg){% endfigure %}
+![This map from the Texas Freedom Colony Atlas shows the counties, predominantly in the eastern part of the state, which suffered the greatest impact of Hurricane Harvey.]({{site.url}}/assets/img/v02/roberts/figure3.jpg){% endfigure %}
 
 All of these environmental and political vulnerabilities compromise FC
 buildings and structures. As a result, while primary and secondary
@@ -199,7 +199,7 @@ once dominate corporate mills left Newton County.
 {% figure caption: "Figure 4. This map is the result of a 2-year study of freedom colony heritage and grassroots planning in Newton and Jasper counties. After creating a baseline list from publicly available data, ethnographic research revealed the existence of places either unmapped or absent from lists of historic sites recognized by the state or federal government. The disparity between the number
 of freedom colonies, which once existed, and the markers recognizing them are stark. Of those
 mapped above, only three markers exist which are standalone tributes to freedom colonies." %}
-![Map showing fourteen new freedom colonies in Newton and Jasper counties revealed through two years of ethnographic research.](/assets/img/v02/roberts/figure4.jpg){% endfigure %}
+![Map showing fourteen new freedom colonies in Newton and Jasper counties revealed through two years of ethnographic research.]({{site.url}}/assets/img/v02/roberts/figure4.jpg){% endfigure %}
 
 ### Critiques of the Significance and Integrity Framework
 
@@ -249,11 +249,11 @@ descendants yet not designated historic or protected sites.
 {% figure caption: "Figure 5. Homecoming presidents from Jasper and Newton County settlements are pictured at Shankeville’s 2014 Annual Homecoming. Each represents a different freedom colony, which is part of their homecoming network. Each leader not only plans an individual event but also invites each
 settlement to attend their respective event. At each event, an offering is collected which funds each
 settlement’s cemetery maintenance for the year." %}
-![Photograph of Shankeville’s 2014 Annual Homecoming event, with Homecoming presidents from Jasper and Newton County settlements standing at the front of a church, and Homecoming attendees seated around them.](/assets/img/v02/roberts/figure5.jpg){% endfigure %}
+![Photograph of Shankeville’s 2014 Annual Homecoming event, with Homecoming presidents from Jasper and Newton County settlements standing at the front of a church, and Homecoming attendees seated around them.]({{site.url}}/assets/img/v02/roberts/figure5.jpg){% endfigure %}
 
 {% figure caption: "Figure 6. The Pleasant Hill Homecoming Celebration program (2015) lists guest churches and communities associated with communities not otherwise designated as significant or historic. Freedom colonies are often only recognized and remembered during the two-day events in
 which music and memories about settlements are shared among decedents, extended family, and church family." %}
-![Photograph of paper program from the 2015 Pleasant Hill Homecoming Celebration, listing names of participating choirs and individuals.](/assets/img/v02/roberts/figure4.jpg){% endfigure %}
+![Photograph of paper program from the 2015 Pleasant Hill Homecoming Celebration, listing names of participating choirs and individuals.]({{site.url}}/assets/img/v02/roberts/figure4.jpg){% endfigure %}
 
 The research process solidifies the argument that embracing creative and
 performative assemblage, orality, and memory was required to map the
@@ -269,7 +269,7 @@ it is embedded collects resident memories, photos, and calendar. Now,
 available data.
 
 {% figure caption: "Figure 7. The [Texas Freedom Colony Atlas]<https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f> and Survey allows for spatialization of varied forms of place data alongside the authorized heritage data which helps substantiate the existence of a historically significant place. The interactive atlas’ allows for uploading of stories, documents, photos, and memories of place along with calendars of events associated with the freedom colony. All visitors are invited to add to a separate layer, “new” or unknown freedom colonies." %}
-![Screenshot of the Texas Freedom Colony Atlas, showing a map of Texas, with blue dots that represent the locations of identified freedom colonies](/assets/img/v02/roberts/figure4.jpg){% endfigure %}
+![Screenshot of the Texas Freedom Colony Atlas, showing a map of Texas, with blue dots that represent the locations of identified freedom colonies]({{site.url}}/assets/img/v02/roberts/figure4.jpg){% endfigure %}
 
 Historic preservation standards around what defines place and historical
 significance obscure the disappearing heritage of FCs, particularly in

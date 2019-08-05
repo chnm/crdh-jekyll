@@ -85,7 +85,7 @@ Herblock cartoon at the top center of the page naturally draws the eye
 of the reader, making it likely to be the first element of the page to
 be read and therefore giving it an opportunity to influence how a reader
 will interpret that day's editorial content." %}
-![Mock-up of the Washington Post's editoral page layout based on the paper from the twenty-first of August nineteen hundred and fifty-three.](/assets/img/v01/appleford/figure1.png)
+![Mock-up of the Washington Post's editoral page layout based on the paper from the twenty-first of August nineteen hundred and fifty-three.]({{site.url}}/assets/img/v01/appleford/figure1.png)
 {% endfigure %}
 
 Block may have insisted that his work was unbiased, but his
@@ -109,7 +109,7 @@ unconscious decisions that informed how he chose to depict specific
 issues, events, and administrations.
 
 {% figure caption: "Figure 2. (a) Herbert Block, 'Reveille,' *Washington Post,* April 11, 1951. (b) Herbert Block, 'Whence All But He Had Fled,' *Washington Post,* June 10, 1957." %}
-![Two Herblock cartoons. Cartoon A shows a man blowing a trumpet with the words "You're president of the United States" coming out of it next to a sleeping Harry Truman. Cartoon B depicts a ship labeled "China Embargo Policy" sinking with a person on it while a second person rows away in a smaller boat labeled "Eisenhower Comments on China Trade."](/assets/img/v01/appleford/figure2.jpg)
+![Two Herblock cartoons. Cartoon A shows a man blowing a trumpet with the words "You're president of the United States" coming out of it next to a sleeping Harry Truman. Cartoon B depicts a ship labeled "China Embargo Policy" sinking with a person on it while a second person rows away in a smaller boat labeled "Eisenhower Comments on China Trade."]({{site.url}}/assets/img/v01/appleford/figure2.jpg)
 {% endfigure %}
 
 A straightforward place to start is the frequency with which members of
@@ -134,11 +134,11 @@ incumbent president did not seek reelection as the Democratic Party's
 nominee.
 
 {% figure caption: "Figure 3. Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration,' 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
-![Line graph showing the how the percentage of cartoons that depict the democrat, republican and administration characters changed over time."](/assets/img/v01/appleford/figure3.png)
+![Line graph showing the how the percentage of cartoons that depict the democrat, republican and administration characters changed over time."]({{site.url}}/assets/img/v01/appleford/figure3.png)
 {% endfigure %}
 
 {% figure caption: "Figure 4. Herbert Block, 'The Short Cool Spring,' *Washington Post,* March 27, 1968." %}
-![Herblock cartoon showing a man labeled “administration spokesmen” pouring a pitcher of water and ice cubes on a stack of papers labeled “Report on the Commission on Civil Disorders."](/assets/img/v01/appleford/figure4.jpg)
+![Herblock cartoon showing a man labeled “administration spokesmen” pouring a pitcher of water and ice cubes on a stack of papers labeled “Report on the Commission on Civil Disorders."]({{site.url}}/assets/img/v01/appleford/figure4.jpg)
 {% endfigure %}
 
 One possible explanation for these differences is that Block shied away
@@ -170,7 +170,7 @@ affected by such factors as the total number of cartoons drawn each year
 and especially by the impact of presidential elections.
 
 {% figure caption: "Figure 5. Percentage of Herblock cartoons depicting Democrats, Republicans, and the generic character 'Administration' averaged by presidential administration, 1946--1976. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
-![Line graph showing how the percentage of Herblock cartoons depicting Democrats,Republicans, and the generic character “Administration”changed during different presidential administrations from nineteen forty-six to nineteen seventy-six."](/assets/img/v01/appleford/figure5.png)
+![Line graph showing how the percentage of Herblock cartoons depicting Democrats,Republicans, and the generic character “Administration”changed during different presidential administrations from nineteen forty-six to nineteen seventy-six."]({{site.url}}/assets/img/v01/appleford/figure5.png)
 {% endfigure %}
 
 To compensate, we can calculate the average number of times that each
@@ -213,7 +213,7 @@ marginally more likely to make greater use of dark shading when
 depicting southerners than he was in the corpus as a whole (figure 6).
 
 {% figure caption: "Figure 6. Scatter graph of median brightness of civil rights cartoons depicting southerners, 1946--1970. Red dots indicate civil rights-related cartoons that depict southerners, grey dots are all other cartoons in the corpus. The figure only depicts cartoons up until 1970 because after that year Block only drew three more cartoons that fall into this category---one in 1975 and two in 1976. The graph maps the average grayscale value for the pixels in each cartoon and are on a scale of 0--255. For example, if a cartoon is pure black, its median brightness will be 0; if a cartoon is pure white, its median brightness will be 255. *Source:* Simon Appleford, *Herblock Cartoon Database, 1946--1976.* Data available at <https://github.com/apl4d/crdh>." %}
-![Scatter graph showing the median brightness of civil rights cartoons depicting southerners from nineteen fourty-six to nineteen-seventy.](/assets/img/v01/appleford/figure6.png)
+![Scatter graph showing the median brightness of civil rights cartoons depicting southerners from nineteen fourty-six to nineteen-seventy.]({{site.url}}/assets/img/v01/appleford/figure6.png)
 {% endfigure %}
 
 To better understand the context of these differences fully, figures 7
@@ -252,7 +252,7 @@ category, which lags significantly behind the 'Eisenhower
 Administration' as the third most common subject in 1957 at 12.15%,
 before steadily increasing to 22.80% in 1960. Data available at
 <https://github.com/apl4d/crdh>." %}
-![Slopegraph showing how the major subjects depicted in Herblock cartoons changed during Eisenhower's second adminstration, from nineteen fifty-seven to nineteen sixty, measured by the percetage of cartoons from each topic in each year.](/assets/img/v01/appleford/figure7.png)
+![Slopegraph showing how the major subjects depicted in Herblock cartoons changed during Eisenhower's second adminstration, from nineteen fifty-seven to nineteen sixty, measured by the percetage of cartoons from each topic in each year.]({{site.url}}/assets/img/v01/appleford/figure7.png)
 {% endfigure %}
 
 {% figure caption: "Figure 8. Slopegraph of percentage of major subjects depicted in
@@ -264,7 +264,7 @@ is by far that year's most common category, before dropping back down to
 the second most common category in 1968, when Block's cartoons were
 heavily focused on the presidential election. Data available at
 <https://github.com/apl4d/crdh>." %}
-![Slopegraph showing how the major subjects depicted in Herblock cartoons changed during Johnson's second adminstration, from nineteen sixty-five to nineteen sixty-eight. The topics are plotted by the percetage of cartoons from each topic in each year.](/assets/img/v01/appleford/figure8.png)
+![Slopegraph showing how the major subjects depicted in Herblock cartoons changed during Johnson's second adminstration, from nineteen sixty-five to nineteen sixty-eight. The topics are plotted by the percetage of cartoons from each topic in each year.]({{site.url}}/assets/img/v01/appleford/figure8.png)
 {% endfigure %}
 
 These results certainly seem to suggest that, at some level, Block chose

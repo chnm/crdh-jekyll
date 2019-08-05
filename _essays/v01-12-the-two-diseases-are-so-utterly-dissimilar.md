@@ -141,7 +141,7 @@ Newspapers, by year, from 1885 to 1894. The chart indicates that the term choler
 more pages in every year than the term influenza, although the gap was narrowest in 1890, which
 included the peak of Russian flu coverage in January. The spike in cholera results in 1892
 certainly resulted from the outbreak of this disease in the Middle East, Russia, and Europe." %}
-![A bar chart showing the number of newspaper pages where the term "influenza" appeared compared to the word "cholera" per year in American newspapers.](/assets/img/v01/ewing/influenza-cholera-key-word-years-chronam-ahn.jpeg)
+![A bar chart showing the number of newspaper pages where the term "influenza" appeared compared to the word "cholera" per year in American newspapers.]({{site.url}}/assets/img/v01/ewing/influenza-cholera-key-word-years-chronam-ahn.jpeg)
 {% endfigure %}
 
 {% figure caption: "Figure 2. This chart uses the tool of proximity search to identify pages on which the two terms, influenza and cholera, appeared within 50 words of each other in Chronicling America and
@@ -150,7 +150,7 @@ collocated on these pages; this tool does not, however, suggest interpretations 
 these collections. By adjusting the yearly segments to begin in June and end in May, this chart
 illustrates the significant increase in reporting in late 1889 and early 1890 associated with the
 Russian Flu, thus providing a more accurate visualization of change over time." %}
-![A bar chart showing the number of newspaper pages each year where the terms "influenza" and  "cholera" appeared within 50 words of each other.](/assets/img/v01/ewing/influenza-cholera-proximity-years-adjusted-chronam-ahn.jpeg)
+![A bar chart showing the number of newspaper pages each year where the terms "influenza" and  "cholera" appeared within 50 words of each other.]({{site.url}}/assets/img/v01/ewing/influenza-cholera-proximity-years-adjusted-chronam-ahn.jpeg)
 {% endfigure %}
 
 {% figure caption: "Figure 3. This chart compares proximity searches for influenza and cholera within fifty words in two databases, Chronicling America and America’s Historical Newspapers, by month in the year
@@ -158,7 +158,7 @@ from June 1889 to May 1890. Comparing results by month indicates how much of a c
 be seen in December 1889, immediately following the widely reported statement by Zdekauer.
 The very low number of results from June to November suggest that the lack of significant
 connections between these two terms, by contrast not only to December 1889 but even to the continued collocation of these terms through the spring of 1890." %}
-![A bar chart showing the number of newspaper pages each where the terms "influenza" and  "cholera" appeared within 50 words of each other, divided by month from June eighteen hundred and eighty-nine to May nineteen hundred and ninety.](/assets/img/v01/ewing/influenza-cholera-proximity-monthly-chronam-ahn.jpeg)
+![A bar chart showing the number of newspaper pages each where the terms "influenza" and  "cholera" appeared within 50 words of each other, divided by month from June eighteen hundred and eighty-nine to May nineteen hundred and ninety.]({{site.url}}/assets/img/v01/ewing/influenza-cholera-proximity-monthly-chronam-ahn.jpeg)
 {% endfigure %}
 
 {% figure caption: "Figure 4. As a way to compare results across national newspaper collections, this chart shows
@@ -169,7 +169,7 @@ more frequently in 1890--1892 and 1894. This chart shows different results than 
 American newspapers. While the British results were probably affected by the greater impact of
 the 1892 influenza in Britain, as compared to the United States, it is more likely that these results
 reflected the frequency of advertising terms, which requires a whole different method to parse." %}
-![A bar chart showing the number of newspaper pages where the term "influenza" appeared compared to the word "cholera" per year in British newspapers.](/assets/img/v01/ewing/influenza-cholera-by-year-bna.jpeg)
+![A bar chart showing the number of newspaper pages where the term "influenza" appeared compared to the word "cholera" per year in British newspapers.]({{site.url}}/assets/img/v01/ewing/influenza-cholera-by-year-bna.jpeg)
 {% endfigure %}
 
 This challenge was articulated in a most authoritative way by the

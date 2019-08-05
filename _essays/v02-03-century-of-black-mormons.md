@@ -128,7 +128,7 @@ have been able to identify individuals to include in the database along
 with crowdsourcing, journals, diaries, and other records.
 
 {% figure caption: "Figure 2. Esther Jane “Nettie” Scott Kirchhoff, 1925 LDS Census Record Oshkosh, Wisconsin, with “colored” written in the upper righthand corner. This 1925 census and other documents are available in the document reader at the bottom of [Kirchhoff's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott#?) at Century of Black Mormons. Kirchhoff was a founding member of the Oshkosh, Wisconsin Latter-day Saint congregation where she served as Sunday School Secretary and then theological teacher." %}
-![Text](/assets/img/v02/reeve/figure2.jpg)
+![Text]({{site.url}}/assets/img/v02/reeve/figure2.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 3. Henry Barr, baptismal record, South Carolina, with
@@ -136,7 +136,7 @@ with crowdsourcing, journals, diaries, and other records.
 the bottom of [Barr's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/barr-henry#?) at Century of Black Mormons. Barr was born to enslaved parents six years
 before the end of the Civil War and converted to the Church of Jesus
 Christ of Latter-day Saints in 1896 when he was 37 years old. " %}
-![Text](/assets/img/v02/reeve/figure3.jpg)
+![Text]({{site.url}}/assets/img/v02/reeve/figure3.jpg)
 {% endfigure %}
 
 As of July 2019, Century of Black Mormons contained nearly seventy
@@ -290,7 +290,7 @@ federal anti-polygamy crackdown, baptisms outside of Utah followed
 through the 1930s.
 
 {% figure caption: "Figure 5. Baptismal Locations in Comparison. Those “Baptized in U.S.” include all people baptized in the United States, excluding those baptized in Utah. Of the Utah baptisms, sixty-five percent were second, third, fourth, and fifth generation Black Mormons. The international baptisms include people baptized in South Africa, England, and three sailors baptized on board an LDS immigrant ship somewhere in the Atlantic Ocean." %}
-![Text](/assets/img/v02/reeve/figure5.png)
+![Text]({{site.url}}/assets/img/v02/reeve/figure5.png)
 {% endfigure %}
 
 In sum, Century of Black Mormons is yielding new clues about the

@@ -131,7 +131,7 @@ intended to represent all black oral traditions across the U.S.[^17]
 
 {% figure caption: "Figure 1. The graph plots the top words indicative of dialect in the
 Ex-Slave Narratives." %}
-![Bar graph showing the top fifty words indicative of dialect in Ex-Slave Narratives. The top five words are "wuz", "dere", "jes", "pappy", and "missus."](/assets/img/v02/tilton/figure1.png)
+![Bar graph showing the top fifty words indicative of dialect in Ex-Slave Narratives. The top five words are "wuz", "dere", "jes", "pappy", and "missus."]({{site.url}}/assets/img/v02/tilton/figure1.png)
 {% endfigure %}
 
 Text analysis reveals which words were most indicative of dialect. In
@@ -146,7 +146,7 @@ dialect terms are shown in Figure 1. Words such as "wuz" (in lieu of
 interviewer, with 95% confidence intervals. White interviewers were
 significantly more likely to use dialect in the life histories that they
 created." %}
-![Graph showing the dialect frequency for a black interviewer ranged from approximately two and a half to five occurrences per one thousand words, while the dialect frequency for a white interviewer ranged from approximately eleven to twelve and a half per one thousand words.](/assets/img/v02/tilton/figure2.png){% endfigure %}
+![Graph showing the dialect frequency for a black interviewer ranged from approximately two and a half to five occurrences per one thousand words, while the dialect frequency for a white interviewer ranged from approximately eleven to twelve and a half per one thousand words.]({{site.url}}/assets/img/v02/tilton/figure2.png){% endfigure %}
 
 Next, the extent of dialect in the collection was compared to the race
 of the interviewer (Figure 2). After identifying the top 100 words
@@ -164,7 +164,7 @@ was used more by white interviewers from a subset of Florida and Georgia
 for top ten words in each topic are shown. The prevalence of dialect
 terms in the topics reveals the significance of dialect as a rhetorical
 strategy in the interviews." %}
-![Graph of topic model with sixteen topics. The top ten words in topics seven and eleven are almost all dialect words.](/assets/img/v02/tilton/figure3.png)
+![Graph of topic model with sixteen topics. The top ten words in topics seven and eleven are almost all dialect words.]({{site.url}}/assets/img/v02/tilton/figure3.png)
 {% endfigure %}
 
 Topic modeling, which identifies themes and discourses in the
@@ -188,7 +188,7 @@ led by black interviewers.
 interviewer. Topics with a significant number of dialect words are much
 more likely to be found in white interviewers' life histories as
 compared to black interviewers' life histories." %}
-![Bar graph showing number of documents, by topic and race of interviewer. Black interviewers are represented by red bars, while white interviewers are represented by blue bars.](/assets/img/v02/tilton/figure4.png)
+![Bar graph showing number of documents, by topic and race of interviewer. Black interviewers are represented by red bars, while white interviewers are represented by blue bars.]({{site.url}}/assets/img/v02/tilton/figure4.png)
 {% endfigure %}
 
 The call for a "negro dialect" served two purposes, Stewart argues.
@@ -250,13 +250,13 @@ interest.
 Dialect words were also common in the Southern Life Histories Project, a
 Federal Writers' Project life histories project that occurred at the
 same time as the Ex-Slave Narratives project." %}
-![Bar graph showing the top fifty words indicative of dialect in the Southern Life Histories Project. The top five words are "wuz", "workin", "jes", "dere", and "mornin."](/assets/img/v02/tilton/figure5.png)
+![Bar graph showing the top fifty words indicative of dialect in the Southern Life Histories Project. The top five words are "wuz", "workin", "jes", "dere", and "mornin."]({{site.url}}/assets/img/v02/tilton/figure5.png)
 {% endfigure %}
 
 {% figure caption: "Figure 6. Dialect frequency (occurrences per 1000 words) by race of
 interviewee, with 95% confidence intervals. Dialect words were used more
 frequently in interviews with black Americans." %}
-![Graph showing the dialect frequency for a black interviewee ranged from approximately five and a half to seven and a half occurrences per one thousand words, while the dialect frequency for a white interviewee ranged from approximately two and a half to thee per one thousand words.](/assets/img/v02/tilton/figure6.png)
+![Graph showing the dialect frequency for a black interviewee ranged from approximately five and a half to seven and a half occurrences per one thousand words, while the dialect frequency for a white interviewee ranged from approximately two and a half to thee per one thousand words.]({{site.url}}/assets/img/v02/tilton/figure6.png)
 {% endfigure %}
 
 Text analysis reveals that dialect was also prevalent in the Southern

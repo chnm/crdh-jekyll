@@ -197,7 +197,7 @@ Short. It privileges user-driven "exploration" in the Storyline View
 
 {% figure caption: "Figure 1. The StoryLine View invites users to follow topical threads
 running through the curated collection of 75 Jefferson-Short letters, with contextual framing throughout." %}
-![A screenshot of the Story Line view of the "Notes on the Future of Virginia: The Jefferson---Short Letters" website.](/assets/img/v01/french/storylineview.png)
+![A screenshot of the Story Line view of the "Notes on the Future of Virginia: The Jefferson---Short Letters" website.]({{site.url}}/assets/img/v01/french/storylineview.png)
 {% endfigure %}
 
 In the StoryLine view users can isolate topical threads---slave labor,
@@ -210,7 +210,7 @@ of contents, links to a scanned image of letter and full text
 transcription (if available), and relevant excerpts with ellipses.
 
 {% figure caption: "Figure 2. The Discourse View favors author-driven “argument” over user-driven “exploration.” It features introductory essays and annotated excerpts from the selected letters---organized chronologically, thematically, and geospatially" %}
-![A screenshot from the Discourse view of the "Notes on the Future of Virginia: The Jefferson---Short Letters" website, which features a map of the Atlantic in the background, informational text, and a portrait of William Short.](/assets/img/v01/french/discourseview.png)
+![A screenshot from the Discourse view of the "Notes on the Future of Virginia: The Jefferson---Short Letters" website, which features a map of the Atlantic in the background, informational text, and a portrait of William Short.]({{site.url}}/assets/img/v01/french/discourseview.png)
 {% endfigure %}
 
 The Discourse View (figure 2) highlights the geospatial dimensions of

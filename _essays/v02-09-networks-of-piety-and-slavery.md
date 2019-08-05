@@ -112,7 +112,7 @@ than 10 people. For six enslavers, we have not been able to identify the
 precise number of people they held in slavery.
 
 {% figure caption: "Figure 2. Total number of enslaved people held by 66 Catholic Bible subscribers in our sample, grouped together by the size of the slaveholders' households/plantations. The households are divided into categories by the number of people they held in slavery in an ascending order from left to right." %}
-![Bar graph that shows the total number of enslaved people in households, grouped by size.](/assets/img/v02/bohlmann/figure2.png)
+![Bar graph that shows the total number of enslaved people in households, grouped by size.]({{site.url}}/assets/img/v02/bohlmann/figure2.png)
 {% endfigure %}
 
 An [initial impression](https://nd-cds.shinyapps.io/BadinApp/) of the

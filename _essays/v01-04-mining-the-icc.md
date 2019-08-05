@@ -119,7 +119,7 @@ multiplied damages by interest rates over time. Three topics matched
 this typical ICC claims process:
 
 {% figure caption: "Figure 1. Several topics match phases of a typical ICC lands claim case and when it occurred in the ICC’s lifespan from earliest to latest (left to right). I labeled each topic based on the top words (sized by weight within the topic). Distribution shows topic strength within ICC decisions from first to last. " %}
-![A series of word clouds and graphs showing the top words and topic strength within ICC decisions.](/assets/img/v01/jones/case-phases.jpg)
+![A series of word clouds and graphs showing the top words and topic strength within ICC decisions.]({{site.url}}/assets/img/v01/jones/case-phases.jpg)
 {% endfigure %}
 
 As central components of many ICC cases, these topics are expected. This
@@ -157,7 +157,7 @@ This 85-page decision listed the exact ways in which the United States
 would conduct an accounting of the tribe's money.[^18]
 
 {% figure caption: "Figure 2. The 'Acounting' Topic, a key part of Verdeja’s Political Reconciliation framework, peaks around decision 2000 in 1974. This follows the appointment of the Commission’s first indigenous member and increased activism in Indian Country. The United States is entrusted with the care of each tribes’ money and resources. It is literally a “trust” relationship and the bedrock of the Federal-Indian relationship. Thus, accounting represents a significant step in reconciling Federal obligations to Indian Country." %}
-![alt-text](/assets/img/v01/jones/accounting-topic.jpg)
+![alt-text]({{site.url}}/assets/img/v01/jones/accounting-topic.jpg)
 {% endfigure %}
 
 The highly technical acts of the Indian Claims Commission contrast with

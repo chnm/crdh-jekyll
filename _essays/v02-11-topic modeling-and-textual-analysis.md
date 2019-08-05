@@ -203,14 +203,14 @@ graph also shows that until about 1871, “other sciences” were
 significantly higher than geology. Also, in 1871 “other sciences”
 decline precipitously and geological topics increase and overtake “other
 sciences.”" %}
-![Line graph charting the change over time in the number of topics in six categories: Geology, Chemistry, Physics, Theory, News, and Other Sciences.](/assets/img/v02/martin/figure1.jpg)
+![Line graph charting the change over time in the number of topics in six categories: Geology, Chemistry, Physics, Theory, News, and Other Sciences.]({{site.url}}/assets/img/v02/martin/figure1.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 2. This chart shows the percentage of topics over time in PAAS. This
 graph illustrates PAAAS' publication of theory more clearly. Within
 PAAAS theory is never less than 10% and often represents more than 20%
 of topics within particular years." %}
-![Graph showing the percentage of topics in the *Proceedings of the American Association for the Advancement of Science* between eighteen forty-eight and nineteen fourteen. Theory is especially prevalent.](/assets/img/v02/martin/figure2.jpg)
+![Graph showing the percentage of topics in the *Proceedings of the American Association for the Advancement of Science* between eighteen forty-eight and nineteen fourteen. Theory is especially prevalent.]({{site.url}}/assets/img/v02/martin/figure2.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 3. This line graph shows the percentage of topics on business and theory over time in JACS. Such topics were consistently a small number of topics in
@@ -218,7 +218,7 @@ any given year (less than 20% of all topics). Nonetheless, the
 unexpected topics doubled during the tenure of one particular editor in
 the years 1890--1892, from 10% to 20% of topics, and that increase
 stayed consistent until the end of the dataset in 1922." %}
-![Line graph showing the percentage of topics on business and theory over time in *Journal of the American Chemical Society* between eighteen nineteen and nineteen twenty-two.](/assets/img/v02/martin/figure3.jpg)
+![Line graph showing the percentage of topics on business and theory over time in *Journal of the American Chemical Society* between eighteen nineteen and nineteen twenty-two.]({{site.url}}/assets/img/v02/martin/figure3.jpg)
 {% endfigure %}
 
 ### Conclusion

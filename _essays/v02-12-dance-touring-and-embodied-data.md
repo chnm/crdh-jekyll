@@ -147,7 +147,7 @@ It facilitates comparisons across cities by compressing a large span of
 time and global travel into a visually comprehensible chart.
 
 {% figure caption: "Figure 2. Timeline for cities in which Dunham stayed over 10 days cumulatively, 1950-53. This shows the same data of stays and returns in key locations plotted chronologically, while grouping the "other cities" into a single category below. Data: Harmony Bench and Kate Elswit;Visualization: Antonio Jiménez Mavillard." %}
-![Graph showing the number of nights Dunham stayed in particular cities such as Paris, Los Angles, Port-au-Prince, London, Buenos Aires, Rome, New York City, and Rio de Janeiro during the years nineteen fifty to nineteen fifty-three.](/assets/img/v02/bench/figure2.png)
+![Graph showing the number of nights Dunham stayed in particular cities such as Paris, Los Angles, Port-au-Prince, London, Buenos Aires, Rome, New York City, and Rio de Janeiro during the years nineteen fifty to nineteen fifty-three.]({{site.url}}/assets/img/v02/bench/figure2.png)
 {% endfigure %}
 
 Looking at figures 1 and 2, we see that Dunham's patterns of travel
@@ -196,7 +196,7 @@ to 14 nights, with a maximum normal value of 30 nights. Longer stays are
 outliers. The median distribution is a stay of 5 nights, with 31% of her
 stays lasting a single night. Data: Harmony Bench and Kate Elswit;
 Visualization: Antonio Jiménez Mavillard." %}
-![Box plot and bar graph showing the distribution of Dunham’s stay lengths during the years nineteen fifty to nineteen fifty-three.](/assets/img/v02/bench/figure3.png)
+![Box plot and bar graph showing the distribution of Dunham’s stay lengths during the years nineteen fifty to nineteen fifty-three.]({{site.url}}/assets/img/v02/bench/figure3.png)
 {% endfigure %}
 
 The dataset and three visualizations depicted in this short essay engage
