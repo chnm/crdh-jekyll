@@ -168,7 +168,7 @@ ingenious critique of the Bush Administration's response to Katrina:
 > But, due to tragedy looked on by the whole world as a refugee
 > So accept my emotion
 > Do not take it as an offensive gesture
-> It\'s just the epitome of my soul
+> It's just the epitome of my soul
 > And I must be me
 > We got spirit y'all, we got spirit
 > We got soul y'all, we got soul
@@ -180,7 +180,7 @@ Our ongoing project integrates audio, images, and digital mapping in its
 analysis, in order to depict the ways that Southern Black communities
 mobilize against the historical and contemporary struggles of the
 [racial capitalocene](https://www.versobooks.com/blogs/3376-racial-capitalocene)---Françoise Vergès' critical interrogation of the so-called
-Anthropocene. Verges mobilizes Cedric Robinson's concept of racial
+Anthropocene. Vergès mobilizes Cedric Robinson's concept of racial
 capitalism and its attendant challenge to the conceptions of capitalism
 that ignore its originary dependence on racialization to challenge this
 nascent discourse of the Anthropocene, which in broad strokes paints the

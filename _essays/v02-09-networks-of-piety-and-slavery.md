@@ -26,7 +26,7 @@ appendix:
   file: bohlmann-v02/bohlmann-krivulskaya-data.zip
 - name: Code archive
   file: bohlmann-v02/bohlmann-krivulskaya-code.zip
-preview: "/assets/img/v01/bohlmann/preview.png"
+preview: "/assets/img/v02/bohlmann/preview.png"
 ---
 
 When Edward Queen sued his Jesuit enslaver Rev. John Ashton for freedom

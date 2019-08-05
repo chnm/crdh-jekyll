@@ -175,13 +175,15 @@ Black Press, Underground Railroad, and Anti-Slavery Societies." %}
 ![Text](/assets/img/v02/casey/figure2.png)
 {% endfigure %}
 
-Orig. Figures 2-7
-1.  casey-fig-02-pa-cluster-degree-01.png
-2.  casey-fig-03-ne-cluster-degree-01.png
-3.  casey-fig-04-tn-cluster-degree-01.png
-4.  casey-fig-05-ca-cluster-degree-01.png
-5.  casey-fig-06-bs-cluster-degree-01.png
-6.  casey-fig-07-md-cluster-degree-01.png
+{% figure caption: "Figure 3. Network graphs, by region, of the Colored Conventions,
+Black Press, Underground Railroad, and Anti-Slavery Societies." %}
+![Text](/assets/img/v02/casey/figure3.png)
+{% endfigure %}
+
+{% figure caption: "Figure 4. Network graphs, by region, of the Colored Conventions,
+Black Press, Underground Railroad, and Anti-Slavery Societies." %}
+![Text](/assets/img/v02/casey/figure4.png)
+{% endfigure %}
 
 These collective relationships become clearer with a view focused on the
 people who created links across each of the four arenas. By filtering
@@ -199,17 +201,17 @@ bridged multiple communities are revealed as cross-communal brokers that
 constitute a starting point for future research on multi-modal activism
 and organizing.
 
-{% figure caption: "Figure 3. Regional clusters filtered to show entities with 2+ links." %}
-![Text](/assets/img/v02/casey/figure3.png)
+{% figure caption: "Figure 5. Regional clusters filtered to show entities with 2+ links." %}
+![Text](/assets/img/v02/casey/figure5.png)
 {% endfigure %}
 
-Orig. Figures 8-13
-1.  casey-fig-08-pa-cluster-degree-02.png
-2.  casey-fig-09-ne-cluster-degree-02.png
-3.  casey-fig-10-tn-cluster-degree-02.png
-4.  casey-fig-11-ca-cluster-degree-02.png
-5.  casey-fig-12-bs-cluster-degree-02.png
-6.  casey-fig-13-md-cluster-degree-02.png
+{% figure caption: "Figure 6. Regional clusters filtered to show entities with 2+ links." %}
+![Text](/assets/img/v02/casey/figure6.png)
+{% endfigure %}
+
+{% figure caption: "Figure 7. Regional clusters filtered to show entities with 2+ links." %}
+![Text](/assets/img/v02/casey/figure7.png)
+{% endfigure %}
 
 When the graphs are filtered to show only entities with three or more
 links, the resulting views (figure 4) show how marginal the
@@ -233,16 +235,17 @@ well-known Black leaders, newspapers, and national conventions from the
 simultaneous rise of Black conventions and newspapers adjacent to or
 separate from Underground Railroad or anti-slavery organizations.
 
-{% figure caption: "Figure 4. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text](/assets/img/v02/casey/figure4.png)
+{% figure caption: "Figure 8. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
+![Text](/assets/img/v02/casey/figure8.png)
 {% endfigure %}
 
-Orig. Figures 14-19
-1.  casey-fig-14-pa-cluster-degree-03.png
-2.  casey-fig-15-ne-cluster-degree-03.png
-3.  casey-fig-16-tn-cluster-degree-03.png
-4.  casey-fig-17-ca-cluster-degree-03.png
-5.  casey-fig-18-bs-cluster-degree-03.png
+{% figure caption: "Figure 9. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
+![Text](/assets/img/v02/casey/figure9.png)
+{% endfigure %}
+
+{% figure caption: "Figure 10. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
+![Text](/assets/img/v02/casey/figure10.png)
+{% endfigure %}
 
 Ultimately, the six communities described in this paper are not
 identical. Recognition of these regional differences pushes against
