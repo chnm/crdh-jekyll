@@ -19,10 +19,10 @@ deploy-production : build
 	bundle exec jekyll build --config _config.yml,_config-production.yml
 	@echo "Deploying to server ..."
 	rsync --checksum --delete --exclude appendices/ --exclude dev/ -avz \
-		_site/* athena:/websites/crdh/www/
+		_site/* kaizen:/websites/crdh/www/ --dry-run
 
 appendices :
 	rsync --checksum -avz ../crdh-appendices/* \
-	 athena:/websites/crdh/www/appendices 
+	 kaizen:/websites/crdh/www/appendices --dry-run
 
 .PHONY: preview deploy appendices
