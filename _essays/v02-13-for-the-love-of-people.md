@@ -47,7 +47,7 @@ Despite the resurgence of historical work on black politics and art in the 1970s
 
 Rainbow Sign opens onto another front of black women's activism in the age of Black Power---a front led by professionally successful black women, of a slightly older generation, who sought at once to elevate black culture, transform American politics, and provide mentorship to younger artists so that, rather than scuffling forever, they might build a career of art-making.[^11] In the Rainbow Sign, older strains of respectability politics were synthesized with an embrace of grassroots Black Nationalist organizing and Afrocentric aesthetics. We might see this fusion in the aesthetic of Rainbow Sign's promotional materials: for the club's opening, guests were "soulfully invited" to the event by an image of a dapper black man in turn-of-the-century coat, tie, and high collar. The club's motto was "for the love of people"---not "for the love of *the* people" (which might contrast "the people" with "the elites," in the manner that the Black Panther Party elevated "the lumpen"), and not "for the love of black people" (which would have underlined the center's orientation toward the black community). With "for the love of people," Rainbow Sign intimated that its founding principle was an all-accepting ethos of care and love.[^12]
 
-{% figure caption: "Figure 2. "Invitation to the Opening of Rainbow Sign*," Aug. 1971. *Courtesy of Odette Pollar*." %}
+{% figure caption: "Figure 2. “Invitation to the Opening of Rainbow Sign,” Aug. 1971. *Courtesy of Odette Pollar*." %}
 ![Invitation for the opening of Rainbow Sign, featuring the image of a dapper black man in turn-of-the-century coat, tie, and high collar. The invitation reads: "You are soulfully invited to attend the opening of The Rainbow Sign. A Membership Club at 2640 Grove Street, Berkeley, California on August 21 and 22, 1971, from 11am to 7pm."]({{site.url}}/assets/img/v02/saul/figure2.jpg)
 {% endfigure %}
 
@@ -104,7 +104,7 @@ to put pressure on the relation between evidence and argument.[^19]
 ![Screenshot of the homepage of the Rainbow Sign project.]({{site.url}}/assets/img/v02/saul/figure4.png)
 {% endfigure %}
 
-{% figure caption: "Figure 5. An example of an annotated document: ["Photographs of a Dance Class at Rainbow Sign"](http://revolution.berkeley.edu/photograph-dance-class/?cat=437&subcat=5)." %}
+{% figure caption: "Figure 5. An example of an annotated document: [“Photographs of a Dance Class at Rainbow Sign.”](http://revolution.berkeley.edu/photograph-dance-class/?cat=437&subcat=5)" %}
 ![Screenshot showing one of the annotated sources used in the Rainbow Sign project. This page features a photograph and text about dance classes that took place at Rainbow Sign.]({{site.url}}/assets/img/v02/saul/figure5.png)
 {% endfigure %}
 

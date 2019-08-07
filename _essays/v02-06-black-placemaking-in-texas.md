@@ -253,13 +253,13 @@ settlement’s cemetery maintenance for the year." %}
 
 {% figure caption: "Figure 6. The Pleasant Hill Homecoming Celebration program (2015) lists guest churches and communities associated with communities not otherwise designated as significant or historic. Freedom colonies are often only recognized and remembered during the two-day events in
 which music and memories about settlements are shared among decedents, extended family, and church family." %}
-![Photograph of paper program from the 2015 Pleasant Hill Homecoming Celebration, listing names of participating choirs and individuals.]({{site.url}}/assets/img/v02/roberts/figure4.jpg){% endfigure %}
+![Photograph of paper program from the 2015 Pleasant Hill Homecoming Celebration, listing names of participating choirs and individuals.]({{site.url}}/assets/img/v02/roberts/figure6.jpg){% endfigure %}
 
 The research process solidifies the argument that embracing creative and
 performative assemblage, orality, and memory was required to map the
 balance of the unknown FCs. This initial mapping exercise gave birth to
 the statewide mapping project. The current digital humanities platforms
-holding data---a [Blogger.com website]<http://www.thetexasfreedomcoloniesproject.com/> and [ArcGIS Survey]<https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f>---enable
+holding data---a [Blogger.com website](http://www.thetexasfreedomcoloniesproject.com/) and [ArcGIS Survey](https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f)---enable
 educators, researchers, and descendant communities to demonstrate across
 disciplines and outside academia, the historical significance of FC, and
 facilitate re-envisioning citizen participation, mapping, and
@@ -268,8 +268,8 @@ it is embedded collects resident memories, photos, and calendar. Now,
 357 of 557 FCs have been mapped, with 322 FC located using publicly
 available data.
 
-{% figure caption: "Figure 7. The [Texas Freedom Colony Atlas]<https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f> and Survey allows for spatialization of varied forms of place data alongside the authorized heritage data which helps substantiate the existence of a historically significant place. The interactive atlas’ allows for uploading of stories, documents, photos, and memories of place along with calendars of events associated with the freedom colony. All visitors are invited to add to a separate layer, “new” or unknown freedom colonies." %}
-![Screenshot of the Texas Freedom Colony Atlas, showing a map of Texas, with blue dots that represent the locations of identified freedom colonies]({{site.url}}/assets/img/v02/roberts/figure4.jpg){% endfigure %}
+{% figure caption: "Figure 7. The [Texas Freedom Colony Atlas](https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f) and Survey allows for spatialization of varied forms of place data alongside the authorized heritage data which helps substantiate the existence of a historically significant place. The interactive atlas’ allows for uploading of stories, documents, photos, and memories of place along with calendars of events associated with the freedom colony. All visitors are invited to add to a separate layer, “new” or unknown freedom colonies." %}
+![Screenshot of the Texas Freedom Colony Atlas, showing a map of Texas, with blue dots that represent the locations of identified freedom colonies]({{site.url}}/assets/img/v02/roberts/figure7.png){% endfigure %}
 
 Historic preservation standards around what defines place and historical
 significance obscure the disappearing heritage of FCs, particularly in
