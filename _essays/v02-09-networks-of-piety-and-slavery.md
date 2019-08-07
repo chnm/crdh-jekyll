@@ -61,13 +61,21 @@ are preliminary, as some subscribers do not appear in census or archival
 records and remain unverified.
 
 <figure>
-<iframe src="https://nd-cds.shinyapps.io/BadinApp/?display=LocationAccuracy" width="100%" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://nd-cds.shinyapps.io/BadinApp/?side=yes" width="100%" height="680" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <figcaption>Figure 1. Locations of Catholic Bible Subscribers in Rural Maryland in
-1790. The Enslavers display color codes locations of subscribers who are
+1790. Use the left side bar to toggle between two different types of maps. The “Enslavers” display color codes locations of subscribers who are
 confirmed slave owners (with points sized to indicate number of slaves
-held) and those who remain unconfirmed. The Location Accuracy display
+held) and those who remain unconfirmed. The “Location Accuracy” display
 uses colored shapes to indicate the level of specificity for each
 subscriber's location.</figcaption>
+</figure>
+
+<figure>
+<iframe src="https://nd-cds.shinyapps.io/BadinApp/?side=no" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<figcaption>Figure 1. Locations of Catholic Bible Subscribers in Rural Maryland in
+1790. This map displays locations of subscribers who are
+confirmed slave owners (with points sized to indicate number of slaves
+held) and those who remain unconfirmed.</figcaption>
 </figure>
 
 Several patterns stand out in both the general numbers and the more
