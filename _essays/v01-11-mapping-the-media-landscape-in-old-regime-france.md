@@ -162,7 +162,7 @@ citation style. For example, the *Affiches de Toulouse* published
 readers' responses to content from the *Mercure de France* and the
 *affiches* published in Orléans. The *Affiches du Dauphiné* from
 Grenoble cited the *Gazette de France* and the *Gazette des Tribunaux*." %}
-![Network graph showing connections between affiches published in France, periodicals published in France, and periodicals published abroad.](/assets/img/v01/bond/network.jpg)
+![Network graph showing connections between affiches published in France, periodicals published in France, and periodicals published abroad.]({{site.url}}/assets/img/v01/bond/network.jpg)
 {% endfigure %}
 
 Such literary and political publications were central in readers'

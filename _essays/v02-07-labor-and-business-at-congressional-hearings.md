@@ -118,7 +118,7 @@ hearings related to work, jobs, labor and related topics.[^10] In two
 notable ways, the figure reveals the significance of electoral politics.
 
 {% figure caption: "Figure 1. This graph shows how the representation of different witness groups at Congressional hearings has shifted over time, as percentage of all witnesses that year. Note especially the bulge of labor witnesses at mid-century and the very high proportion of witnesses representing political parties and the (federal) bureaucracy." %}
-![Line graph showing the representation of different groups at congressional hearings from eighteen seventy-eight to nineteen ninety.](/assets/img/v02/hulden/figure1.png)
+![Line graph showing the representation of different groups at congressional hearings from eighteen seventy-eight to nineteen ninety.]({{site.url}}/assets/img/v02/hulden/figure1.png)
 {% endfigure %}
 
 First, the sustained heavy presence of witnesses from party and
@@ -172,7 +172,7 @@ relations, and jobs---all matters of import to working people---a more
 complex picture emerges, as seen in figure 2.[^15]
 
 {% figure caption: "Figure 2. The top Congressional committees considering work and related matters, as measured by number of testimonies at hearings related to such matters, 1877--1990. The size of the bubbles indicates weight of testimony at that committee as percentage of all testimony that year, thus giving a visual representation of which committees became focal points in different years for matters related to work." %}
-![Bubble chart showing the top congressional committees considering work and related matters  from eighteen seventy-eight to nineteen ninety.](/assets/img/v02/hulden/figure2.png)
+![Bubble chart showing the top congressional committees considering work and related matters  from eighteen seventy-eight to nineteen ninety.]({{site.url}}/assets/img/v02/hulden/figure2.png)
 {% endfigure %}
 
 One pattern in this figure is the shift from sporadic hearings clearly
@@ -213,7 +213,7 @@ represented at times, particularly in the 1940s and 1950s (see figure
 3.)
 
 {% figure caption: "Figure 3. This figure shows the shifts in representation of companies and trade associations vs. labor unions at the Ways and Means Committee (House), as percentage of identified testimony, 1884--1990. Note that although both fluctuate quite significantly, the years in which labor witnesses equal or outweigh business witnesses are very few." %}
-![Line graph showing representation of companies and trade associations vs. labor unions at the Ways and Means Committee from eighteen eighty-eight to nineteen ninety.](/assets/img/v02/hulden/figure3.png)
+![Line graph showing representation of companies and trade associations vs. labor unions at the Ways and Means Committee from eighteen eighty-eight to nineteen ninety.]({{site.url}}/assets/img/v02/hulden/figure3.png)
 {% endfigure %}
 
 On the other hand, a closer examination of labor testimony at the Ways
@@ -235,7 +235,7 @@ organizations, activists, and political actors reinforced and fed off of
 each other and shaped the political climate.[^20]
 
 {% figure caption: "Figure 4. This graph displays how business and labor testimony was distributed at different hearings held by the House Ways and Means Committee. It focuses on labor testimony, showing the top 30 hearings by number of labor testimonies. Even so, business dominates at several hearings. On the other hand, this graph gives an idea of the topics of particular concern to labor." %}
-![Chart showing how business and labor testimony was distributed at different hearings held by the House Ways and Means Committee from the nineteen thirties to the nineteen eighties.](/assets/img/v02/hulden/figure4.png)
+![Chart showing how business and labor testimony was distributed at different hearings held by the House Ways and Means Committee from the nineteen thirties to the nineteen eighties.]({{site.url}}/assets/img/v02/hulden/figure4.png)
 {% endfigure %}
 
 ### Discussion

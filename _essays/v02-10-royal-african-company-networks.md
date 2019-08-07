@@ -104,11 +104,11 @@ though enslaved people did not overtake gold as the major export from
 the coast until the 1720s.[^9]
 
 {% figure caption: "Figure 1. This map at the scale of the coast of Western Africa illustrates the density of correspondences of the Royal African Company. Line weight corresponds to the volume of correspondences sent to each post." %}
-![Map showing the density of correspondences of the Royal African Company.](/assets/img/v02/ruderman/figure1.jpg)
+![Map showing the density of correspondences of the Royal African Company.]({{site.url}}/assets/img/v02/ruderman/figure1.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 2. This map illustrates the density of ships “In the Road”---ships stationed one to two miles from shore---for the year 1683. Evident is heavy activity near Sekondi, between Alampo and Amersa, and between Accra and Christiansborg." %}
-![Map of ships in the road.](/assets/img/v02/ruderman/figure2.jpg)
+![Map of ships in the road.]({{site.url}}/assets/img/v02/ruderman/figure2.jpg)
 {% endfigure %}
 
 We approached the corpus through three main types of textual analysis:
@@ -176,27 +176,27 @@ RAC fort factors were pushing up against the limit of what was possible
 from their positions on the coast.[^15]
 
 {% figure caption: "Figure 3. A ranked list of the most frequently used words in the corpus. Note the frequency of communicative words, and the presence of the frustration word, “cannot”. The relative high frequency of the word “Dutch” reveals them to be a preoccupation." %}
-![A list of the most frequently used words in the Royal African Company corpus.](/assets/img/v02/ruderman/figure3.jpg)
+![A list of the most frequently used words in the Royal African Company corpus.]({{site.url}}/assets/img/v02/ruderman/figure3.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 4. This map illustrates the percentage of correspondences per fort that include the words “Slaves” and “Canoe.” There appears to be greater overlap between correspondences featuring these two words than the singular “Slave” and “Canoe.”" %}
-![Map showing correspondence including the words "Slaves" and "Canoe."](/assets/img/v02/ruderman/keyword-slaves-canoe.jpg)
+![Map showing correspondence including the words "Slaves" and "Canoe."]({{site.url}}/assets/img/v02/ruderman/keyword-slaves-canoe.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 5. This map illustrates the percentage of correspondences per fort that include the words “Slave” and “Canoe.” There is some, though not considerable, overlap between correspondences featuring these two words." %}
-![Map showing correspondence including the words "Slave" and "Canoe."](/assets/img/v02/ruderman/keyword-slave-canoe.jpg)
+![Map showing correspondence including the words "Slave" and "Canoe."]({{site.url}}/assets/img/v02/ruderman/keyword-slave-canoe.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 6. This map illustrates the percentage of correspondences per fort that include the word “Dutch.” Letters to Butterue and Cape Apollonia heavily feature this term." %}
-![Map showing correspondence including the word "Dutch."](/assets/img/v02/ruderman/keyword-dutch.jpg)
+![Map showing correspondence including the word "Dutch."]({{site.url}}/assets/img/v02/ruderman/keyword-dutch.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 7. This map illustrates the percentage of correspondences per fort that include the word “Gold.” Letters to Butterue, Axim, and Christiansborg heavily feature this term." %}
-![Map showing correspondence including the word "Gold."](/assets/img/v02/ruderman/keyword-gold.jpg)
+![Map showing correspondence including the word "Gold."]({{site.url}}/assets/img/v02/ruderman/keyword-gold.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 8. This map illustrates the percentage of correspondences per fort that include the word “Woman” or “Women.” Letters to Kpone and Teshi heavily feature this term." %}
-![Map showing correspondence including the word "Woman" or "Women."](/assets/img/v02/ruderman/keyword-woman.jpg)
+![Map showing correspondence including the word "Woman" or "Women."]({{site.url}}/assets/img/v02/ruderman/keyword-woman.jpg)
 {% endfigure %}
 
 Analyzing word frequency by different dimensions---place, sender, year
@@ -216,15 +216,15 @@ throughout the rest of the year, while "slave" rose between February
 and April and then stayed at more or less a continuous level.[^16]
 
 {% figure caption: "Figure 9. A basic count of the words “pirate” and “pirates” by location, reveals pirates to be a concern towards the western edge of the company's fort structure. The prevailing eastward current means that ships approaching the companies string of forts would come from the West." %}
-![Bar graph showing a word count of the terms “pirate” and “pirates” by location.](/assets/img/v02/ruderman/figure9.png)
+![Bar graph showing a word count of the terms “pirate” and “pirates” by location.]({{site.url}}/assets/img/v02/ruderman/figure9.png)
 {% endfigure %}
 
 {% figure caption: "Figure 10. Correspondence from ships, whether coasting or transatlantic vessels discussed pirates more often in relative terms, than did correspondence from forts." %}
-![Bar graph showing the percentage of letters mentioning “pirate” and “pirates” by boat or fort.](/assets/img/v02/ruderman/figure10.png)
+![Bar graph showing the percentage of letters mentioning “pirate” and “pirates” by boat or fort.]({{site.url}}/assets/img/v02/ruderman/figure10.png)
 {% endfigure %}
 
 {% figure caption: "Figure 11. Different search terms evidenced strikingly different seasonal patterns." %}
-![Four line graphs compare the different seasonal patterns between the terms “pirate”/“pirates”; “corn”; “slave”; and “slaves.”](/assets/img/v02/ruderman/figure11.png)
+![Four line graphs compare the different seasonal patterns between the terms “pirate”/“pirates”; “corn”; “slave”; and “slaves.”]({{site.url}}/assets/img/v02/ruderman/figure11.png)
 {% endfigure %}
 
 How words relate to one another is as significant as how they appear in
@@ -242,7 +242,7 @@ includes nautical, geographic and competitive terms: ashore, windward,
 French, Dutch, interloper, aboard, road, ship, coast.
 
 {% figure caption: "Figure 12. Word embeddings done via Word-2-Vec show distinct clusters of words around different themes." %}
-![Visualization created with Word-2-Vec showing five distinct word clusters.](/assets/img/v02/ruderman/figure12.jpg)
+![Visualization created with Word-2-Vec showing five distinct word clusters.]({{site.url}}/assets/img/v02/ruderman/figure12.jpg)
 {% endfigure %}
 
 Our final method of analysis, co-occurrence, traced associations between
@@ -267,7 +267,7 @@ exchanged these goods at the same time, but rather individually and
 sequentially.[^19]
 
 {% figure caption: "Figure 13. A Co-Occurrence analysis, tracking the appearance of pairs of words on a per-letter basis, reveals a lack of predictability among trade goods. The presence of one trade good in a letter does not predict the presence of other trade goods." %}
-![List of co-occurrence analysis](/assets/img/v02/ruderman/figure13.jpg)
+![List of co-occurrence analysis]({{site.url}}/assets/img/v02/ruderman/figure13.jpg)
 {% endfigure %}
 
 Ultimately we want to ask four different types of questions of the

@@ -84,7 +84,7 @@ Bros. workforce and incorporates brief biographies of each of the staff
 members found in the Census data.[^6] 
 
 {% figure caption: "Figure 1. Map of Worker Moblity in New York City. The red dots represent workers' locations in 1900. The green dots represent workers' locations in 1910. " %}
-![A map of New York City, showing the location of workers in the years nineteen hundred and nineteen hundred and ten](/assets/img/v01/pertilla/map.jpg)
+![A map of New York City, showing the location of workers in the years nineteen hundred and nineteen hundred and ten]({{site.url}}/assets/img/v01/pertilla/map.jpg)
 {% endfigure %}
 
 Understanding women workers' role in this process has been particularly

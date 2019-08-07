@@ -219,7 +219,7 @@ Glover, perished because of the fire, but this was not the result of a
 lynching mob.
 
 {% figure caption: "Figure 2. *Staunton Spectator*, December 27, 1881, p. 2." %}
-![Image of newspaper article from the Staunton Spectator](/assets/img/v02/defazio/figure2.png)
+![Image of newspaper article from the Staunton Spectator]({{site.url}}/assets/img/v02/defazio/figure2.png)
 {% endfigure %}
 
 While there were rumors of a possible lynching for the perpetrators of
@@ -231,7 +231,7 @@ brother-in-law George Lowry (also white) were accused of robbery and
 attempting an outrage on a young white woman.
 
 {% figure caption: "Figure 3. *Daily Dispatch* (Richmond), October 9, 1880, p. 3." %}
-![Image of newspaper article from the Richmond Daily Dispatch](/assets/img/v02/defazio/figure3.png)
+![Image of newspaper article from the Richmond Daily Dispatch]({{site.url}}/assets/img/v02/defazio/figure3.png)
 {% endfigure %}
 
 After their arrest, a mob seized [Lowry](http://sites.jmu.edu/valynchings/va1880100801/)
@@ -242,7 +242,7 @@ lynched Lowry and spared the young Thomas. A few months later, Thomas
 was tried and sentenced to six years in prison for robbery.
 
 {% figure caption: "Figure 4. *Daily Dispatch* (Richmond), January 7, 1881, p. 2." %}
-![Image of newspaper article from the Richmond Daily Dispatch](/assets/img/v02/defazio/figure4.png)
+![Image of newspaper article from the Richmond Daily Dispatch]({{site.url}}/assets/img/v02/defazio/figure4.png)
 {% endfigure %}
 
 Two white men, [Evan Griffith](http://sites.jmu.edu/valynchings/va1883012201/)
@@ -252,7 +252,7 @@ Russell County on January 22nd, 1883, as per the Beck-Tolnay inventory.
 The *Alexandria Gazette* partially confirmed this story on January 25th.
 
 {% figure caption: "Figure 5. *Alexandria Gazette*, January 25, 1883, p. 2." %}
-![Image of newspaper article from the Alexandria Gazette](/assets/img/v02/defazio/figure5.png)
+![Image of newspaper article from the Alexandria Gazette]({{site.url}}/assets/img/v02/defazio/figure5.png)
 {% endfigure %}
 
 However, a few days later, both the [*Daily Dispatch*](http://sites.jmu.edu/valynchings/files/2018/03/Daily-Dispatch_01-26-1883_1__Did-Not-Occur_Evan-Griffith_Russell_CLIP.jpg) and the [*Shenandoah Herald*](http://sites.jmu.edu/valynchings/files/2018/03/Shendandoah-Herald_01-31-1883_1__Did-Not-Occur_-Evan-Griffith_Russell_CLIP.jpg)
@@ -278,7 +278,7 @@ arrested, and it is unknown if any legal action was taken afterwards
 against the lynchers.
 
 {% figure caption: "Figure 6. *Shenandoah Herald*, February 25, 1880, p. 2." %}
-![Image of newspaper article from the Shenandoah Herald](/assets/img/v02/defazio/figure6.png)
+![Image of newspaper article from the Shenandoah Herald]({{site.url}}/assets/img/v02/defazio/figure6.png)
 {% endfigure %}
 
 Thanks to this new research based on local newspapers, the revised

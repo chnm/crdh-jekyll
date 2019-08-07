@@ -141,7 +141,7 @@ network of these dyads, when a basic modularity algorithm is applied,
 reveals the following six groupings: 1. Pennsylvania Conventions, 2. Border State Conventions, 3. California Conventions, 4. A Maryland Convention, 5. Northeastern Conventions, and 6. Transnational Conventions (see figure 1).[^9]
 
 {% figure caption: "Figure 1. Antebellum state and national conventions in 6 groups, by shared attendance." %}
-![Text](/assets/img/v02/casey/figure1.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure1.png)
 {% endfigure %}
 
 Figure two shows a comparison of the six regional
@@ -172,17 +172,17 @@ fostered different kinds of relationships with AS and UGRR groups.
 
 {% figure caption: "Figure 2. Network graphs, by region, of the Colored Conventions,
 Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text](/assets/img/v02/casey/figure2.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure2.png)
 {% endfigure %}
 
 {% figure caption: "Figure 3. Network graphs, by region, of the Colored Conventions,
 Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text](/assets/img/v02/casey/figure3.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure3.png)
 {% endfigure %}
 
 {% figure caption: "Figure 4. Network graphs, by region, of the Colored Conventions,
 Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text](/assets/img/v02/casey/figure4.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure4.png)
 {% endfigure %}
 
 These collective relationships become clearer with a view focused on the
@@ -202,15 +202,15 @@ constitute a starting point for future research on multi-modal activism
 and organizing.
 
 {% figure caption: "Figure 5. Regional clusters filtered to show entities with 2+ links." %}
-![Text](/assets/img/v02/casey/figure5.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure5.png)
 {% endfigure %}
 
 {% figure caption: "Figure 6. Regional clusters filtered to show entities with 2+ links." %}
-![Text](/assets/img/v02/casey/figure6.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure6.png)
 {% endfigure %}
 
 {% figure caption: "Figure 7. Regional clusters filtered to show entities with 2+ links." %}
-![Text](/assets/img/v02/casey/figure7.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure7.png)
 {% endfigure %}
 
 When the graphs are filtered to show only entities with three or more
@@ -236,15 +236,15 @@ simultaneous rise of Black conventions and newspapers adjacent to or
 separate from Underground Railroad or anti-slavery organizations.
 
 {% figure caption: "Figure 8. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text](/assets/img/v02/casey/figure8.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure8.png)
 {% endfigure %}
 
 {% figure caption: "Figure 9. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text](/assets/img/v02/casey/figure9.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure9.png)
 {% endfigure %}
 
 {% figure caption: "Figure 10. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text](/assets/img/v02/casey/figure10.png)
+![Text]({{site.url}}/assets/img/v02/casey/figure10.png)
 {% endfigure %}
 
 Ultimately, the six communities described in this paper are not

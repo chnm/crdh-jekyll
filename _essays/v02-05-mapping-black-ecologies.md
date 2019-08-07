@@ -121,7 +121,7 @@ along the Mississippi River that has a greater chance of escaping total
 inundation when Hurricanes strike greater New Orleans. That area,
 corresponding with the racial topography of New Orleans, has come to be
 inhabited primarily by whites." %}
-![Map](/assets/img/v02/roane/figure4.png)
+![Map]({{site.url}}/assets/img/v02/roane/figure4.png)
 {% endfigure %}
 
 A willful distortion of reality is required to suggest that Hurricane

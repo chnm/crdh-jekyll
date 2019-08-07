@@ -121,11 +121,11 @@ Ho-Chunk leader.
 
 {% figure caption: "Figure 1. Amateur Archaeologists Sites in northeast Iowa, 1909--1916;
 size of the points indicates the frequency of the site excavated." %}
-![A map showing amateur archaeologists sites in northeast Iowa marked with red dots.](/assets/img/v01/wise/figure1.jpg)
+![A map showing amateur archaeologists sites in northeast Iowa marked with red dots.]({{site.url}}/assets/img/v01/wise/figure1.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 2. Green dots are campsites where Emma camped frequently." %}
-![A map showing campsites where Emma camped frequently, indicated by green dots.](/assets/img/v01/wise/figure2.jpg)
+![A map showing campsites where Emma camped frequently, indicated by green dots.]({{site.url}}/assets/img/v01/wise/figure2.jpg)
 {% endfigure %}
 
 While the only scholarship on Emma Big Bear labels her the "last
@@ -220,7 +220,7 @@ appropriated treaty language.
 
 {% figure caption: "Figure 3. A screenshot of a Voyant visualization created
 using Lyda Conley's corpus. An [interactive version](https://voyant-tools.org/?corpus=61a9d41ae1f126c6a56c6d5290e60ea3) is also available." %}
-![A Voyant visualization created using Lyda Conley's corpus.](/assets/img/v01/wise/figure3.jpg)
+![A Voyant visualization created using Lyda Conley's corpus.]({{site.url}}/assets/img/v01/wise/figure3.jpg)
 {% endfigure %}
 
 In 1910, Lyda Conley traveled to Washington D.C. to argue her case
