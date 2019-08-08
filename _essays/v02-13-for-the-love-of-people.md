@@ -198,119 +198,31 @@ Thompson, Daniela. "Edward F. Niehaus: West Berkeley Stalwart." *Berkeley Archit
 
 ### Notes
 
-The authors wish to thank Max Lopez, Tessa Rissacher's co-author on the original [Rainbow Sign digital history project](http://revolution.berkeley.edu/projects/rainbow-sign),
-whose contributions were essential to our understanding of Rainbow Sign.
-We also wish to thank Suzanne Smith and *CRDH*'s anonymous reviewers,
-whose comments on a draft of this essay helped us tighten its argument
-and expand its scope.
+The authors wish to thank Max Lopez, Tessa Rissacher's co-author on the original [Rainbow Sign digital history project](http://revolution.berkeley.edu/projects/rainbow-sign), whose contributions were essential to our understanding of Rainbow Sign. We also wish to thank Suzanne Smith and the anonymous reviewers at *CRDH*, whose comments on a draft of this essay helped us tighten its argument and expand its scope.
 
-[^1]: The building that Mary Ann Pollar rented to house Rainbow Sign
-had a telling history, as did the immediately surrounding area. 2640
-Grove Street had been built in 1925 as the "Ivory Chapel" of funeral
-director Edward E. Niehaus, likely the son of Edward F. Niehaus, a West
-German immigrant, lumber magnate and Berkeley stalwart. The Niehaus
-mortuary featured a Spanish Colonial Revival design by architect James
-W. Plachek, who also designed important Berkeley civic buildings such as
-the city's Central Library and North Branch Public Library.
-
-In the 1940s, when large numbers of African-Americans were drawn to
-Berkeley because of jobs in East Bay war industries, Grove Street became
-an even sharper boundary separating white and non-white Berkeley, with
-blacks made aware through the 1950s, at least, that they were not
-welcome to buy real estate above Grove Street.
-
-In an important reversal of the process of segregation, it was at a
-storefront office at 2554 Grove Street---less than a block from Rainbow
-Sign's soon-to-be location---that the Berkeley Unified School District
-drew up its 1968 plan to desegregate the city's elementary schools
-through organized busing. (Berkeley remains the only city that
-voluntarily drew up and embraced its own busing plan.) Just afterward,
-this storefront office hosted educational innovator Herb Kohl, who
-devised the paradigmatic "open school" (alternative high school) called Other Ways. Mary Ann Pollar
-appreciated that her Grove Street location placed her close to five
-local schools, including an elementary school, middle school and high
-school: "We want those children to short-cut through Rainbow Sign," she
-said. Thus did the boundary between white and black Berkeley become the
-creative borderlands where projects of desegregation, especially at the
-youth level, were incubated and put into practice. Campus Planning
-Office, *Development Plan*, 10; Advertisement for Niehaus Co. Ivory
-Chapel, 13; Thompson, "Edward F. Niehaus"; Barber, "Redlining"; Kohl,
-"Berkeley Experimental Schools" panel; McCurdy, "Integration Program";
-Ramella, "Rainbow Sign Can Use Some Help." STOPPED HERE
+[^1]: The building that Mary Ann Pollar rented to house Rainbow Sign had a telling history, as did the immediately surrounding area. 2640 Grove Street had been built in 1925 as the "Ivory Chapel" of funeral director Edward E. Niehaus, likely the son of Edward F. Niehaus, a West German immigrant, lumber magnate and Berkeley stalwart. The Niehaus mortuary featured a Spanish Colonial Revival design by architect James W. Plachek, who also designed important Berkeley civic buildings such as the city's Central Library and North Branch Public Library. <br><br>In the 1940s, when large numbers of African-Americans were drawn to Berkeley because of jobs in East Bay war industries, Grove Street became an even sharper boundary separating white and non-white Berkeley, with blacks made aware through the 1950s, at least, that they were not welcome to buy real estate above Grove Street. <br><br>In an important reversal of the process of segregation, it was at a storefront office at 2554 Grove Street---less than a block from Rainbow Sign's soon-to-be location---that the Berkeley Unified School District drew up its 1968 plan to desegregate the city's elementary schools through organized busing. (Berkeley remains the only city that voluntarily drew up and embraced its own busing plan.) Just afterward, this storefront office hosted educational innovator Herb Kohl, who devised the paradigmatic "open school" (alternative high school) called Other Ways. Mary Ann Pollar appreciated that her Grove Street location placed her close to five local schools, including an elementary school, middle school and high school: "We want those children to short-cut through Rainbow Sign," she said. Thus did the boundary between white and black Berkeley become the creative borderlands where projects of desegregation, especially at the youth level, were incubated and put into practice. Campus Planning Office, *Development Plan*, 10; Advertisement for Niehaus Co. Ivory Chapel, 13; Thompson, "Edward F. Niehaus"; Barber, "Redlining"; Kohl, "Berkeley Experimental Schools" panel; McCurdy, "Integration Program"; Ramella, "Rainbow Sign Can Use Some Help."
 
 [^2]: "Membership Brochure, Rainbow Sign."
 
-[^3]: Smallwood, "See Maya Angelou," 18; Ross, "Depicting Black Struggle," 17; "Odetta" flyer; Eubanks, "Contact sheet from Nina Simone"; "Contact sheet, photographs of James Baldwin"; Saar, "Aunt Jemima." For Rainbow Sign sources, see Max
-Lopez and Tessa Rissacher, ["Rainbow Sign" digital project](http://revolution.berkeley.edu/projects/rainbow-sign/),
-a component of [The Berkeley Revolution](http://revolution.berkeley.edu/).
+[^3]: Smallwood, "See Maya Angelou," 18; Ross, "Depicting Black Struggle," 17; "Odetta" flyer; Eubanks, "Contact sheet from Nina Simone"; "Contact sheet, photographs of James Baldwin"; Saar, "Aunt Jemima." For Rainbow Sign sources, see Max Lopez and Tessa Rissacher, ["Rainbow Sign" digital project](http://revolution.berkeley.edu/projects/rainbow-sign/), a component of [The Berkeley Revolution](http://revolution.berkeley.edu/).
 
-[^4]: Eubanks, "Contact sheet from Shirley Chisholm"; City of Berkeley,
-"Nina Simone Day"; "Invitation, book party for Huey P. Newton."
+[^4]: Eubanks, "Contact sheet from Shirley Chisholm"; City of Berkeley, "Nina Simone Day"; "Invitation, book party for Huey P. Newton."
 
-[^5]: On the activism and "politics of respectability" of the black
-club women's movement, see Higginbotham, *Righteous Discontent*; Cooper,
-*Beyond Respectability*.
+[^5]: On the activism and "politics of respectability" of the black club women's movement, see Higginbotham, *Righteous Discontent*; Cooper, *Beyond Respectability*.
 
 [^6]: NEED NOTE!!!!
 
-[^7]: While we detail below the lack of attention paid to Rainbow Sign
-by historians and literary critics, we are also happy to note that,
-since the publication of the "Rainbow Sign" digital project on the
-Berkeley Revolution site in the summer of 2017, there has been
-snowballing attention to the center. In May of 2018, *LA Times* art
-critic Christopher Knight mentioned it as a key context for New
-York-based artist Rashid Johnson's acclaimed "Rainbow Sign" exhibition
-(Knight, "Rashid Johnson"). In February of 2019, the Oakland Museum of
-California opened a re-designed "Black Power" installation that featured
-the center, and currently the de Young Museum in San Francisco is
-looking to spotlight Rainbow Sign as they customize the exhibition *Soul
-of a Nation: Art in the Age of Black Power* (opening November 2019)
-around the arts of the Bay Area. In the realm of politics, US Senator
-Kamala Harris drew upon the primary documents in the digital project and
-made the Rainbow Sign central to the first chapter of her memoir *The
-Truths We Hold*, published in January 2019. Observing that her time
-there as a child shaped her sense of cultural and political possibility,
-the Berkeley-raised politician noted that Rainbow Sign "was where I
-learned that artistic expression, ambition, and intelligence were cool.
-It was where I came to understand that there is no better way to feed
-someone's brain than by bringing together food, poetry, politics, music,
-dance, and art." Harris, *The Truths We Hold,* 16--19.
+[^7]: While we detail below the lack of attention paid to Rainbow Sign by historians and literary critics, we are also happy to note that, since the publication of the "Rainbow Sign" digital project on the Berkeley Revolution site in the summer of 2017, there has been snowballing attention to the center. In May of 2018, *LA Times* art critic Christopher Knight mentioned it as a key context for New York-based artist Rashid Johnson's acclaimed "Rainbow Sign" exhibition (Knight, "Rashid Johnson"). In February of 2019, the Oakland Museum of California opened a re-designed "Black Power" installation that featured the center, and currently the de Young Museum in San Francisco is looking to spotlight Rainbow Sign as they customize the exhibition *Soul of a Nation: Art in the Age of Black Power* (opening November 2019) around the arts of the Bay Area. In the realm of politics, US Senator Kamala Harris drew upon the primary documents in the digital project and made the Rainbow Sign central to the first chapter of her memoir *The Truths We Hold*, published in January 2019. Observing that her time there as a child shaped her sense of cultural and political possibility, the Berkeley-raised politician noted that Rainbow Sign "was where I learned that artistic expression, ambition, and intelligence were cool. It was where I came to understand that there is no better way to feed someone's brain than by bringing together food, poetry, politics, music, dance, and art." Harris, *The Truths We Hold,* 16--19.
 
 [^8]: Self, *American Babylon*; Murch, *Living for the City.*
 
-[^9]: In his groundbreaking *The Black Arts Movement,* literary
-historian James Smethurst nicely sketches how the campuses of UC
-Berkeley, San Francisco State, and Merritt College became hotbeds of
-activism and black cultural production. Yet when he turns his attention
-off-campus, Smethurst focuses his narrative on cultural centers such as
-San Francisco's Black House, the short-lived and contentious project
-that brought together Black Panther scribe Eldridge Cleaver and the
-radical playwrights Ed Bullins and Marvin X.
+[^9]: In his groundbreaking *The Black Arts Movement,* literary historian James Smethurst nicely sketches how the campuses of UC Berkeley, San Francisco State, and Merritt College became hotbeds of activism and black cultural production. Yet when he turns his attention off-campus, Smethurst focuses his narrative on cultural centers such as San Francisco's Black House, the short-lived and contentious project that brought together Black Panther scribe Eldridge Cleaver and the radical playwrights Ed Bullins and Marvin X.
 
-[^10]: Cooper, *Beyond Respectability*; Farmer, *Remaking Black
-Power*; Spencer, *The Revolution Has Come*; Taylor, *The Promise of
-Patriarchy.*
+[^10]: Cooper, *Beyond Respectability*; Farmer, *Remaking Black Power*; Spencer, *The Revolution Has Come*; Taylor, *The Promise of Patriarchy.*
 
-[^11]: Pollar and the ten women who served on Rainbow Sign's board
-were from a middle generation---younger than race radicals such as
-Ella Baker (b. 1903) and Angelo Herndon (b. 1913) whose perspectives
-were centrally shaped by the labor struggles of the Great Depression,
-and older than Baby Boomer figures like Huey Newton (b. 1942) and Angela
-Davis (b. 1944). A descendant of a line of Baptist preachers, Mary Ann
-Pollar herself was born in a Texas border town in 1927, and took a
-degree in labor education from Roosevelt College in Chicago in the
-late 1940s; through the 1950s and 1960s she worked for the Bay Area
-Urban League while establishing herself as music promoter through her
-work with acts from Bob Dylan and Odetta to Curtis Mayfield and Simon
-and Garfunkel. The Rainbow Sign board was populated by black women who
-had broken professional barriers, including TV newscaster Belva Davis,
-and East Bay education leaders Mary Jane Johnson and [Electra Price](http://revolution.berkeley.edu/electra-price/?cat=437&subcat=6).
+[^11]: Pollar and the ten women who served on Rainbow Sign's board were from a middle generation---younger than race radicals such as Ella Baker (b. 1903) and Angelo Herndon (b. 1913) whose perspectives were centrally shaped by the labor struggles of the Great Depression, and older than Baby Boomer figures like Huey Newton (b. 1942) and Angela Davis (b. 1944). A descendant of a line of Baptist preachers, Mary Ann Pollar herself was born in a Texas border town in 1927, and took a degree in labor education from Roosevelt College in Chicago in the late 1940s; through the 1950s and 1960s she worked for the Bay Area Urban League while establishing herself as music promoter through her work with acts from Bob Dylan and Odetta to Curtis Mayfield and Simon and Garfunkel. The Rainbow Sign board was populated by black women who had broken professional barriers, including TV newscaster Belva Davis, and East Bay education leaders Mary Jane Johnson and [Electra Price](http://revolution.berkeley.edu/electra-price/?cat=437&subcat=6).
 
-[^12]: This fusion between radical and respectable can also be read
-in the aspirational and care-oriented language that its founders used to
-evoke its project. Rainbow Sign board member Electra Price described the
-center as "a model. It said: this is what it would look like if people
-got their act together." Price Interview.
+[^12]: This fusion between radical and respectable can also be read in the aspirational and care-oriented language that its founders used to evoke its project. Rainbow Sign board member Electra Price described the center as "a model. It said: this is what it would look like if people got their act together." Price Interview.
 
 [^13]: "Rainbow Sign Background and Philosophy."
 
@@ -318,37 +230,14 @@ got their act together." Price Interview.
 
 [^15]: Blevins, "Perpetual Sunrise of Methodology."
 
-[^16]: The larger place of archival curation within digital history is
-well-sketched in the white paper which emerged from the 2017 Arguing
-with Digital History working group: "Digital History and Argument."
+[^16]: The larger place of archival curation within digital history is well-sketched in the white paper which emerged from the 2017 Arguing with Digital History working group: "Digital History and Argument."
 
-[^17]: The Rainbow Sign project drew upon an archive of six dusty
-boxes, stashed in the basement of the Oakland home of Mary Ann Pollar's
-daughter Odette---boxes that had never before been opened by her. Time
-constraints limited the amount of material we were able to scan for the
-project, so we opted to include ephemera with striking visual appeal,
-such as the invitations to art exhibits, or items with rich
-informational content, such as the brochures.
+[^17]: The Rainbow Sign project drew upon an archive of six dusty boxes, stashed in the basement of the Oakland home of Mary Ann Pollar's daughter Odette---boxes that had never before been opened by her. Time constraints limited the amount of material we were able to scan for the project, so we opted to include ephemera with striking visual appeal, such as the invitations to art exhibits, or items with rich informational content, such as the brochures.
 
-[^18]: Once readers navigate to the page for a primary source, they
-are presented with a longer caption---anywhere between a few sentences
-and a few paragraphs---placing the item in context with other documents
-or relevant historical material. Research for the content of these
-captions often involved cross-referencing the periodical record, oral
-histories and secondary sources.
+[^18]: Once readers navigate to the page for a primary source, they are presented with a longer caption---anywhere between a few sentences and a few paragraphs---placing the item in context with other documents or relevant historical material. Research for the content of these captions often involved cross-referencing the periodical record, oral histories and secondary sources.
 
 [^19]: Kramer, "Writing on the Past."
 
-[^20]: Just as the multiplicity of Rainbow Sign's rooms and functions
-invited cross-pollination---those there for lunch might take in an art
-show; concert attendees might browse through a chapbook of poetry---the
-diverse "rooms" of our site work to inspire dialogue between the art
-objects, and between the performers. Our framing commentary exists to
-enrich context, but seeks as well to set itself clearly in the space of
-the frame. The formal affordances of the website, meanwhile, allow us to
-offer a layered experience of exploration. Music once performed at
-Rainbow Sign can play over the speakers while one browses; images of
-rooms then and now can fill in the mental picture of a poetry reading
-described in an article.
+[^20]: Just as the multiplicity of Rainbow Sign's rooms and functions invited cross-pollination---those there for lunch might take in an art show; concert attendees might browse through a chapbook of poetry---the diverse "rooms" of our site work to inspire dialogue between the art objects, and between the performers. Our framing commentary exists to enrich context, but seeks as well to set itself clearly in the space of the frame. The formal affordances of the website, meanwhile, allow us to offer a layered experience of exploration. Music once performed at Rainbow Sign can play over the speakers while one browses; images of rooms then and now can fill in the mental picture of a poetry reading described in an article.
 
 [^21]: Presner, Schnapp, *et al*. "The Digital Humanities Manifesto 2.0."
