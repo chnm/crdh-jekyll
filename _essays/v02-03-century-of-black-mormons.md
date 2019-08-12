@@ -7,20 +7,13 @@ volume-number: 2
 year: 2019
 authors:
 - last: Reeve
-  first: Paul
+  first: W. Paul
   email: paul.reeve@utah.edu
   affiliation: "Department of History, University of Utah"
   orcid: 0000-0001-9298-9394
   url: "https://faculty.utah.edu/u0033169-W._PAUL_REEVE/hm/index.hml"
 abstract: |
   People of black-African descent have been members of the Church of Jesus Christ of Latter-day Saints from its founding in 1830 to the present yet their names and stories have been erased from public perception on the outside and collective Latter-day Saint memory on the inside. <i>Century of Black Mormons</i> is a digital history project designed to recover what was lost, the identities of Black Latter-day Saints during the faith's first 100 years, from 1830 to 1930. This paper offers an initial interpretation of the data collected thus far. It begins to document what life was like in the pews for Black Mormons and finds that integrated worship services varied across time and space. It demonstrates that kinship networks were important to Black Mormon conversions, and that pioneering black converts presided over multi-generational families of Black Mormons whose legacies stretch into the 21st century.
-appendix:
-- name: README
-  file: reeve-v02/README.txt
-- name: Data archive
-  file: reeve-v02/reeve-data.zip
-- name: Code archive
-  file: reeve-v02/reeve-code.zip
 preview: "/assets/img/v02/reeve/preview.png"
 ---
 
@@ -69,7 +62,7 @@ during the faith's pioneering century.
 <figure>
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ibEVeY-s9YyVNuy6dF5Wcsgg45McuoHoj3M184e2vh0&amp;font=Default&amp;lang=en&amp;initial_zoom=1" frameborder="0" width="100%" height="500"></iframe>
 <figcaption>
-Figure 1. Text
+Figure 1. The timeline feature at Century of Black Mormons is organized according to date of baptism. So far there are no baptisms recorded during the duration of the U.S. Civil War, an indication of the way in which the war disrupted Latter-day Saint proselyting efforts. Also, after the Church of Jesus Christ of Latter-day Saints abandoned polygamy in 1890 and the federal crackdown in Utah Territory dissipated, its missionary efforts accelerated and conversions of African-Americans resumed at an invigorated pace. Click through the timeline and notice patterns for yourself. Clicking on the name of a person in the timeline will take you to that person's biography, metadata, and documents.
 </figcaption>
 </figure>
 
@@ -128,7 +121,7 @@ have been able to identify individuals to include in the database along
 with crowdsourcing, journals, diaries, and other records.
 
 {% figure caption: "Figure 2. Esther Jane “Nettie” Scott Kirchhoff, 1925 LDS Census Record Oshkosh, Wisconsin, with “colored” written in the upper righthand corner. This 1925 census and other documents are available in the document reader at the bottom of [Kirchhoff's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/kirchhoff-esther-jane-nettie-scott#?) at Century of Black Mormons. Kirchhoff was a founding member of the Oshkosh, Wisconsin Latter-day Saint congregation where she served as Sunday School Secretary and then theological teacher." %}
-![Text]({{site.url}}/assets/img/v02/reeve/figure2.jpg)
+![Black and white image of LDS Census Record, which has the word “colored” written in the upper righthand corner]({{site.url}}/assets/img/v02/reeve/figure2.jpg)
 {% endfigure %}
 
 {% figure caption: "Figure 3. Henry Barr, baptismal record, South Carolina, with
@@ -136,7 +129,7 @@ with crowdsourcing, journals, diaries, and other records.
 the bottom of [Barr's biography](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/barr-henry#?) at Century of Black Mormons. Barr was born to enslaved parents six years
 before the end of the Civil War and converted to the Church of Jesus
 Christ of Latter-day Saints in 1896 when he was 37 years old. " %}
-![Text]({{site.url}}/assets/img/v02/reeve/figure3.jpg)
+![Black and white image of a baptismal record, cropped to show just the entry for Henry Barr, with the word “colored” written next to his name.]({{site.url}}/assets/img/v02/reeve/figure3.jpg)
 {% endfigure %}
 
 As of July 2019, Century of Black Mormons contained nearly seventy
@@ -184,7 +177,7 @@ was a founding member of the tiny LDS branch organized there in 1904.
 Her husband Richard was a German-born immigrant and Nettie was of mixed
 racial ancestry. She became Sunday School Secretary in an atypical mixed
 gender and mixed-race Sunday School presidency.[^18] She also taught
-Sunday School, as did [Elijah Banks](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah),
+Sunday School, as did [Elijah Banks](https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah-a),
 another black convert, this time in Minneapolis, Minnesota in 1899.[^19]
 By all accounts, the Graves along with Elijah Banks and Nettie Kirchhoff
 were valued members of integrated congregations throughout their lives.
@@ -274,7 +267,7 @@ for more than a century.
 <figure>
 <iframe src="https://uploads.knightlab.com/storymapjs/64d0d2e8cf2ee227b901e504f846f253/cbm-1/index.html" frameborder="0" width="100%" height="600"></iframe>
 <figcaption>
-Figure 4. 
+Figure 4. The map feature is organized according to location of baptism. Notice the small international locations of baptism which include South Africa, England, and three sailors baptized on board an LDS immigrant ship. Notice also the pattern of conversions in the United States, with a large cluster in Utah, the majority of whom represent second, third, fourth, and fifth generation Latter-day Saints versus mostly first generation baptisms outside of Utah. 
 </figcaption>
 </figure>
 
@@ -290,7 +283,7 @@ federal anti-polygamy crackdown, baptisms outside of Utah followed
 through the 1930s.
 
 {% figure caption: "Figure 5. Baptismal Locations in Comparison. Those “Baptized in U.S.” include all people baptized in the United States, excluding those baptized in Utah. Of the Utah baptisms, sixty-five percent were second, third, fourth, and fifth generation Black Mormons. The international baptisms include people baptized in South Africa, England, and three sailors baptized on board an LDS immigrant ship somewhere in the Atlantic Ocean." %}
-![Text]({{site.url}}/assets/img/v02/reeve/figure5.png)
+![Bar graph showing thirty-five baptisms taking place in Utah, twenty-one taking place in the United States in places other than Utah, and seven taking place internationally.]({{site.url}}/assets/img/v02/reeve/figure5.png)
 {% endfigure %}
 
 In sum, Century of Black Mormons is yielding new clues about the
@@ -341,7 +334,7 @@ Graves, Marie to Heber J. Grant. 10 November 1920. As quoted in Ardis E. Parshal
 
 Harris, Matthew L., and Newell G. Bringhurst. *The Mormon Church and Blacks: A Documentary History*. Urbana: University of Illinois Press, 2015.
 
-Hawkins, J. Russell, and Phillip Luke Sinitiere, eds. *Christians and the Color Line: Race and Religion after Divided by Faith*. New York: Oxford University Press, 2014. <https://doi.org/10.1093/acprof:oso/9780199329502.001>.
+Hawkins, J. Russell, and Phillip Luke Sinitiere, eds. *Christians and the Color Line: Race and Religion after Divided by Faith*. New York: Oxford University Press, 2014. <https://doi.org/10.1093/acprof:oso/9780199329502.001.0001>.
 
 Jackson, W. Kesler. *Elijah Abel: The Life and Times of a Black Priesthood Holder*. Springville, Utah: CFI, 2013.
 
@@ -370,7 +363,7 @@ All Right...'." Accessed February 1, 2019. <http://www.keepapitchinin.org/2018/0
 
 Parshall, Ardis E. "William Graves." <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/graves-william>.
 
-Parshall, Ardis W. "Elijah Banks." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah>.
+Parshall, Ardis W. "Elijah A. Banks." Accessed October 10, 2018. <https://exhibits.lib.utah.edu/s/century-of-black-mormons/page/banks-elijah-a>.
 
 Pew Research Center. "A Portrait of Mormons in the U.S." July 24, 2009. Accessed May 18, 2019. <https://www.pewforum.org/2009/07/24/a-portrait-of-mormons-in-the-us/#3>.
 

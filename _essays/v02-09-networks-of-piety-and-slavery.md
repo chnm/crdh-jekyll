@@ -16,9 +16,9 @@ authors:
   email: skrivulskaya@csusm.edu
   affiliation: "Department of History, California State University San Marcos"
   orcid: 0000-0002-4216-9811
-  url: "www.suzannakrivulskaya.com"
+  url: "http://www.suzannakrivulskaya.com/"
 abstract: |
-  The first Catholic Bible published in the United States in 1790 contained a subscriber list: names and locations of people, mostly Catholics, who helped finance the publication. An initial map of these 429 names, created for a 2017 exhibition in the University of Notre Dame's Rare Books and Special Collections, showed clusters of subscribers in Maryland and Pennsylvania. The largest subset identified so far (102 subscribers) was in rural Maryland, and is this paper's focus. Digital tools helped us visualize networks within this community, including historical connections between slavery and piety. We found that a large majority of Maryland Catholics who purchased Bibles were also slaveholders (more than twice the average rate of slaveholding in the South). The densest subscriber locations also trace a discernable path along the pattern of Jesuit plantations in southern and eastern Maryland, a parallel between piety and slaveholding the map made visible. Digital mapping also pulled into focus connections among rural Catholics, and relationships between them and the people they enslaved. Archival records revealed dense kinship, religious, and fraternal relationships among subscribers. Records uncovered enslaved Marylanders who embraced Catholicism, sued or petitioned for freedom, or fled. Slavery and religion formed connective tissue in post-Revolutionary Maryland.
+  The first Catholic Bible published in the United States in 1790 contained a subscriber list: names and locations of people, mostly Catholics, who helped finance the publication. An initial map of these 429 names, created for a 2017 exhibition in the University of Notre Dame's Rare Books and Special Collections, showed clusters of subscribers in Maryland and Pennsylvania. The largest subset identified so far (102 subscribers) was in rural Maryland, and is this paper's focus. Digital tools helped us visualize networks within this community, including historical connections between slavery and piety. We found that a large majority of Maryland Catholics who purchased Bibles were also slaveholders (more than twice the average rate of slaveholding in the South). The densest subscriber locations also trace a discernable path along the pattern of Jesuit plantations in southern and eastern Maryland, a parallel between piety and slaveholding the map made visible. Digital mapping also pulled into focus connections among rural Catholics, as well as relationships between them and the people they enslaved. Archival records revealed dense kinship, religious, and fraternal relationships among subscribers. Records also uncovered enslaved Marylanders who embraced Catholicism, sued or petitioned for freedom, or fled. Slavery and religion formed connective tissue in post-Revolutionary Maryland.
 appendix:
 - name: README
   file: bohlmann-v02/README.txt
@@ -53,7 +53,7 @@ Philadelphia printer Mathew Carey published the first Catholic Bible in
 the United States in 1790. To finance the project's significant costs he
 solicited deposits from purchasers (he called them subscribers) and
 printed the names of 429 of them in the opening pages of the
-publication. Taking Carey's subscriber list as the starting point, [this project](https://nd-cds.shinyapps.io/BadinApp/?display=LocationAccuracy) visualizes connections between religious identity, practice, and slavery among a subset of 102 subscribers who lived in rural Maryland (see figure 1).[^3] We focused on rural Marylanders
+publication. Taking Carey's subscriber list as the starting point, [this project](https://nd-cds.shinyapps.io/BadinApp/?side=yes) visualizes connections between religious identity, practice, and slavery among a subset of 102 subscribers who lived in rural Maryland (see figure 1).[^3] We focused on rural Marylanders
 because they made up the single largest group of subscribers identified
 thus far. The second largest group was 100 subscribers from
 Philadelphia, which will be the focus of future work.[^4] Our findings
@@ -68,14 +68,6 @@ confirmed slave owners (with points sized to indicate number of slaves
 held) and those who remain unconfirmed. The “Location Accuracy” display
 uses colored shapes to indicate the level of specificity for each
 subscriber's location.</figcaption>
-</figure>
-
-<figure>
-<iframe src="https://nd-cds.shinyapps.io/BadinApp/?side=no" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Figure 1. Locations of Catholic Bible Subscribers in Rural Maryland in
-1790. This map displays locations of subscribers who are
-confirmed slave owners (with points sized to indicate number of slaves
-held) and those who remain unconfirmed.</figcaption>
 </figure>
 
 Several patterns stand out in both the general numbers and the more
@@ -111,8 +103,7 @@ twice the rate of their non-Catholic neighbors; the price of the Bible
 ensures that this was a self-selected group of Catholics who were
 wealthy as well as pious. But it allows us to conclude that a large
 majority of these well-to-do and devout people were enslavers. Of these
-72 enslavers, 64 were laypeople, eight were priests, and three were
-women. Altogether, they held 2,422 people in slavery (see figure 1).
+72 enslavers, 64 were laypeople (three were women), and eight were priests. Altogether, they held 2,422 people in slavery (see figure 2).
 Just eight enslavers claimed as property nearly half of the enslaved
 people in this group: 1,171 enslaved (48%). Thirty-eight other
 subscribers held 10 or more people in slavery, and 20 enslaved fewer
@@ -187,7 +178,7 @@ Maryland Jesuits. We have tracked the lives of people enslaved by
 Maryland Bible subscribers. Enslaved people appear in surviving archives
 as runaways, as legal petitioners, as parties in suits for freedom, and
 as co-religionists. White Maryland Catholics may have defined their
-republicanism by holding others in slavery; if so, enslaved Marylanders
+republicanism by holding others in slavery; enslaved Marylanders
 rejected that alignment. We have identified 302 enslaved people
 connected to Bible subscribers by name in records dated from 1772
 through 1819. The bulk of the records (185 of 302) were made in the two
@@ -198,7 +189,7 @@ lawsuits. Records also reveal that some Marylanders held in slavery
 embraced Catholicism. They were married by priests and stood as sponsors
 for children at their baptisms. One woman, Rebecca (no surname), served
 as a baptismal sponsor for a decade at Trinity Church in Georgetown, the
-site of Bishop of Baltimore John Carroll's new college.[^11]
+site of Bishop John Carroll's new college.[^11]
 
 Archival research has uncovered many hidden stories about the lives
 represented by data points on a map of Catholic Bible subscribers, which
@@ -223,7 +214,7 @@ Farrelly, Maura Jane. "American Slavery, American Freedom, American Catholicism.
 
 Fields, Barbara Jeanne. *Slavery and Freedom on the Middle Ground: Maryland during the Nineteenth Century*. New Haven: Yale University Press, 1985.
 
-Leon, Sharon M. *Life and Labor under Slavery: the Jesuit Plantation Project*. Accessed April 29, 2019. <http://jesuitplantationproject.org/s/jpp/page/welcome>.
+Leon, Sharon M. *Life and Labor under Slavery: The Jesuit Plantation Project*. Accessed April 29, 2019. <http://jesuitplantationproject.org/s/jpp/page/welcome>.
 
 McCusker, John J. and Russell R. Menard. *The Economy of British America, 1607--1789 with Supplementary Bibliography*. Chapel Hill: University of North Carolina Press, 1991.
 
@@ -239,7 +230,7 @@ Oakes, James. *The Ruling Race: A History of American Slaveholders*. New York: V
 
 [^2]: "A list of negroes who obtained their freedom---in consequence of the verdict obtained by Charles Mahoney against the Rev. Mr. John Ashton, May Term, 1799---of Charles Carroll of Carrollton, Esq. in May 1799," in Braxton, "Generations a Slave.”  
 
-[^3]: See the current working version at <https://nd-cds.shinyapps.io/BadinApp/>. This visualization emerged out of an exhibition, “‘Preserving the Steadfastness of Your Faith’: Catholics in the Early American Republic,” displayed in Rare Books and Special Collections, Hesburgh Libraries, the University of Notre Dame, in 2017. Bohlmann and GIS librarian Matthew Sisk plotted all identified locations of 429 subscribers in the Douai-Rheims Bible published by Carey in 1790. The publication cost six Spanish silver dollars (about $150 today). For the list of rural Maryland subscribers, see the "Subscribers Data" tab in the Shiny app.
+[^3]: See the current working version at <https://nd-cds.shinyapps.io/BadinApp/>. This visualization emerged out of an exhibition, “‘Preserving the Steadfastness of Your Faith’: Catholics in the Early American Republic,” displayed in Rare Books and Special Collections, Hesburgh Libraries, the University of Notre Dame, in 2017. Bohlmann and GIS Librarian Matthew Sisk plotted all identified locations of 429 subscribers in the Douai-Rheims Bible published by Carey in 1790. The publication cost six Spanish silver dollars (about $150 today). For the list of rural Maryland subscribers, see the "Subscribers Data" tab in the Shiny app.
 
 [^4]: We excluded Baltimore subscribers in this study. The intention of the larger project, of which this is only a first step, is to examine urban subscribers separately. Philadelphia is the largest urban cluster, with 100 subscribers identified so far. Baltimore is the next largest urban group with between 26 and 50 (depending on how many were city or county). More research was necessary to identify these subscribers, which was beyond the scope of this segment of the project.
 

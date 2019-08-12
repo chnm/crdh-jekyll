@@ -1,5 +1,5 @@
 ---
-title: "Local Newspapers and Lynchings"
+title: "Improving Lynching Inventories with Local Newspapers"
 subtitle: "Racial Terror in Virginia, 1877-1927"
 doi: "https://doi.org/10.31835/crdh.2019.04"
 category: "2019"
@@ -14,13 +14,6 @@ authors:
   url: "https://www.jmu.edu/justicestudies/faculty/all-faculty/defazio-gianluca.shtml"
 abstract: |
   Lynching inventories are fundamental tools to measure the extent and trends of lethal mob violence against alleged criminals during the post-Reconstruction era in the United States. The digital history project "Racial Terror: Lynchings in Virginia, 1877-1927" revisits the Beck-Tolnay inventory of Southern lynchings, the most comprehensive and accurate scholarly catalogue of lethal mob violence in the Deep South. Focusing on lynching in Virginia, this project uses local, rather than national, newspapers as its main source of information. Importantly, the use of local sources reveals that <i>white</i> victims of lynching in Virginia have been overcounted in lynching inventories. This is a significant finding because lynching apologists often used white lynching victims to defend lethal mob violence arguing that, rather than a tool of white domination, lynching was a legitimate and non-racialized form of "popular justice" against hideous crimes. This project enhances our understanding of lynching as a form of racialized terrorism and recommends the systematic use of local newspapers and sources to correct existing lynching catalogues.
-appendix:
-- name: README
-  file: defazio-v02/README.txt
-- name: Data archive
-  file: defazio-v02/defazio-data.zip
-- name: Code archive
-  file: defazio-v02/defazio-code.zip
 preview: "/assets/img/v02/defazio/preview.png"
 ---
 
@@ -148,7 +141,7 @@ racial terror in their localities. An interactive [map](http://sites.jmu.edu/val
 
 <figure>
 <iframe src="https://jmu.maps.arcgis.com/apps/Embed/index.html?webmap=f85d6bca745c48d6b821c4b6abdd0932&extent=-83.0097,35.956,-75.5226,39.6144&home=true&zoom=true&scale=true&legend=true&disable_scroll=true&theme=light" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Figure 1. Interactive map of the locations of Virginia lynchings, 1877-1927. Click on points on the map for more information about the lynching that occured at each location.</figcaption>
+<figcaption>Figure 1. Interactive <a href="http://sites.jmu.edu/valynchings/map/">map</a> of the locations of Virginia lynchings, 1877-1927. Click on the squares and circles on the map for more information about the lynching that occured at each location.</figcaption>
 </figure>
 
 The website also provides a searchable [database](http://sites.jmu.edu/valynchings/articles/) of
@@ -269,7 +262,7 @@ Norfolk County; instead, it was his employee, an unnamed African
 American man, that was killed. Infuriated about his neighbor's cattle
 trespassing on his property, Dozier "revenged himself by shooting the
 trespassing cattle" (*Shenandoah Herald*). On the night of February
-19^th^, 1880, the cattle owners retaliated by firing at least 100
+19th, 1880, the cattle owners retaliated by firing at least 100
 bullets into his home. As Dozier and his employee, an African American
 man, ran towards the woods trying to take cover, the neighbors kept
 shooting at them, slightly wounding Dozier. His employee, however, was

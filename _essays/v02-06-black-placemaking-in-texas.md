@@ -19,18 +19,11 @@ authors:
   orcid: 0000-0002-7203-0511
   url: "https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=7e59e4b826bc4d259f28f9f5e1c1d2f9"
 abstract: |
-  While public awareness of incorporated black historic towns and urban neighborhoods in places like Rosewood, Florida, Tulsa, Oklahoma, and Eatonville, Florida grow, less is known about unincorporated Black settlements in Texas. From 1865 to 1920, African Americans founded at least 557 self-sustaining freedom colonies in Texas. The authors engage the history of Black placemaking through the lens of Texas freedom colonies in Newton and Jasper Counties, areas better known for racial violence than liberation. The paper argues that biases in public history and historic preservation policy toward white settlerism, building integrity, and property ownership inhibit the documentation, recognition, and, consequently, the preservation of freedom colonies and their origin stories, necessitating creative approaches to mapping and arguing for these communities' "historic significance" and protection. Authors mapped freedom colonies through collection and analysis of both publically available data and intangible heritage, specifically sonic and social histories in Newton and Jasper County during a pilot study. This initial mapping exercise gave birth to the statewide crowdsourcing and mapping project, The Texas Freedom Colonies Atlas. Housed on multiple digital humanities platforms, the Atlas contains a map of 357 settlements and translates local constructions of historical significance to policymakers and cultural resource managers.
-appendix:
-- name: README
-  file: roberts-v02/README.txt
-- name: Data archive
-  file: roberts-v02/roberts-biazar-data.zip
-- name: Code archive
-  file: roberts-v02/roberts-biazar-code.zip
+  While public awareness of incorporated black historic towns and urban neighborhoods in places like Rosewood, Florida, Tulsa, Oklahoma, and Eatonville, Florida grow, less is known about unincorporated Black settlements in Texas. From 1865 to 1920, African Americans founded at least 557 self-sustaining freedom colonies in Texas. The authors engage the history of Black placemaking through the lens of Texas freedom colonies in Newton and Jasper Counties, areas better known for racial violence than liberation. The paper argues that biases in public history and historic preservation policy toward white settlerism, building integrity, and property ownership inhibit the documentation, recognition, and, consequently, the preservation of freedom colonies and their origin stories. The authors argue that freedom colonies' marginal status necessitates creative approaches to mapping and crafting arguments for these communities' "historic significance" and protection. Authors mapped freedom colonies through collection and analysis of both publically available data and intangible heritage, specifically sonic and social histories in Newton and Jasper County during a pilot study. This initial mapping exercise gave birth to the statewide crowdsourcing and mapping project, The Texas Freedom Colonies Atlas. Housed on multiple digital humanities platforms, the Atlas contains a map of 357 settlements and translates local constructions of historical significance to policymakers and cultural resource managers.
 preview: "/assets/img/v02/roberts/preview.png"
 ---
 
-Heritage is spatial because it asks us to consider where something
+Heritage is spatial, because it asks us to consider where something
 occurred and why it happened there. Historical designation policies are
 based on officially accepted theories of historical significance, social
 location, and collective identities. Regulatory frameworks,
@@ -46,13 +39,13 @@ Thus heritage and public history, especially that informed by racialized
 regulatory regimes, become powerful mediums through which the
 significance of identity and place are mediated. This study of freedom
 colonies (FCs) and the subsequent development of an online Atlas based
-on its findings is one approach to reclaim histories of Black agency in
+on its findings is one approach to reclaiming histories of Black agency in
 the landscape from official heritage mediators who control what
 Laurajane Smith calls Authorized Heritage Discourse.[^2]
 
 Freedom colonies are historic African American settlements founded after
 the Civil War in Texas. From 1865 to 1920, African Americans founded at
-least 557 self-sustaining FCs (also known as Black settlements and
+least 557 self-sustaining FCs (also known as Black Settlements and
 Freedmen's Towns) in Texas. Freedom colonies notably reflect a trend in
 precipitous increases in Black land ownership during Reconstruction and
 Progressive Eras. For instance, Black Texans went from owning 1.8% of
@@ -62,7 +55,7 @@ Freedom colonies are where these clusters of landowners lived.
 
 These rural Texas landscapes, historically associated with exclusion and
 even hate crimes,[^5] are simultaneously under-recognized and
-unprotected sites holding evidence of Black freedom seeking articulated
+unprotected sites holding evidence of Black freedom-seeking articulated
 through placemaking. For example, Huff Creek, in Jasper County, (depicted in Figure 1) was a
 little known freedom colony. The 1998 dragging death of James Byrd,
 which took place on the community's main road, overshadowed the
@@ -83,7 +76,7 @@ African American places and placemaking. Grassroots organizations like
 the Historic Black Towns and Settlements Association advocate for
 funding and support for incorporated Black towns (three of which are shown in Figure 2) including Tuskegee, Alabama, Mound Bayou, Mississippi, and Rosewood and Eatonville, Florida,
 and western All-Black Towns in Oklahoma and Kansas.[^6]
-These towns still have substantial populations, are mapped, and often
+Some of these towns still have substantial populations, are mapped, and often
 have politically sophisticated leaders. By contrast, FCs were often
 never officially incorporated, have small populations, and no official
 representation concerning land use issues decided in Texas on the city
@@ -111,7 +104,7 @@ and lack of historical integrity of properties in FCs make them
 ineligible for FEMA, SBA, and HUD recovery funds [^9] and even less
 likely to be considered endangered by public preservation agencies.
 
-{% figure caption: "Figure 3. The FEMA - Hurricane Harvey Impact layer of the Texas Freedom Colony Atlas showedthat 229 FCs are in 53 FEMA designated counties, constituting 41% of total FCs or 64 % of the 357 mapped FCs. The map, generated from the Atlas data, indicates the vulnerability of remaining
+{% figure caption: "Figure 3. The FEMA - Hurricane Harvey Impact layer of the Texas Freedom Colony Atlas showed that 229 FCs are in 53 FEMA designated counties, constituting 41% of total FCs or 64 % of the 357 mapped FCs. The map, generated from the Atlas data, indicates the vulnerability of remaining
 historic sites in freedom colonies." %}
 ![This map from the Texas Freedom Colony Atlas shows the counties, predominantly in the eastern part of the state, which suffered the greatest impact of Hurricane Harvey.]({{site.url}}/assets/img/v02/roberts/figure3.jpg){% endfigure %}
 
@@ -154,8 +147,7 @@ significance but could be deemed ineligible based on its lack of
 integrity. The integrity of a site refers to the degree to which it is
 physically intact and in a location or context relevant to the period of
 historic significance. The National Register criteria guide
-determinations of what is worthy of protection from demolition and what
-qualifies for federal tax benefits.[^14] State level markers are
+determinations of what qualifies for federal tax benefits.[^14] State level markers are
 available to properties in Texas that are at least 50 fifty years old,
 and are historically or architecturally significant, whereas subject
 markers can recognize individuals, events, communities, and
@@ -225,7 +217,7 @@ intangible heritage because for some FCs, the assemblage of "citizens"
 attending annual events is all the evidence that a place existed.
 
 Observations of annual, commemorative gatherings such as family reunions
-and community homecoming indicated that these events helped sustain the
+and community homecomings indicated that these events helped sustain the
 diaspora's attachments to FCs. These events are a historical artifact of
 the Great Migration, as they were founded to ensure those who left rural
 Texas for big cities would return home. Homecoming presidents from
@@ -264,11 +256,11 @@ educators, researchers, and descendant communities to demonstrate across
 disciplines and outside academia, the historical significance of FC, and
 facilitate re-envisioning citizen participation, mapping, and
 preservation planning.[^17] In addition to the map (shown in figure 7), the website in which
-it is embedded collects resident memories, photos, and calendar. Now,
+it is embedded collects resident memories and photos. At the time of this article's publication,
 357 of 557 FCs have been mapped, with 322 FC located using publicly
 available data.
 
-{% figure caption: "Figure 7. The [Texas Freedom Colony Atlas](https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f) and Survey allows for spatialization of varied forms of place data alongside the authorized heritage data which helps substantiate the existence of a historically significant place. The interactive atlas’ allows for uploading of stories, documents, photos, and memories of place along with calendars of events associated with the freedom colony. All visitors are invited to add to a separate layer, “new” or unknown freedom colonies." %}
+{% figure caption: "Figure 7. The [Texas Freedom Colony Atlas](https://tamu.maps.arcgis.com/apps/MapSeries/index.html?appid=48f89e0f870c4400a990682a09cf919f) and Survey allows for spatialization of varied forms of place data alongside the authorized heritage data which helps substantiate the existence of a historically significant place. The interactive atlas’ allows for uploading of stories, documents, photos, and memories of place associated with the freedom colony. All visitors are invited to add to a separate layer, “new” or unknown freedom colonies." %}
 ![Screenshot of the Texas Freedom Colony Atlas, showing a map of Texas, with blue dots that represent the locations of identified freedom colonies]({{site.url}}/assets/img/v02/roberts/figure7.png){% endfigure %}
 
 Historic preservation standards around what defines place and historical
@@ -276,7 +268,7 @@ significance obscure the disappearing heritage of FCs, particularly in
 those settlements with low populations and little remaining built
 environment. Preservation policy, as a result, has a disparate impact on
 the survival of many FCs that might otherwise thrive and benefit from
-federal protections and tax breaks if the property-based bias were
+federal protections and tax breaks if the property-based bias was
 eliminated. Recording commemorative events at buildings and spaces with
 compromised integrity but embodied and performed constructions of a
 community might substantiate significance. However, the evidence,

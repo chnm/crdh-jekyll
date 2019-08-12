@@ -19,25 +19,19 @@ authors:
   url: "http://anthropology.emory.edu/home/people/faculty/hosbey.html"
 abstract: |
   This essay is our first effort in a long-term collective project organized to collect historical and contemporary narratives from Black communities that offer alternative epistemic entry points for historicizing and interrupting mounting ecological crisis. We use the space of this essay to lay the conceptual groundwork for this collaborative effort through our primary concept, Black ecologies. On the one hand, this idea provides a way of historicizing and analyzing the ongoing reality that Black communities in the US South and in the wider African Diaspora are most susceptible to the effects of climate change, including rising sea levels, subsidence, sinking land, as well as the ongoing effects of toxic stewardship. On the other hand, Black ecologies names the corpus of insurgent knowledge produced by these same communities, which we hold to have bearing on how we should historicize the current crisis and how we conceive of futures outside of destruction.
-appendix:
-- name: README
-  file: roane-v02/README.txt
-- name: Data archive
-  file: roane-v02/roane-hosbey-data.zip
-- name: Code archive
-  file: roane-v02/roane-hosbey-code.zip
 preview: "/assets/img/v02/roane/preview.png"
 ---
 
 <figure>
+<iframe width="560" height="600" src="https://www.youtube.com/embed/yB8kOyZFPLY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption>Figure 1. Tornado Destruction, Essex County, VA, February 18,
-2016, (Huewayne Watson)
+2016. (Huewayne Watson)
 </figcaption>
 </figure>
 
 <figure>
-<figcaption>Figure 2. Storm Damage, Middlesex County, VA, October 12, 2018
-(Sherita Mahone)
+<iframe width="560" height="600" src="https://www.youtube.com/embed/OSJUqBSaImQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption> Figure 2. Tornado Destruction, Essex County, VA, February 18, 2016. (Huewayne Watson)
 </figcaption>
 </figure>
 
@@ -47,7 +41,7 @@ communities that offer alternative epistemic entry points for
 historicizing and interrupting mounting ecological crisis. We use the
 space of this essay to lay the conceptual groundwork for this
 collaborative effort (which has not yet materialized a website) through
-our primary concept, Black ecologies*.* On the one hand, this idea
+our primary concept, Black ecologies.[^1] On the one hand, this idea
 provides a way of historicizing and analyzing the ongoing reality that
 Black communities in the US South and in the wider African Diaspora are
 most susceptible to the effects of climate change, including rising sea
@@ -68,12 +62,12 @@ cell destroyed [a 150-year old Black Church, St. John's Baptist of Desha, Virgin
 and a number of homes in Essex County as well as across the Rappahannock
 River in Naylor's Beach, people in rural Tidewater Virginia have been
 terrified by the prospects of these violent storms. Virginians,
-especially those in vulnerable rural communities, have already had to
-define a new normal defined by destructive weather because of the
-changing climate.
+especially those in vulnerable rural communities, have already had to define a new normal based on the likelihood of destructive weather because of the changing climate.
 
 <figure>
-<figcaption>Figure 3. Text
+<iframe width="560" height="600" src="https://www.youtube.com/embed/TakYXaL6djk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption>Figure 3. Storm Damage, Middlesex County, VA, October 12, 2018.
+(Sherita Mahone)
 </figcaption>
 </figure>
 
@@ -105,7 +99,7 @@ locations long occupied by *les damnés* *de la terre*/the wretched of
 the earth: the geographies of the homeless, the jobless, the
 incarcerated, the invisible laborers, the underdeveloped, the
 criminalized, the refugee, the kicked about, the impoverished, the
-abandoned, the unescaped"[^1]. In Katrina's aftermath, the ideological
+abandoned, the unescaped"[^2]. In Katrina's aftermath, the ideological
 and physical violence imposed upon Black life was flung into the
 international spotlight. World news media broadcast images of low income
 and working-class African Americans, clinging to their rooftops and
@@ -121,7 +115,7 @@ along the Mississippi River that has a greater chance of escaping total
 inundation when Hurricanes strike greater New Orleans. That area,
 corresponding with the racial topography of New Orleans, has come to be
 inhabited primarily by whites." %}
-![Map]({{site.url}}/assets/img/v02/roane/figure4.png)
+![Map of population loss in New Orleans]({{site.url}}/assets/img/v02/roane/figure4.png)
 {% endfigure %}
 
 A willful distortion of reality is required to suggest that Hurricane
@@ -151,7 +145,7 @@ ingenious critique of the Bush Administration's response to Katrina:
 > See we can't hustle in they trap, we ain't from (Georgia)
 > Now it's them dead bodies, them lost houses
 >
-> ---[Lil' Wayne and Robin Thicke, "Georgia...Bush"](https://www.youtube.com/watch?v=oAYbiptPSIg)[^2]
+> ---[Lil' Wayne and Robin Thicke, "Georgia...Bush"](https://www.youtube.com/watch?v=oAYbiptPSIg)[^3]
 
 > Excuse me if I'm on one
 > And don't trip if I light one, I walk a tight one
@@ -174,7 +168,7 @@ ingenious critique of the Bush Administration's response to Katrina:
 > We got soul y'all, we got soul
 > They don't want us to see, but we already know
 >
-> ---[Lil' Wayne and Robin Thicke, "Tie My Hands"](https://www.youtube.com/watch?v=aXr_JMbkSFE)[^3]
+> ---[Lil' Wayne and Robin Thicke, "Tie My Hands"](https://www.youtube.com/watch?v=aXr_JMbkSFE)[^4]
 
 Our ongoing project integrates audio, images, and digital mapping in its
 analysis, in order to depict the ways that Southern Black communities
@@ -185,12 +179,12 @@ capitalism and its attendant challenge to the conceptions of capitalism
 that ignore its originary dependence on racialization to challenge this
 nascent discourse of the Anthropocene, which in broad strokes paints the
 mounting ecological crisis in terms of generic, undifferentiated
-humanity.[^4] While recognizing the ways that geospatial analysis and
+humanity.[^5] While recognizing the ways that geospatial analysis and
 digital tools augment and enhance historical interpretation, our ongoing
 project also reckons with the inherent violence of cartography as a
 practice. Sylvia Wynter explains how Western cartography developed as a
 set of technologies and spatial tactics in order to facilitate Western
-imperialism and its exploitative, genocidal projects.[^5]
+imperialism and its exploitative, genocidal projects.[^6]
 
 Projecting and transforming a multilayered 3D place onto a 2D digital
 map necessitates the literal and figurative flattening of that location,
@@ -203,7 +197,7 @@ Judith Madera argues that "place" is a social construction that is both
 discursive and affective. Further, she asserts that
 "counter-cartographies," or "people's geographies," are key ways that
 Black people have defined spaces for themselves and de-stabilized
-dominant and exclusionary representations[^6]. Our ongoing project on
+dominant and exclusionary representations[^7]. Our ongoing project on
 Black ecologies intervenes from this perspective, incorporating audio,
 images, and digital mapping in order to create "deep maps" that garner a
 robust appreciation for both Black ecological vulnerability and
@@ -246,10 +240,10 @@ heavy downpours, likely exacerbated by deforestation. Enslaved, free,
 and later post-emancipation communities suffered the effects of these
 transformations as malnourished laborers forced to transform the
 landscape by filling swamps, rerouting and damning waterways, herding
-domesticated animals, and clearing forests.[^7] Ongoing exposure is the
+domesticated animals, and clearing forests.[^8] Ongoing exposure is the
 legacy of these sedimented histories that form a radical and disturbing
 continuity in regional and local histories of the United States South
-and the wider African Diaspora.[^8]
+and the wider African Diaspora.[^9]
 
 We call for the widened yet elastic concept of "Black ecologies" as a
 way of mapping ongoing susceptibility as a function of historical and
@@ -257,13 +251,13 @@ ongoing relations. Like Black geographies, the designation Black marks
 the outside within the ecologies of living---the spaces that sustain and
 reproduce normative forms of biological and social existence. As a
 naming of the outside and the bottom, Black ecologies are foremost sites
-of ongoing injury, gratuitous harm, and premature death.[^9] The
+of ongoing injury, gratuitous harm, and premature death.[^10] The
 designation of these as ecologies seeks to bring into focus the critical
 ways that forces above even the hand of Man punctuate, underline, and
-exacerbate [raw spatial inequality](http://www.worldcat.org/title/rethinking-environmental-racism-white-privilege-and-urban-development-in-southern-california/oclc/4901047276&referer=brief_results).[^10]
+exacerbate [raw spatial inequality](http://www.worldcat.org/title/rethinking-environmental-racism-white-privilege-and-urban-development-in-southern-california/oclc/4901047276&referer=brief_results).[^11]
 Black ecologies are spaces threatened directly by the rising seas and
 made toxic as the sites where the byproducts of production and
-consumption can be [dumped](http://www.ucc.org/environmental-ministries_toxic-waste-20).[^11]
+consumption can be [dumped](http://www.ucc.org/environmental-ministries_toxic-waste-20).[^12]
 At the same time, they form the critical ecologies of the damned, sites
 wherein ordinary Black people articulate alternative maps---dissonant
 and heterodox ecological grammars as well as vision for a different
@@ -284,7 +278,7 @@ shaping the anti-Black landscape she understood as having originated in
 slavery. After describing violence on plantations and the ongoing
 economic exploitation Black people faced in the 1930s, Fulkes told her
 interviewer quite candidly, "Lord, Lord, I hate white people and de
-flood waters gwine drown some mo."[^12]  Here Fulkes' cartographic
+flood waters gwine drown some mo."[^13]  Here Fulkes' cartographic
 knowledge of a water landscape from the bottom is recast not simply as
 vulnerability but as a subtle demand on her god to eradicate the white
 powerholders benefitting from the uneven contours perpetuating relations
@@ -306,13 +300,17 @@ the people available through our paradigm of Black ecologies.
 
 ### Bibliography
 
+Commission for Racial Justice. "Toxic Wastes and Race in the United States: A National Report on the Racial and Socio-Economic characteristics of Communities with Hazardous Waste Sites." New York: United Church of Christ, 1987.
+
+Federal Writers' Project. *Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves*. Federal Writer's Project. Library of Congress. <https://lccn.loc.gov/41021619>.
+
 Gilmore, Ruth Wilson. "Fatal Couplings of Power and Difference: Notes on Racism and Geography." *The Professional Geographer* 54, no. 1 (2002): 15--24. <https://doi.org/10.1111/0033-0124.00310>.
 
 Greene, Jack P., ed. *The Diary of Colonel Landon Carter of Sabine Hall, 1752--1778*. Charlottesville: University of Virginia Press, 1965.
 
-Federal Writers' Project. *Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves*. Federal Writer's Project. Library of Congress. <https://lccn.loc.gov/41021619>.
-
 Hanchard, Michael. "Black Memory versus State Memory: Notes toward a Method." *Small Axe* 12, no. 2 (June 2008): 45--62. <https://doi.org/10.1215/-12-2-45>.
+
+Hare, Nathan. “Black Ecology.” *The Black Scholar* 1, no. 6 (2016): 2--8. <https://doi.org/10.1080/00064246.1970.11728700>.
 
 Hartman, Saidiya. *Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America*. New York: Oxford University Press, 1997.
 
@@ -330,38 +328,42 @@ Roane, J.T. "Plotting the Black Commons." *Souls Journal* 20, no. 3 (2019): 239-
 
 Roane, J.T. "The Loss of Sanctuary; The Loss of Community: Climate Change in the Era of Black Lives Matter." *New Black Man in Exile* blog (February 26, 2016). <https://www.newblackmaninexile.net/2016/02/reflections-on-tornado-that-destroyed.html>. 
 
-Commission for Racial Justice. "Toxic Wastes and Race in the United States: A National Report on the Racial and Socio-Economic characteristics of Communities with Hazardous Waste Sites." New York: United Church of Christ, 1987.
+Robinson, Cedric. *Black Marxism: The Making of the Black Radical Tradition*. Chapel Hill: University of North Carolina Press, 2000.
 
 Vergès, Françoise. "Racial Capitalocene." In *Futures of Black Radicalism*, edited by Theresa Gaye Johnson and Alex Lubin. Brooklyn: Verso, 2017.
 
 Wynter, Sylvia. "1492: A New World View." In *Race, Discourse, and the Origin of the Americas: A New World View*, edited by Vera Lawrence Hyatt and Rex Nettleford. Washington, DC: Smithsonian Institution Press, 1995.
 
+Yusoff, Kathryn. *A Billion Black Anthropocenes or None*. Minneapolis: University of Minnesota Press, 2018.
+
 ---
 
 ### Notes
 
-[^1]: McKittrick and Woods, *Black Geographies and the Politics of Place*, 2.
+[^1]: We build on the effort of Nathan Hare to understand the overlapping social, economic, and ecological vulnerabilities defining Black life. See Hare, “Black Ecology.”
 
-[^2]: Lil' Wayne and Robin Thicke, "Georgia...Bush/Weezy'z Ambitionz."
+[^2]: McKittrick and Woods, *Black Geographies and the Politics of Place*, 2.
 
-[^3]: Lil' Wayne and Robin Thicke, "Tie My Hands."
+[^3]: Lil' Wayne and Robin Thicke, "Georgia...Bush/Weezy'z Ambitionz."
 
-[^4]: NEED NOTE
+[^4]: Lil' Wayne and Robin Thicke, "Tie My Hands."
 
-[^5]: Wynter, "1492: A New World View."
+[^5]: Vergès, “Racial Capitalocene;” Robinson, *Black Marxism*; Yusoff, *A Billion Black Anthropocenes*.
 
-[^6]: Madera, *Black Atlas: Geography and Flow*, 1--23.
+[^6]: Wynter, "1492: A New World View."
 
-[^7]: Greene, *The Diary of Colonel Landon Carter of Sabine Hall*, 127--200.
+[^7]: Madera, *Black Atlas: Geography and Flow*, 1--23.
 
-[^8]: Roane, "Plotting the Black Commons," 239--266.
+[^8]: Greene, *The Diary of Colonel Landon Carter of Sabine Hall*, 127--200.
 
-[^9]: Gilmore, "Fatal Couplings of Power and Difference: Notes on Racism
+[^9]: Roane, "Plotting the Black Commons," 239--266.
+
+[^10]: Gilmore, "Fatal Couplings of Power and Difference: Notes on Racism
     and Geography," 15--24; Hartman, *Scenes of Subjection*.
 
-[^10]: Pulido, "Rethinking Environmental Racism," 12-40.
+[^11]: Pulido, "Rethinking Environmental Racism," 12-40.
 
-[^11]: United Church of Christ, "Toxic Wastes and Race in the United
+[^12]: United Church of Christ, "Toxic Wastes and Race in the United
     States."
 
-[^12]: Minnie Fulkes interviewed by Susie Byrd, in Federal Writers' Project *Slave Narratives*, Vol. XVII.
+[^13]: Minnie Fulkes interviewed by Susie Byrd, in Federal Writers' Project *Slave Narratives*, Vol. XVII.

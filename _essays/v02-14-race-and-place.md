@@ -16,13 +16,6 @@ abstract: |
   In the 1930s, the New Deal provided employment for cultural workers through organizations like the Federal Writers' Project (FWP). The federal government sent writers across the country to collect life histories, an emerging genre at the intersection of oral history, ethnography, and literature. Among the most prominent and debated are the Ex-Slave Narratives, a collection of over 2,400 life histories with former enslaved peoples. Rather than focusing on the Ex-Slave Narratives as a source for understanding the antebellum era or American south during Reconstruction, this article explores how the writing style of the narratives shaped the construction of race and southern identity in the late 1930s.
   
   Using text analysis, I show how dialect was not only racialized but also connected to a particular (cultural) geography—the American South. I build off of Catherine Stewart's argument that Ex-Slave Narratives dialect was racialized and often worked to deny interviewees rights to full citizenship by using this powerful representational, rhetorical strategy to "other" formerly enslaved people and therefore deny their full selfhood in the interviews. At the same time, the FWP's Southern Life Histories Project—which focused on life histories with laborers in the lowest economic strata residing in the South—marked dialect as a regional feature. Dialect, therefore, also signified that the person speaking was rural, uneducated, and Southern. This came at a time when Southern life was under a microscope; the national debate centered around whether the South was the reason the nation struggled to end the Great Depression and progress. Dialect effectively marked a person as poor, black, and southern, leaving those interviewed in the Ex-Slave Narratives representationally on the margins of US society.
-appendix:
-- name: README
-  file: tilton-v02/README.txt
-- name: Data archive
-  file: tilton-v02/tilton-data.zip
-- name: Code archive
-  file: tilton-v02/tilton-code.zip
 preview: "/assets/img/v02/tilton/preview.png"
 ---
 
@@ -125,7 +118,7 @@ In response, John Lomax, Folklore Editor from 1936 to 1937, developed a
 set out to standardize how local variations would be written. For
 example, dialect words such as "de" or "dat" were spelled without an
 "h" because the letter was considered unnecessary, and words like
-"poe" should not be used for "po' (poor)." [^16] As a result, FWP
+"poe" was not to be used for "po' (poor)." [^16] As a result, FWP
 writers flattened regional variations into a single speech style
 intended to represent all black oral traditions across the U.S.[^17]
 
@@ -135,10 +128,7 @@ Ex-Slave Narratives." %}
 {% endfigure %}
 
 Text analysis reveals which words were most indicative of dialect. In
-order to identify dialect terms, the Ex-Slave Narratives were converted
-to plain text files and words not found in a standard english word list
-were isolated. The top 120 remaining words were then manually labeled
-and filtered to detect 92 dialect terms. Frequencies of the most common
+order to identify dialect terms, the Ex-Slave Narratives were converted to plain text files using the WPAnarratives R package created by Lincoln Mullen, and words not found in a standard english word list were isolated. The top 120 remaining words were then manually labeled and filtered to detect 92 dialect terms. Frequencies of the most common
 dialect terms are shown in Figure 1. Words such as "wuz" (in lieu of
 "was") and "dere" (in lieu of "there") were the most used.
 
