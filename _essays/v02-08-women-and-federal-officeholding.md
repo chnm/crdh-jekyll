@@ -13,13 +13,6 @@ authors:
   url: "http://www.cameronblevins.org"
 abstract: |
   When and how did American women enter the federal workforce? In order to answer this question I turn to the nineteenth century's largest government institution, the U.S. Post. During the nineteenth century thousands of women served as postmasters. As is often the case for women's history, however, an incomplete archival record makes it difficult to know how many were in office and how that number changed over time. This essay compares three separate data sources to distill that pattern. All three data sources show a similar trajectory: beginning in the 1860s and accelerating through the 1870s and 1880s, many more women began serving as postmasters in the federal government. The nature of the nineteenth-century postal system provided women with a number of advantages for women to step into public office. The wave of female postmasters during the late nineteenth century was a crucial wedge for women's broader entry into the federal government.
-appendix:
-- name: README
-  file: blevins-v02/README.txt
-- name: Data archive
-  file: blevins-v02/blevins-data.zip
-- name: Code archive
-  file: blevins-v02/blevins-code.zip
 preview: "/assets/img/v02/blevins/preview.png"
 ---
 
@@ -75,7 +68,7 @@ workforce. Even when calculated as a percentage of all Presidential
 postmaster appointments, the share of women roughly tripled between the
 1860s and the 1890s (see figure 1).[^4] 
 
-{% figure caption: "Figure 1. Each year, sitting U.S. Presidents would nominate people to federal office and the Senate would then confirm those nominations. The majority of these positions were for postmaster positions in large urban post offices. The chart was calculated from a dataset provided by Scott James." %}
+{% figure caption: "Figure 1. Each year, sitting U.S. Presidents would nominate people to federal office and the Senate would then confirm those nominations. The majority of these appointments were for postmaster positions in large urban post offices (shown here). The share of these nominations that were filled by women roughly tripled between the 1860s and the 1890s, part of a larger entry of women into the postal workforce. The chart was calculated from a dataset provided by Scott James." %}
 ![Line graph of percentage of women among U.S. Presidential postmaster nominations.]({{site.url}}/assets/img/v02/blevins/figure1.png)
 {% endfigure %}
 
@@ -112,7 +105,7 @@ Presidential postmaster appointments, with a steady rise in the share
 of female appointees over the final decades of the nineteenth
 century (see figure 2).[^7]
 
-{% figure caption: "Figure 2. This chart illustrates the share of all nineteenth-century postmaster appointments in Texas that were held by women. Data compiled from Wheat, “Postmasters & Post Offices of Texas, 1846--1930.”" %}
+{% figure caption: "Figure 2. This chart illustrates the share of all nineteenth-century postmaster appointments in Texas that were held by women. The proportion of women holding postmaster positions briefly spiked and dropped during the political tumult of the U.S. Civil War and Reconstruction before steadily rising from the 1870s to the 1890s. Data compiled from Wheat, “Postmasters & Post Offices of Texas, 1846--1930.”" %}
 ![Line graph of percentage of women among postmaster appointments in Texas in the nineteenth-century.]({{site.url}}/assets/img/v02/blevins/figure2.png)
 {% endfigure %}
 
@@ -149,15 +142,15 @@ mirrors that of the first two datasets: use of the phrase "postmistress"
 rose dramatically in printed texts during the 1870s and 1880s. (See
 figures 3, 4, and 5.)
 
-{% figure caption: "Figure 3. This chart shows the relative frequency of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers from 1840--1900. The search term was case-insensitive. The chart uses a three-year smoothing, and comes from a [Bookworm interface for Chronicling America](http://benschmidt.org/ChronAm/#?%7B%22words_collation%22%3A%22Case_Insensitive%22%2C%22search_limits%22%3A%5B%7B%22word%22%3A%5B%22postmistress%22%5D%2C%22publish_year%22%3A%7B%22%24gte%22%3A1836%2C%22%24lte%22%3A1922%7D%7D%5D%7D.) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
+{% figure caption: "Figure 3. This chart shows the relative frequency of the term “postmistress” (or female postmaster) in the *Chronicling America* Database of Historical Newspapers from 1840--1900. The chart shows a dramatic increase in the use of this phrase within American newspapers in the late nineteenth century, which likely reflects a real-world phenomenon of more women serving as postmasters. The search term was case-insensitive and the chart uses a three-year smoothing. It comes from a [Bookworm interface for Chronicling America](http://benschmidt.org/ChronAm/#?%7B%22words_collation%22%3A%22Case_Insensitive%22%2C%22search_limits%22%3A%5B%7B%22word%22%3A%5B%22postmistress%22%5D%2C%22publish_year%22%3A%7B%22%24gte%22%3A1836%2C%22%24lte%22%3A1922%7D%7D%5D%7D.) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the *Chronicling America* Database of Historical Newspapers, using two million texts and twenty-two billion words.]({{site.url}}/assets/img/v02/blevins/figure3.png)
 {% endfigure %}
 
-{% figure caption: "Figure 4. This chart shows the relative frequency of the term “postmistress” in the HathiTrust Digital Library from 1840--1900. The search term was case-insensitive and searched a corpus of English language books published in the United States. The chart uses a three-year smoothing, and comes from a [Bookworm interface for HathiTrust](https://bookworm.htrc.illinois.edu/develop/#?%7B%22search_limits%22:%5B%7B%22word%22:%5B%22postmistress%22%5D,%22date_year%22:%7B%22$gte%22:1840,%22$lte%22:1900%7D,%22language__id%22:%5B%221%22%5D,%22publication_country__id%22:%5B%221%22%5D%7D%5D,%22counttype%22:%22WordsPerMillion%22%7D) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
+{% figure caption: "Figure 4. This chart shows the relative frequency of the term “postmistress” in the HathiTrust Digital Library from 1840--1900. Much like the trend in newspapers shown in figure 3, the phrase “postmistress” skyrocketed in popularity from the 1860s onwards in the HathiTrust corpus. The search term was case-insensitive and searched a corpus of English language books published in the United States. The chart uses a three-year smoothing, and comes from a [Bookworm interface for HathiTrust](https://bookworm.htrc.illinois.edu/develop/#?%7B%22search_limits%22:%5B%7B%22word%22:%5B%22postmistress%22%5D,%22date_year%22:%7B%22$gte%22:1840,%22$lte%22:1900%7D,%22language__id%22:%5B%221%22%5D,%22publication_country__id%22:%5B%221%22%5D%7D%5D,%22counttype%22:%22WordsPerMillion%22%7D) developed by Benjamin Schmidt, Matt Nicklay, Neva Cherniavsky Durand, Martin Camacho, and Erez Lieberman Aiden at the Cultural Observatory. Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the HathiTrust Digital Library, using six hundred and twenty-five thousand texts and one hundred and seventeen billion words.]({{site.url}}/assets/img/v02/blevins/figure4.png)
 {% endfigure %}
 
-{% figure caption: "Figure 5. This chart shows the relative frequency of the term “postmistress” as a percentage of all words in Google Books (American English Corpus) from 1840--1900. The search term was case-sensitive and searched the Google Books American English corpus. The chart uses a three-year smoothing, and comes from the [Google Books NGram Viewer](https://books.google.com/ngrams/graph?content=postmistress&year_start=1840&year_end=1900&corpus=17&smoothing=3&share=&direct_url=t1%3B%2Cpostmistress%3B%2Cc0). Generated on October 15, 2018." %}
+{% figure caption: "Figure 5. This chart shows the relative frequency of the term “postmistress” as a percentage of all words in Google Books (American English Corpus) from 1840--1900. Similar to figures 2 and 3, this corpus shows a rise in the phrase in the Google Books corpus during the final decades of the nineteenth century. This was likely tied to a real-world phenomenon of more women serving as postmasters. The search term was case-sensitive and searched the Google Books American English corpus. The chart uses a three-year smoothing, and comes from the [Google Books NGram Viewer](https://books.google.com/ngrams/graph?content=postmistress&year_start=1840&year_end=1900&corpus=17&smoothing=3&share=&direct_url=t1%3B%2Cpostmistress%3B%2Cc0). Generated on October 15, 2018." %}
 ![Line graph of the term “postmistress” in the Google Books American English Corpus.]({{site.url}}/assets/img/v02/blevins/figure5.png)
 {% endfigure %}
 
@@ -206,7 +199,7 @@ nation's post offices. (See figure 6.) Although the carousel of partisan
 patronage wasn't good for job security, it did give women many more
 opportunities to jump on board.
 
-{% figure caption: "Figure 6. New presidential administrations would often install party leaders as officials in the Post Office Department in order to disburse patronage positions. This meant often meant that previous officeholders were replaced with party loyalists. Annual totals transcribed from *Annual Reports of the Postmaster General*, 1865--1900, with each year reflecting the *previous* fiscal year running from July to June. For example, 1886 represents removals from July 1, 1885 to June 30, 1886." %}
+{% figure caption: "Figure 6. New presidential administrations would often remove officeholders in the Post Office Department and dispense their positions as patronage to party loyalists. These partisan purges of the postal workforce followed the 1884, 1888, 1892, and 1896 elections that flipped the presidency between Republicans and Democrats. Annual figures were transcribed from *Annual Reports of the Postmaster General*, 1865--1900, with each year reflecting the *previous* fiscal year running from July to June. For example, 1886 represents removals from July 1, 1885 to June 30, 1886." %}
 ![Bar chart showing the number of postmasters removed during each presidential administration from eighteen sixty-five to nineteen hundred.]({{site.url}}/assets/img/v02/blevins/figure6.png)
 {% endfigure %}
 

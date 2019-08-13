@@ -15,12 +15,8 @@ authors:
 abstract: |
   Testimony before Congressional committees forms an important body of evidence in many scholarly works, but as a subject in its own right, testifying before Congress is relatively little studied. Yet, as the most accessible form of (federal) lobbying, Congressional hearings offer a wide-angle view of attempts to gain the ear of the state, one that in no way excludes the influence of powerful financial interests but also encompasses the presence of representatives of ordinary Americans, such as labor unions. Using metadata on testimony at Congressional hearings, this paper makes a first attempt at combining a historical overview approach with a focus on labor both as a topic and an actor, examining both Congressional attention to work-related matters and labor's representation at hearings. The birds-eye view presented in the paper underlines a crude yet important point: politics matters, but to make a mark in politics, one needs a base of power. Political alliances and electoral shifts have mattered greatly to labor's Congressional fortunes both through access to hearings and by potentially shaping the testimony of the many government and party witnesses, but such political alliances are insufficient in themselves unless labor is able to assert power outside of electoral politics.
 appendix:
-- name: README
-  file: hulden-v02/README.txt
-- name: Data archive
-  file: hulden-v02/hulden-data.zip
-- name: Code archive
-  file: hulden-v02/hulden-code.zip
+- name: Github
+  url: "https://github.com/vhulden/congressionalhearings/"
 preview: "/assets/img/v02/hulden/preview.png"
 ---
 
@@ -136,7 +132,7 @@ representation from about 1934 to about 1969---the height of New Deal
 liberalism and an era when labor's alliance with the Democrats (who
 mostly controlled Congress) was at its most robust. Even though
 companies and trade associations, if added together, still overshadowed
-labor in these years, the presence of labor witnesses is substantial.
+labor in these years, the presence of labor witnesses was substantial.
 
 The usefulness of labor's alliance with the Democrats, of course, was
 linked to labor's strength in the broader society. Union power made
@@ -189,7 +185,7 @@ a more staid and routinized status in the post-World War II era.[^16]
 
 Another noteworthy pattern is the significance of two committees that
 are generally not thought of as labor-related but that nevertheless
-heard a constant patter of work- and employment-related issues: the
+considered a constant stream of work- and employment-related issues: the
 Committees on Appropriations (House and Senate) and the Committee on
 Ways and Means (House). Much of importance to working people happens at
 these committees. The House Ways and Means Committee not only has the
@@ -300,7 +296,8 @@ Fellowes, Matthew C., and Patrick J. Wolf. "Funding Mechanisms and Policy Instru
 
 Feurer, Rosemary, and Chad Pearson, eds. *Against Labor: How U.S. Employers Organized to Defeat Union Activism*. Urbana: University of Illinois Press, 2017. <https://doi.org/10.5406/illinois/9780252040818.001.0001>.
 
-Francia, Peter L. *The Future of Organized Labor in American Politics*. New York: Columbia University Press, 2006. <https://doi.org/10.7312/fran13070>.                                                              
+Francia, Peter L. *The Future of Organized Labor in American Politics*. New York: Columbia University Press, 2006. <https://doi.org/10.7312/fran13070>.                             
+
 Greene, Julie. *Pure and Simple Politics: The American Federation of Labor and Political Activism, 1881--1917*. New York: Cambridge University Press, 1998. <https://doi.org/10.1017/CBO9780511509797>.
 
 Herring, E. Pendleton. *Group Representation Before Congress*. Baltimore, MD: Johns Hopkins University Press, 1929.
