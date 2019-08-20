@@ -25,12 +25,8 @@ authors:
 abstract: |
   Royal African Company Networks is a pilot project designed to explore the possibilities of using computational text analysis and GIS to investigate the correspondence of the Royal African Company, England’s late seventeenth-century African trade monopoly. Our project maps over 3,000 letters between the company’s main fort, Cape Coast Castle, in modern-day Ghana and the company’s ‘outforts,’ or smaller holdings on the coast. We then combine mapping with computational text analysis to draw out themes in the correspondence. We hope this project demonstrates the potential of bringing an interdisciplinary approach to historical analysis and serves as a stepping-stone for further exploration.
 appendix:
-- name: README
-  file: ruderman-v02/README.txt
-- name: Data archive
-  file: ruderman-v02/ruderman-heller-xue-data.zip
-- name: Code archive
-  file: ruderman-v02/ruderman-heller-xue-code.zip
+- name: Github
+  url: "https://github.com/xueharry/RAC"
 preview: "/assets/img/v02/ruderman/preview.png"
 ---
 
@@ -57,7 +53,7 @@ Americas.[^3] This project is currently in a pilot phase, accessible on
 the website racnetworks.wordpress.com. We hope that our website, current
 findings and ongoing questions will be the basis of a larger research
 agenda, culminating in a series of publications and a public exhibition
-of maps.
+of cartographic and infographic visualizations.
 
 Our maps and informational graphics are based on a collection of over
 3,000 individual letters that the RAC sent from one place to another on
@@ -80,10 +76,10 @@ moments, nonchalance, concern, satisfaction and frustration when all
 goes wrong. They reveal the mechanisms of Euro-African trade at work and
 the texture of life on the African coast in the late seventeenth
 century: a world beset by fires, rats, fighting and occasional shortages
-of food. They reveal the tenuous position of the company's forts on the
+of food. They illustrate the tenuous position of the company's forts on the
 African coast and the way that the company's fort structure was deeply
 embedded in an African geopolitical context. But they are even more
-revealing when read in conjunction with macro-techniques. By using
+meaningful when read in conjunction with macro-techniques. By using
 computational text analysis combined with insights from GIS, we can
 challenge some basic assumptions about the way the English monopoly
 operated on the African coast. Despite the richness of the corpus, it is
@@ -100,8 +96,7 @@ used coasting and transatlantic vessels as vectors of communication,
 ferrying information from one part of the coast to another. We can also
 demonstrate that slaves were more prevalent in the company's
 discussions on the coast than gold in the late seventeenth century, even
-though enslaved people did not overtake gold as the major export from
-the coast until the 1720s.[^9]
+though the trade in non-human commodities was more valuable than the trade in people throughout the seventeenth century.[^9]
 
 {% figure caption: "Figure 1. This map at the scale of the coast of Western Africa illustrates the density of correspondences of the Royal African Company. Line weight corresponds to the volume of correspondences sent to each post." %}
 ![Map showing the density of correspondences of the Royal African Company.]({{site.url}}/assets/img/v02/ruderman/figure1.jpg)
@@ -163,9 +158,7 @@ travel against the prevailing eastward current as well as over the surf,
 reaching transatlantic ships in the ocean beyond. The word-frequency
 analysis also showed a significant gap between "slaves" (1674) and
 "gold" (663), suggesting that slaves were very much a part of the
-RAC's quotidian existence on the coast, despite the fact that enslaved
-people did not become the African coast's major export until the
-eighteenth century.[^14] The salience of the agricultural product,
+RAC's quotidian existence on the coast.[^14] The salience of the agricultural product,
 "corn" (1243), suggests that African agriculture was well-developed in
 the early phase of European contact. The RAC discussed the "Dutch"
 (904) more than they discussed "gold," "gunpowder" or the term
@@ -200,7 +193,7 @@ from their positions on the coast.[^15]
 {% endfigure %}
 
 Analyzing word frequency by different dimensions---place, sender, year
-and month---reveals further patterns in the corpus. For example, pirate
+and month---shows further patterns in the corpus. For example, pirate
 and pirates emerge as a major concern to the company, with a
 concentration to the west. But "pirate" and "pirates" only surface in
 some locations and from some letter-writers, while the term "slaves"
@@ -241,7 +234,7 @@ sletias. A fourth cluster concerns quantity words. A final cluster
 includes nautical, geographic and competitive terms: ashore, windward,
 French, Dutch, interloper, aboard, road, ship, coast.
 
-{% figure caption: "Figure 12. Word embeddings done via Word-2-Vec show distinct clusters of words around different themes." %}
+{% figure caption: "Figure 12. Word embeddings done via word2vec show distinct clusters of words around different themes." %}
 ![Visualization created with Word-2-Vec showing five distinct word clusters.]({{site.url}}/assets/img/v02/ruderman/figure12.jpg)
 {% endfigure %}
 
@@ -249,8 +242,7 @@ Our final method of analysis, co-occurrence, traced associations between
 goods throughout the corpus. We opted to limit the words under
 consideration to trade goods, manufactured items, like guns or
 perpetuanos, which the RAC exchanged with its African trading partners.
-The co-occurrence analysis showed very little evidence of a single good
-or grouping of goods being predictive of the presence of other goods
+The co-occurrence analysis showed very little evidence of a single good being predictive of the presence of other goods
 except for occasional pairs of textiles, for example, tapseils and
 sletias. Here the lack of co-occurrence may be meaningful: The slave
 trade pattern of the eighteenth century was characterized above all by
@@ -266,7 +258,7 @@ wide range of goods during its monopoly era, the company may not have
 exchanged these goods at the same time, but rather individually and
 sequentially.[^19]
 
-{% figure caption: "Figure 13. A Co-Occurrence analysis, tracking the appearance of pairs of words on a per-letter basis, reveals a lack of predictability among trade goods. The presence of one trade good in a letter does not predict the presence of other trade goods." %}
+{% figure caption: "Figure 13. A co-occurrence analysis, tracking the appearance of pairs of words on a per-letter basis, reveals a lack of predictability among trade goods. The presence of one trade good in a letter does not predict the presence of other trade goods." %}
 ![List of co-occurrence analysis]({{site.url}}/assets/img/v02/ruderman/figure13.jpg)
 {% endfigure %}
 
@@ -291,18 +283,16 @@ the Dutch) were selling?
 Third, we want to ask questions about exports: What was the Royal
 African Company purchasing in Africa? Did some locations focus more on
 slaves and some locations more on gold or ivory? Did the same locations
-focus on different trade goods at different times?
+focus on different exports at different times?
 
 Finally, we want to use computational text analysis to learn more about
 the embedded (and precarious) nature of the RAC's operation on the
 African coast and the company's relationships with its African trading
-partners and surrounding states and societies.
-
-The transatlantic slave trade occurred because of the willing
-participation of African states and societies and we want to tease out
-individual African actors from the corpus in order to get a better sense
+partners and surrounding states and societies. The transatlantic slave trade occurred because of the willing participation of African states and societies and we want to tease out individual African actors from the corpus in order to get a better sense
 of how European-African relationships worked in the late seventeenth
-century. Beyond the questions we have, we also want to engage in a more
+century.
+
+Beyond the questions we have, we also want to engage in a more
 inductive and iterative process with the corpus to elicit questions we
 do not yet know to ask.
 
@@ -351,7 +341,7 @@ The authors are grateful to the Centre for History and Economics at Harvard Univ
 
 [^1]: The company had a second hub at James Fort in Gambia, which oversaw trade in Senegambia. 
 
-[^2]: For the early Portuguese slave trade, see Green, *The Rise of the Trans-Atlantic Slave*, 177--207. The Royal African Company followed a series of failed English African trade monopolies. For its immediate predecessor, see Zook, *The Company of Royal Adventurers*.
+[^2]: For the early Portuguese slave trade, see Green, *The Rise of the Trans-Atlantic Slave Trade*, 177--207. The Royal African Company followed a series of failed English African trade monopolies. For its immediate predecessor, see Zook, *The Company of Royal Adventurers*.
 
 [^3]: In 1698 England opened up the African trade to any merchant willing to pay a ten percent fee on the goods he exported to the African coast. The impact of the measure, called the Ten Percent Act, was immediate: In the decade following the Ten Percent Act, English slave ships purchased roughly twice as many enslaved people as in the decade before. Data from the [*Trans-Atlantic Slave Trade Database*](https://www.slavevoyages.org/).
 

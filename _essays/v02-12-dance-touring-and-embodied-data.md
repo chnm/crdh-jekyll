@@ -10,23 +10,16 @@ authors:
   first: Harmony
   email: bench.9@osu.edu
   affiliation: "Department of Dance, Ohio State University"
-  orcid: 0000-0001-9541-107X
+  orcid: 0000-0002-0550-8124
   url: "http://u.osu.edu/bench.9/"
 - last: Elswit
   first: Kate
   email: Kate.Elswit@cssd.ac.uk
   affiliation: "Royal Central School of Speech and Drama, University of London"
-  orcid: 0000-0002-0550-8124
+  orcid: 0000-0001-9541-107X
   url: "http://www.kateelswit.org/"
 abstract: |
   This article represents the first stage of a larger research project that considers the kinds of questions and problems that make the analysis and visualization of data meaningful for the study of dance in a historical context. We pursue this work through the exemplary case study of mid-century African American choreographer Katherine Dunham and the global legacy of her international touring. In this short piece, we focus on a dataset we manually curated to document Dunham’s location nearly every day for the four years between January 1st, 1950 and December 31st, 1953. We use this daily itinerary to consider patterns of her travel and their implications, engaging with dance both as a mode of thinking about archives of moving bodies, and as an object of historical study.
-appendix:
-- name: README
-  file: bench-v02/README.txt
-- name: Data archive
-  file: bench-v02/bench-elswit-data.zip
-- name: Code archive
-  file: bench-v02/bench-elswit-code.zip
 preview: "/assets/img/v02/bench/preview.png"
 ---
 
@@ -63,7 +56,7 @@ and professional correspondence, contracts, receipt books, personal
 logs, programs, and newspaper clippings. Although Dunham was a rigorous
 self-archivist, no single document reliably indicates where she was at a
 given moment, and we routinely cross-reference and reconcile multiple
-data points to achieve as rigorous an itinerary as possible. Because she
+data points to achieve as attentive and precise an itinerary as possible. Because she
 travelled so much, her correspondence was often sent or received "in
 care of" and postcards from one town were postmarked in another city.
 Similarly, advertisements and previews in newspapers give a limited view
@@ -77,7 +70,7 @@ the cities and countries where Dunham began and ended 93% of her days---1359 out
 What constitutes data is already an interpretation that is further
 processed through acts of collection and display---an idea that
 Johanna Drucker has described as "capta" to acknowledge "the situated,
-partial, and constitutive character of knowledge production."[^4] For example, we arrived at the four-year itinerary through aprocess of inference and deduction that also negotiated more fuzzy
+partial, and constitutive character of knowledge production."[^4] For example, we arrived at the four-year itinerary through a process of inference and deduction that also negotiated more fuzzy
 meanings. When such datasets power visualizations to give us greater
 purchase on Dunham's touring and performance schedule as a whole, the
 point is not to create something that might appear to be "natural
@@ -152,8 +145,7 @@ time and global travel into a visually comprehensible chart.
 
 Looking at figures 1 and 2, we see that Dunham's patterns of travel
 change over these four years. Scholarship on Dunham tends to focus on
-three key cities: Paris, Port-au-Prince, and New York City, all of which
-appear in the top seven cities of Figure 2. However, this dataset allows
+several key cities, three of which appear in the top cities of figure 2 (Paris, Port-au-Prince, and New York City). However, this dataset allows
 us to trace the many other cities that comprise Dunham's international
 circulation, and to observe her increasing precarity as stay-lengths
 shorten from late 1952 to mid-1953. We also see the proportion of
@@ -232,7 +224,7 @@ Bench, Harmony and Kate Elswit. "Mapping Movement on the Move: Dance Touring and
 
 Bench, Harmony and Kate Elswit. "'Checking In': The Flows of Dunham's Performers." *Dunham's Data Research Blog*. (March 28, 2019). <https://www.dunhamsdata.org/blog/checking-in-the-flows-of-dunhams-performers>.
 
-Bench, Harmony and Kate Elswit. "The Embodied Politics of Dance's Everyday." (*forthcoming*).
+Bench, Harmony and Kate Elswit. "Katherine Dunham’s Global Method and the Embodied Politics of Dance’s Everyday." Unpublished manuscript.
 
 Clark, VèVè. "Performing the Memory of Difference in Afro-Caribbean Dance: Katherine Dunham's Choreography, 1938--87." In *History and Memory in African-American Culture*, edited by Geneviève Fabre and Robert G. O'Meally, 188--204. New York: Oxford University Press, 1994.
 
@@ -244,7 +236,7 @@ Drucker, Joanna. "Humanities Approaches to Graphical Display." *Digital Humaniti
 
 Gigliotti, Simone, Marc J. Masurovsky, and Erik Steiner. "From the Camp to the Road: Representing the Evacuations from Auschwitz, January 1945." In *Geographies of the Holocaust*, edited by Anne Kelly Knowles, Tim Cole, and Alberto Giordano. Bloomington: Indiana University Press, 2014.
 
-Jimenez Mavillard, Antonio. "First Things First: Days and Nights." *Dunham's Data Research Blog*. (August 1, 2019). <https://www.dunhamsdata.org/blog/first-thing-first-days-and-nights>.
+Jimènez Mavillard, Antonio. "First Things First: Days and Nights." *Dunham's Data Research Blog*. (August 1, 2019). <https://www.dunhamsdata.org/blog/first-thing-first-days-and-nights>.
 
 Johnson, Jessica Marie. "Markup Bodies." *Social Text* 36, no. 4 (2018): 57--79. <https://doi.org/10.1215/01642472-7145658>.  
 
@@ -255,11 +247,11 @@ McKittrick, Katherine. *Demonic Grounds: Black Women and the Cartographies of St
 ### Notes
 [*Dunham’s Data*](https://www.dunhamsdata.org/) is supported by the UK Arts and Humanities Research Council, Research Grant AH/R012989/1. Writing and datasets are equally co-authored by Kate Elswit and Harmony Bench; name order is alphabetical.
 
-[^1]: Clark and Johnson, *Kaiso!*.
+[^1]: See, for example, Clark and Johnson, *Kaiso!*.
 
 [^2]: Bench and Elswit, "Mapping Movement on the Move."
 
-[^3]: D'Ignazio and Klein, *Data Feminism*.
+[^3]: See D'Ignazio and Klein, *Data Feminism*.
 
 [^4]: Drucker, "Humanities Approaches," paragraph 3.
 
@@ -269,13 +261,12 @@ McKittrick, Katherine. *Demonic Grounds: Black Women and the Cartographies of St
 
 [^7]: Clark, "Performing the Memory of Difference."
 
-[^8]: McKittrick, *Demonic Grounds*, 21; Bench and Elswit, "Embodied Politics."
+[^8]: McKittrick, *Demonic Grounds*, 21; Bench and Elswit, *Katherine Dunham’s Global Method*.
 
-[^9]: On stays, see Jimenez Mavillard, "First Things First."
+[^9]: On stays, see Jimènez Mavillard, "First Things First."
 
-[^10]: Bench and Elswit, "Embodied Politics."
+[^10]: Bench and Elswit, "Katherine Dunham’s Global Method."
 
 [^11]: Bench and Elswit, "'Checking In'."
 
-[^12]: See Gigliotti, Masurovsky, and Steiner, "From the Camp to the Road"; Bench and
-Elswit, "Embodied Politics."
+[^12]: See Gigliotti, Masurovsky, and Steiner, "From the Camp to the Road"; Bench and Elswit, "Katherine Dunham’s Global Method."
