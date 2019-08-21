@@ -13,13 +13,6 @@ authors:
   url: "http://jim-casey.com/"
 abstract: |
   Anti-slavery efforts have long served as the ostensible setting of early struggles for Black freedom and equal rights in the United States, including both the Colored Conventions and the early Black press. Recent collection, digitization, and data curation efforts, however, have made it possible to test that view using social network analysis. Based on this analysis, I show that early Black activist communities cannot be collapsed into the white-led abolitionist circuits. The Colored Conventions and the early Black press operated independently of the anti-slavery societies across six regionally distinct communities. A brief survey of these regional communities points to the wealth of research opportunities among robust, rediscovered, and reassembled archives into areas that speak to enduring questions of rights, resistance, and community-building. These inquiries simultaneously demonstrate the need for careful attention to Black data curation practices, especially with regard to inclusive approaches to scattered archives.
-appendix:
-- name: README
-  file: casey-v02/README.txt
-- name: Data archive
-  file: casey-v02/casey-data.zip
-- name: Code archive
-  file: casey-v02/casey-code.zip
 preview: "/assets/img/v02/casey/preview.png"
 ---
 
@@ -60,11 +53,7 @@ shifting landscape of nineteenth-century Black organizing.
 The data for this research necessarily comes from a wide variety of
 archives. No central collection of the Colored Conventions or Black
 press exists. Both conventions and newspapers blossomed in hundreds of
-locations across the United States. Given the scattered nature of the
-records for these histories, the past seven years has required efforts
-to prepare digital collections and associated datasets. These processes
-involved making interpretive decisions that shaped the digital
-materials.[^2] These decisions included common steps to establish scope
+locations across the United States. Given the scattered records of these histories, it has taken hundreds of hours over seven years to prepare these digital collections and associated datasets. These processes involved making interpretive decisions that shaped the digital materials.[^2] These decisions included common steps to establish scope
 and selection principles, but also the role of incomplete evidence in
 heterogeneous archives. How, for example, might a dataset describe a
 publication that is referenced by a number of its contemporaries, yet no
@@ -140,15 +129,11 @@ simplified to dyads \[convention\<=\>convention\]. The shared attendance
 network of these dyads, when a basic modularity algorithm is applied,
 reveals the following six groupings: 1. Pennsylvania Conventions, 2. Border State Conventions, 3. California Conventions, 4. A Maryland Convention, 5. Northeastern Conventions, and 6. Transnational Conventions (see figure 1).[^9]
 
-{% figure caption: "Figure 1. Antebellum state and national conventions in 6 groups, by shared attendance." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure1.png)
+{% figure caption: "Figure 1. This graph shows Antebellum state and national conventions in six groups that are roughly equivalent to regions. The six regional groups are Pennsylvania (orange); Northeastern (purple); Transnational (blue); California (dark green); Border States (light green); and Maryland (red)." %}
+![Newtwork graph of six regional groupings of state and national conventions.]({{site.url}}/assets/img/v02/casey/figure1.png)
 {% endfigure %}
 
-Figure two shows a comparison of the six regional
-communities of the Colored Conventions and their links with the Black
-press, the Underground Railroad (UGRR), and the anti-slavery societies
-(AS). The differences can be stark. The Maryland group is comprised of a
-single state convention, held in 1852, and has zero links to the other
+Figures two, three, and four show a comparison of the six regional communities of the Colored Conventions and their links with the Black press, the Underground Railroad (UGRR), and the anti-slavery societies (AS). The differences can be stark. The Maryland group is comprised of a single state convention, held in 1852, and has zero links to the other
 arenas. Where mob violence broke down the collective body of activists
 in Maryland, physical distance produces much the same effect for the
 regional community of Black California, which has only a few links with
@@ -170,27 +155,20 @@ group of Border State conventions. While a handful of states shared
 borders with slaveholding states, the conventions in Indiana and Ohio
 fostered different kinds of relationships with AS and UGRR groups.
 
-{% figure caption: "Figure 2. Network graphs, by region, of the Colored Conventions,
-Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure2.png)
+{% figure caption: "Figure 2. These two graphs show the full clusters of the regional communities of Pennsylvania and the northeast US, along with their respective connections to the Underground Railroad and Anti-Slavery groups. The small number of links in the middle of these triangles shows the scarcity of cross-connections." %}
+![Two newtwork graphs, showing the Pennsylvania and the northeastern culsters.]({{site.url}}/assets/img/v02/casey/figure2.png)
 {% endfigure %}
 
-{% figure caption: "Figure 3. Network graphs, by region, of the Colored Conventions,
-Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure3.png)
+{% figure caption: "Figure 3. These two graphs show the full transnational and California clusters, along with their respective connections to the Underground Railroad and Anti-Slavery groups. The California conventions do not have any links to the Anti-Slavery Collection, and only two connections with the Underground Railroad data. Likely other organizational bodies were more relevant, such as the Prince Hall Free Masons, AME Church, and Black economic networks in San Francisco and Sacramento." %}
+![Two newtwork graphs, showing the transnational and California culsters.]({{site.url}}/assets/img/v02/casey/figure3.png)
 {% endfigure %}
 
-{% figure caption: "Figure 4. Network graphs, by region, of the Colored Conventions,
-Black Press, Underground Railroad, and Anti-Slavery Societies." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure4.png)
+{% figure caption: "Figure 4. These two graphs show the full groups in the border states and in Maryland. The border states include Ohio and Indiana, as Illinois was marginally more connected to the transnational conventions in Michigan and Ontario. The Maryland graph does not include any UGRR or ASC figures because it is isolated, or lacking any external connections. Note that this would change during Reconstruction, but the minutes of the Maryland Free Colored People's Convention from 1852 document an outbreak of racist mob violence that prevented any further public displays of Black activism or organizing in Baltimore during the antebellum era. For more on this convention, see Colored Conventions project, [“Maryland Free Colored People's Convention, July 27-28, 1852.”](http://coloredconventions.org/items/show/260)" %}
+![Two newtwork graphs, showing the border states and Maryland culsters.]({{site.url}}/assets/img/v02/casey/figure4.png)
 {% endfigure %}
 
 These collective relationships become clearer with a view focused on the
-people who created links across each of the four arenas. By filtering
-the network graphs to display only those entities with two or more
-connections, the following set of graphs are created in figure three.
-Here, again, the differences are not subtle. In the sparser regional
-communities of California and Maryland, few or no connections bridge the
+people who created links across each of the four arenas (see figure 5). By filtering the network graphs to display only those entities with two or more connections, the following set of graphs are created in figures six through eight. Here, again, the differences are not subtle. In the sparser regional communities of California and Maryland, few or no connections bridge the
 four arenas. In Pennsylvania, the convention, UGRR, and AS groups are
 linked only through newspapers published outside the region---*The North
 Star*, the *Aliened American* and Stephen Myers's various upstate New
@@ -201,23 +179,25 @@ bridged multiple communities are revealed as cross-communal brokers that
 constitute a starting point for future research on multi-modal activism
 and organizing.
 
-{% figure caption: "Figure 5. Regional clusters filtered to show entities with 2+ links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure5.png)
+<figure>
+<iframe src="http://jim-casey.com/graphs/ccp/acotw-01/" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<figcaption>Figure 5. This <a href="http://jim-casey.com/graphs/ccp/acotw-01/">interactive visualization</a> shows all of the people and relationships found in the antebellum Colored Conventions, Black press, BPL Anti-Slavery Collections, and the Siebert Underground Railroad data.
+ </figcaption>
+</figure>
+
+{% figure caption: "Figure 6. These two graphs show clusters in the Pennsylvania and northeastern regions, filtered to show people with two or more links. In Pennsylvania, the Colored Conventions and Underground Railroad data contain many more correspondences compared to the ASC, although the Black press (orange) contributes a number of indirect connections and weak links. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-02/) of all the people with 2+ links." %}
+![Two newtwork graphs of the Pennsylvania and the northeastern culsters, filtered to show entities with 2+ links.]({{site.url}}/assets/img/v02/casey/figure6.png)
 {% endfigure %}
 
-{% figure caption: "Figure 6. Regional clusters filtered to show entities with 2+ links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure6.png)
+{% figure caption: "Figure 7. These two graphs show the transnational and California clusters, filtered to show people with two or more links. The transnational group has a roughly even distribution of links among the three major arenas, but the California conventions are only connected through two men: David Brown and William Johnson. Note that this structure also indicates that very few delegates in California attended more than a single convention, a sign of the need for greater attention to the West coast contexts of African Americans in the 1850s and 1860s. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-02/) of all the people with 2+ links." %}
+![Two newtwork graphs of the transnational and California culsters, filtered to show entities with 2+ links.]({{site.url}}/assets/img/v02/casey/figure7.png)
 {% endfigure %}
 
-{% figure caption: "Figure 7. Regional clusters filtered to show entities with 2+ links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure7.png)
+{% figure caption: "Figure 8. These two graphs show the border state and Maryland clusters, filtered to show people with two or more links. Where the border state communities contain a larger proportion of multiply connected people than the other regions, the Maryland group is entirely isolated. The word “Maryland” marks the convention group adjacent to the UGRR and ASC networks. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-02/) of all the people with 2+ links." %}
+![Two newtwork graphs of the border states and Maryland culsters, filtered to show entities with 2+ links.]({{site.url}}/assets/img/v02/casey/figure8.png)
 {% endfigure %}
 
-When the graphs are filtered to show only entities with three or more
-links, the resulting views (figure 4) show how marginal the
-Underground Railroad and anti-slavery societies were for the networks of
-Black activism. California and Maryland are isolated. For the Border
-States, only two men---David Jenkins and James Poindexter---show links
+When the graphs are filtered to show only entities with three or more links, the resulting views (figure 9-11) show how marginal the Underground Railroad and anti-slavery societies were for the networks of Black activism. California and Maryland are isolated. For the Border States, only two men---David Jenkins and James Poindexter---show links
 to the UGRR. For people in the populations served by the Transnational
 groups, it is hard to assert that the Underground Railroad and
 anti-slavery groups did not play any role, yet in the graph the only
@@ -235,16 +215,16 @@ well-known Black leaders, newspapers, and national conventions from the
 simultaneous rise of Black conventions and newspapers adjacent to or
 separate from Underground Railroad or anti-slavery organizations.
 
-{% figure caption: "Figure 8. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure8.png)
+{% figure caption: "Figure 9. These two graphs show the Pennsylvania and northeastern clusters, filtered to show people with three or more links. This resolution brings the focus back to individual relationships, including such movement brokers as Martin Delany, James W.C. Pennington, Robert Purvis, and Stephen Myers. In the northeast, the Colored Conventions sit at the center of the networks of Black activists. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-03/) of all the people with 3+ links." %}
+![Two newtwork graphs of the Pennsylvania and the northeastern culsters, filtered to show entities with 3+ links.]({{site.url}}/assets/img/v02/casey/figure9.png)
 {% endfigure %}
 
-{% figure caption: "Figure 9. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure9.png)
+{% figure caption: "Figure 10. These two graphs show the transnational and California clusters, filtered to show people with three or more links. In the transnational group, no single person connects more than two arenas. In California, only Philip A. Bell has ties to multiple conventions and newspapers. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-03/) of all the people with 3+ links." %}
+![Two newtwork graphs of the transnational and California culsters, filtered to show entities with 3+ links.]({{site.url}}/assets/img/v02/casey/figure10.png)
 {% endfigure %}
 
-{% figure caption: "Figure 10. Regional clusters filtered to show entities with 3+ links. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links." %}
-![Text]({{site.url}}/assets/img/v02/casey/figure10.png)
+{% figure caption: "Figure 11. This graph shows the border state cluster, filtered to show people with three or more links. According to this graph, the border state Colored Conventions were responsible for forging ties between any of the newspapers, Underground Railroad, or abolitionist groups. Removing the border state conventions from this group would sever any ties between the ASC and the UGRR groups entirely. Note that the Maryland cluster does not appear in this view owing to the lack of apparent links. View an [interactive network graph](http://jim-casey.com/graphs/ccp/acotw-03/) of all the people with 3+ links." %}
+![Newtwork graph of the the border state cluster, filtered to show entities with 3+ links.]({{site.url}}/assets/img/v02/casey/figure11.png)
 {% endfigure %}
 
 Ultimately, the six communities described in this paper are not
@@ -255,11 +235,7 @@ communities. Black leaders and activists created those communities in
 response to difference moments, contexts, and immediate or long-term
 needs. The shape and series of changes in each of the regional
 communities deserves far greater attention to gain greater
-understandings of the hemispheric and local contexts. Part of the work
-to be done involves more archival research in these arenas and their
-contemporaries---Black churches, Free Masons, schools, mutual aid
-societies, vigilance committees---as well as further archives of the
-Underground Railroad and anti-slavery networks.
+understandings of the hemispheric and local contexts. Part of the work to be done involves more archival research in these arenas and their contemporaries—Black churches, Free Masons, schools, mutual aid societies, vigilance committees—as well as further inquiry in the archives of the Underground Railroad and anti-slavery networks.
 
 That continuing work recalls one of the more common parliamentary
 gestures used in the Colored Conventions. During a meeting, participants
@@ -296,7 +272,7 @@ Otis, Jessica (@jotis13). "Also, IMO, Creating a Dataset SHOULD Be Considered Sc
 ### Notes
 
 [^1]: See Hutton, *The Early Black Press in American, 1827 to 1860*,
-    3--4; Gardner, *Unexpected Places* 5--7, and Bacon, *Freedom's
+    3--4; Gardner, *Unexpected Places* 5--7; and Bacon, *Freedom's
     Journal*, 2.
 
 [^2]: See Johnson, "Markup Bodies," 58--65. In addition, as Jessica Otis

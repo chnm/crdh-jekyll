@@ -224,7 +224,7 @@ Bench, Harmony and Kate Elswit. "Mapping Movement on the Move: Dance Touring and
 
 Bench, Harmony and Kate Elswit. "'Checking In': The Flows of Dunham's Performers." *Dunham's Data Research Blog*. (March 28, 2019). <https://www.dunhamsdata.org/blog/checking-in-the-flows-of-dunhams-performers>.
 
-Bench, Harmony and Kate Elswit. "Katherine Dunham’s Global Method and the Embodied Politics of Dance’s Everyday." Unpublished manuscript.
+Bench, Harmony and Kate Elswit. “Katherine Dunham’s Global Method and the Embodied Politics of Dance’s Everyday.” Unpublished article, last modified July 31 2019.
 
 Clark, VèVè. "Performing the Memory of Difference in Afro-Caribbean Dance: Katherine Dunham's Choreography, 1938--87." In *History and Memory in African-American Culture*, edited by Geneviève Fabre and Robert G. O'Meally, 188--204. New York: Oxford University Press, 1994.
 
@@ -261,7 +261,7 @@ McKittrick, Katherine. *Demonic Grounds: Black Women and the Cartographies of St
 
 [^7]: Clark, "Performing the Memory of Difference."
 
-[^8]: McKittrick, *Demonic Grounds*, 21; Bench and Elswit, *Katherine Dunham’s Global Method*.
+[^8]: McKittrick, *Demonic Grounds*, 21; Bench and Elswit, "Katherine Dunham’s Global Method."
 
 [^9]: On stays, see Jimènez Mavillard, "First Things First."
 
