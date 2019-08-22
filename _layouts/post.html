@@ -42,7 +42,11 @@ layout: default
         {% endif %}
         <ul>
         {% for item in page.appendix %}
+            {% if item.file %}
             <li><a href="{{ site.appendices }}/{{ item.file }}" download>{{ item.name }}</a></li>
+            {% else %}
+            <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+            {% endif %}
         {% endfor %}
         </ul>
         {% endif %}
