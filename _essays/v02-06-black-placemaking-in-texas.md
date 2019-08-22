@@ -288,8 +288,6 @@ Boyd, Candice, and Michelle Duffy. "Sonic Geographies of Shifting Bodies." *Inte
 
 Catalani, Anna, and Tobias Ackroyd. "Hearing Heritage: Soundscapes and the Inheritance of Slavery." Gothenburg, Sweden, 2012.
 
-Fields-White, Monee. "Black Towns in America: Disappeared From the History Books." *The Root*. Last modified June 22, 2013. http://www.theroot.com/multimedia/lost-black-cities.
-
 Kelly, Joan. *Women, History & Theory: The Essays of Joan Kelly*. Chicago: University of Chicago Press, 1984.
 
 Kuris, Gabriel. "A Huge Problem in Plain Sight: Untangling Heirs; Property Rights in the American South, 2001--2017." January 24, 2018. <https://successfulsocieties.princeton.edu/publications/huge-problem-plain-sight-untangling-heirs-property-rights-american-south>.
@@ -305,6 +303,8 @@ Roberts, Andrea. "The Texas Freedom Colonies Project Atlas & Study." Oaktrust Re
 Roberts, Andrea R. "Performance as Place Preservation: The Role of Storytelling in the Formation of Shankleville Community's Black Counterpublics." *Journal of Community Archaeology & Heritage*, 2018, 1--20. <https://doi.org/10.1080/20518196.2018.1480002>.
 
 Sandercock, Leonie. "Framing Insurgent Historiographies for Planning." In *Making the Invisible Visible: A Multicultural Planning History*, edited by Leonie Sandercock. Berkeley: University of California Press, 1998.
+
+Sanders, Brandee, and Monee Fields-White. "History's Lost Black Towns." *The Root*. January 1, 2011. <https://www.theroot.com/historys-lost-black-towns-1790868004>.
 
 Schweninger, Loren. *Black Property Owners in the South, 1790--1915*. Urbana, IL: University of Illinois Press, 1997.
 
@@ -332,7 +332,7 @@ Temple-Raston, Dina. *A Death in Texas: A Story of Race, Murder, and a Small Tow
 
 [^5]: Temple-Raston, *A Death in Texas*. Huff Creek settlement was the site of the 1998 dragging death of James Byrd.
 
-[^6]: Fields-White, "Black Towns in America."
+[^6]: Sanders and Fields-White, "History's Lost Black Towns."
 
 [^7]: Sitton and Conrad, *Freedom Colonies*, 18.
 
