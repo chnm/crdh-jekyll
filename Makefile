@@ -11,7 +11,7 @@ deploy : clean
 	@echo "Building development site ..."
 	bundle exec jekyll build --config _config.yml,_config-dev.yml
 	@echo "Deploying to dev server ..."
-	rsync --checksum --delete --exclude appendices/ -avz \
+	rsync --checksum --delete --exclude appendices/ -avz --no-perms \
 		_site/* kaizen:/websites/crdh/www/dev/
 
 deploy-production : build
