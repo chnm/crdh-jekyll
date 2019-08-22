@@ -9,13 +9,13 @@ authors:
   first: Rachel
   email: rbohlman@nd.edu
   affiliation: "Hesburgh Libraries, University of Notre Dame"
-  orcid: 0000-0002-7724-7103
+  orcid: 0000-0002-4216-9811
   url: "https://directory.library.nd.edu/directory/employees/rbohlman"
 - last: Krivulskaya
   first: Suzanna
   email: skrivulskaya@csusm.edu
   affiliation: "Department of History, California State University San Marcos"
-  orcid: 0000-0002-4216-9811
+  orcid: 0000-0002-7724-7103
   url: "http://www.suzannakrivulskaya.com/"
 abstract: |
   The first Catholic Bible published in the United States in 1790 contained a subscriber list: names and locations of people, mostly Catholics, who helped finance the publication. An initial map of these 429 names, created for a 2017 exhibition in the University of Notre Dame's Rare Books and Special Collections, showed clusters of subscribers in Maryland and Pennsylvania. The largest subset identified so far (102 subscribers) was in rural Maryland, and is this paper's focus. Digital tools helped us visualize networks within this community, including historical connections between slavery and piety. We found that a large majority of Maryland Catholics who purchased Bibles were also slaveholders (more than twice the average rate of slaveholding in the South). The densest subscriber locations also trace a discernable path along the pattern of Jesuit plantations in southern and eastern Maryland, a parallel between piety and slaveholding the map made visible. Digital mapping also pulled into focus connections among rural Catholics, as well as relationships between them and the people they enslaved. Archival records revealed dense kinship, religious, and fraternal relationships among subscribers. Records also uncovered enslaved Marylanders who embraced Catholicism, sued or petitioned for freedom, or fled. Slavery and religion formed connective tissue in post-Revolutionary Maryland.
