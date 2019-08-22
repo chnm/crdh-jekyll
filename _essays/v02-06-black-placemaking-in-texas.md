@@ -284,125 +284,75 @@ and preservationists.
 
 ### Bibliography
 
-Boyd, Candice, and Michelle Duffy. "Sonic Geographies of Shifting
-Bodies." *Interference: A Journal of Audio Culture* 1, no. 2 (2012):
-1--7.
+Boyd, Candice, and Michelle Duffy. "Sonic Geographies of Shifting Bodies." *Interference: A Journal of Audio Culture* 1, no. 2 (2012): 1--7.
 
-Catalani, Anna, and Mr Tobias Ackroyd. "Hearing Heritage: Soundscapes
-and the Inheritance of Slavery." Gothenburg, Sweden, 2012.
+Catalani, Anna, and Tobias Ackroyd. "Hearing Heritage: Soundscapes and the Inheritance of Slavery." Gothenburg, Sweden, 2012.
 
-Fields-White, Monee. "Black Towns in America: Disappeared From the
-History Books," June 22, 2013.
-http://www.theroot.com/multimedia/lost-black-cities.
+Fields-White, Monee. "Black Towns in America: Disappeared From the History Books." *The Root*. Last modified June 22, 2013. http://www.theroot.com/multimedia/lost-black-cities.
 
-Kelly, Joan. *Women, History & Theory : The Essays of Joan Kelly*.
-Chicago: University of Chicago Press, 1984.
+Kelly, Joan. *Women, History & Theory: The Essays of Joan Kelly*. Chicago: University of Chicago Press, 1984.
 
-Kuris, Gabriel. "A Huge Problem in Plain Sight: Untangling Heirs;
-Property Rights in the American South, 2001-2017."
-https://successfulsocieties.princeton.edu/, January 24, 2018.
-/publications/huge-problem-plain-sight-untangling-heirs-property-rights-american-south.
+Kuris, Gabriel. "A Huge Problem in Plain Sight: Untangling Heirs; Property Rights in the American South, 2001--2017." January 24, 2018. <https://successfulsocieties.princeton.edu/publications/huge-problem-plain-sight-untangling-heirs-property-rights-american-south>.
 
-Mason, Randall. "Fixing Historic Preservation: A Constructive Critique
-of 'Significance' \[Research and Debate\]." *Places* 16, no. 1 (2004).
-http://www.escholarship.org/uc/item/74q0j4j2.
+Mason, Randall. "Fixing Historic Preservation: A Constructive Critique of 'Significance' [Research and Debate]." *Places* 16, no. 1 (2004). <http://www.escholarship.org/uc/item/74q0j4j2>.
 
-McKittrick, Katherine. *Demonic Grounds: Black Women and the
-Cartographies of Struggle*. U of Minnesota Press, 2006.
+McKittrick, Katherine. *Demonic Grounds: Black Women and the Cartographies of Struggle*. University of Minnesota Press, 2006.
 
-National Park Service. "Section II: How to Apply the National Register
-Criteria for Evaluation, National Register of Historic Places Bulletin
-(NRB 15)." National Park Service. Accessed August 27, 2014.
-http://www.nps.gov/nr/publications/bulletins/nrb15/nrb15\_2.htm.
+National Park Service. "Section II: How to Apply the National Register Criteria for Evaluation, National Register of Historic Places Bulletin (NRB 15)." Accessed August 27, 2014. <http://www.nps.gov/nr/publications/bulletins/nrb15/nrb15_2.htm>.
 
-Roberts, Andrea. "The Texas Freedom Colonies Project Atlas & Study."
-Oaktrust Repository. College Station, TX: Texas A&M University, 2018.
+Roberts, Andrea. "The Texas Freedom Colonies Project Atlas & Study." Oaktrust Repository. College Station, TX: Texas A&M University, 2018.
 
-Roberts, Andrea R. "Performance as Place Preservation: The Role of
-Storytelling in the Formation of Shankleville Community's Black
-Counterpublics." *Journal of Community Archaeology & Heritage*, 2018,
-1--20. https://doi.org/10.1080/20518196.2018.1480002.
+Roberts, Andrea R. "Performance as Place Preservation: The Role of Storytelling in the Formation of Shankleville Community's Black Counterpublics." *Journal of Community Archaeology & Heritage*, 2018, 1--20. <https://doi.org/10.1080/20518196.2018.1480002>.
 
-Sandercock, Leonie. "Framing Insurgent Historiographies for Planning."
-In *Making the Invisible Visible : A Multicultural Planning History*.
-Berkeley: University of California Press, 1998.
+Sandercock, Leonie. "Framing Insurgent Historiographies for Planning." In *Making the Invisible Visible: A Multicultural Planning History*, edited by Leonie Sandercock. Berkeley: University of California Press, 1998.
 
-Schweninger, Loren. *Black Property Owners in the South, 1790 - 1915*.
-Urbana, Ill: Univ. of Illinois Press, 1997.
+Schweninger, Loren. *Black Property Owners in the South, 1790--1915*. Urbana, IL: University of Illinois Press, 1997.
 
-Sitton, Thad, and Conrad, James H. *Freedom Colonies: Independent Black
-Texans in the Time of Jim Crow*. Austin, Texas: University of Texas
-Press, 2005.
+Sitton, Thad, and James H. Conrad, *Freedom Colonies: Independent Black Texans in the Time of Jim Crow*. Austin, Texas: University of Texas Press, 2005.
 
-Smith, Laurajane. "Editorial." *International Journal of Heritage
-Studies* 18, no. 6 (November 2012): 533--40.
-https://doi.org/10.1080/13527258.2012.720794.
+Smith, Laurajane. "Editorial." *International Journal of Heritage Studies* 18, no. 6 (November 2012): 533--40. <https://doi.org/10.1080/13527258.2012.720794>.
 
-Smith, Susan J. "Soundscape." *Area*, 1994, 232--40.
+Smith, Susan J. "Soundscape." *Area* 26, no. 3 (1994): 232--240.
 
-State of Texas Legislature. "Government Code Chapter 442. Texas
-Historical Commission." Government. Texas Constitution and Statutes.
-Accessed February 15, 2016.
-http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.442.htm.
+State of Texas Legislature. "Government Code Chapter 442. Texas Historical Commission." Government. Texas Constitution and Statutes. Accessed February 15, 2016. <http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.442.htm>.
 
-Temple-Raston, Dina. *A Death in Texas : A Story of Race, Murder, and a
-Small Town's Struggle for Redemption*. New York: H. Holt, 2002.
+Temple-Raston, Dina. *A Death in Texas: A Story of Race, Murder, and a Small Town's Struggle for Redemption*. New York: H. Holt, 2002.
 
 ---
 
 ### Notes
 
-[^1]: Kelly, *Women, History & Theory : The Essays of Joan Kelly*;
-    Sandercock, "Framing Insurgent Historiographies for Planning."
+[^1]: Kelly, *Women, History & Theory*; Sandercock, "Framing Insurgent Historiographies."
 
 [^2]: Smith, "Editorial."
 
-[^3]: The Lower Southern states included in Schweninger's comparison are
-    Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, South
-    Carolina, and Texas.
+[^3]: The Lower Southern states included in Schweninger's comparison are Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, South Carolina, and Texas.
 
-[^4]: Schweninger, *Black Property Owners in the South, 1790 - 1915*,
-    164.
+[^4]: Schweninger, *Black Property Owners*, 164.
 
-[^5]: Temple-Raston, *A Death in Texas : A Story of Race, Murder, and a
-    Small Town's Struggle for Redemption*. Huff Creek settlement was the
-    site of the 1998 dragging death of James Byrd.
+[^5]: Temple-Raston, *A Death in Texas*. Huff Creek settlement was the site of the 1998 dragging death of James Byrd.
 
-[^6]: Fields-White, "Black Towns in America: Disappeared From the
-    History Books."
+[^6]: Fields-White, "Black Towns in America."
 
-[^7]: Sitton, Thad and Conrad, James H., *Freedom Colonies: Independent
-    Black Texans in the Time of Jim Crow*, 18.
+[^7]: Sitton and Conrad, *Freedom Colonies*, 18.
 
-[^8]: Roberts, "Performance as Place Preservation: The Role of
-    Storytelling in the Formation of Shankleville Community's Black
-    Counterpublics."
+[^8]: Roberts, "Performance as Place Preservation."
     
 [^9]: Kuris, "A Huge Problem in Plain Sight."
 
-[^10]: Boyd and Duffy, "Sonic Geographies of Shifting Bodies"; Smith,
-    "Soundscape"; Catalani and Ackroyd, "Hearing Heritage: Soundscapes
-    and the Inheritance of Slavery."
+[^10]: Boyd and Duffy, "Sonic Geographies of Shifting Bodies"; Smith, "Soundscape"; Catalani and Ackroyd, "Hearing Heritage."
 
-[^11]: McKittrick, *Demonic Grounds: Black Women and the Cartographies
-    of Struggle*.
+[^11]: McKittrick, *Demonic Grounds*.
 
-[^12]: Mason, "Fixing Historic Preservation: A Constructive Critique of
-    'Significance' *Research and Debate*," 64.
+[^12]: Mason, "Fixing Historic Preservation," 64.
 
-[^13]: National Park Service, "Section II: How to Apply the National
-    Register Criteria for Evaluation, National Register of Historic
-    Places Bulletin (NRB 15)."
+[^13]: National Park Service, "Section II."
 
-[^14]: "Protection "means a local review process under State or local
-    law for proposed demolition of, changes to, or other action that may
-    affect historic properties designated" NHPA of 1966.
+[^14]: "Protection" means a local review process under State or local law for proposed demolition of, changes to, or other action that may affect historic properties designated" NHPA of 1966.
 
-[^15]: State of Texas Legislature, "Government Code Chapter 442. Texas
-    Historical Commission."
+[^15]: State of Texas Legislature, "Government Code Chapter 442."
 
-[^16]: Mason, "Fixing Historic Preservation: A Constructive Critique of
-    'Significance' *Research and Debate*," 71.
+[^16]: Mason, "Fixing Historic Preservation," 71.
 
 [^17]: Roberts, "The Texas Freedom Colonies Project Atlas & Study."
 
