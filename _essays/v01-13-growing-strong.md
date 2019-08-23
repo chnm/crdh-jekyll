@@ -88,7 +88,7 @@ environment to a more diverse and specialized republic of letters.[^3]
 groups, 1811--1850. The size of the circles corresponds to the number of
 members and the thickness of lines indicate the number of shared
 members." %}
-![Network graph showing connections between early American societies and groups in nine different catagories](/assets/img/v01/oberle/network.png)
+![Network graph showing connections between early American societies and groups in nine different catagories]({{site.url}}/assets/img/v01/oberle/network.png)
 {% endfigure %}
 
 Using software constructs a visualization where the thickness of the
@@ -197,7 +197,7 @@ it is in the twentieth.[^8]
 
 {% figure caption: "Figure 2. Shared Group Memberships Between Washington D.C. based Federal
 Employees and Learned Societies." %}
-![A bar graph showing the number of federal employees based in Washington D.C. that were members of certian learned societies.](/assets/img/v01/oberle/federal-employees.png)
+![A bar graph showing the number of federal employees based in Washington D.C. that were members of certian learned societies.]({{site.url}}/assets/img/v01/oberle/federal-employees.png)
 {% endfigure %}
 
 So, although more people were joining societies it remains unclear if

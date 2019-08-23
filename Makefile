@@ -1,17 +1,28 @@
 gulp = ./node_modules/gulp/bin/gulp.js
-preview :
-	$(gulp)
+# Creating the CSS needs to be run through Gulp
 
-deploy :
+preview : clean
+	bundle exec jekyll serve --watch --drafts --config _config.yml,_config-preview.yml
+
+clean :
+	rm -rf _site/*
+
+deploy : clean 
+	@echo "Building development site ..."
+	bundle exec jekyll build --config _config.yml,_config-dev.yml
+	@echo "Deploying to dev server ..."
+	rsync --checksum --delete --exclude appendices/ -avz --no-perms \
+		_site/* kaizen:/websites/crdh/www/dev/
+
+deploy-production : build
 	@echo "Building site ..."
-	$(gulp) clean
-	$(gulp) build
+	bundle exec jekyll build --config _config.yml,_config-production.yml
 	@echo "Deploying to server ..."
-	rsync --checksum --delete --exclude appendices/ -avz \
-		_site/* athena:/websites/crdh/www/
+	rsync --checksum --delete --exclude appendices/ --exclude dev/ -avz \
+		_site/* kaizen:/websites/crdh/www/ --dry-run
 
 appendices :
 	rsync --checksum -avz ../crdh-appendices/* \
-	 athena:/websites/crdh/www/appendices 
+	 kaizen:/websites/crdh/www/appendices --dry-run
 
 .PHONY: preview deploy appendices

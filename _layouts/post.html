@@ -24,7 +24,7 @@ layout: default
                 <br><small>{{ page.subtitle }}</small>
                 {% endif %}
             </h2>
-            <span class="meta">from <a href="/volume/{{ page.category }}/">volume {{ page.volume-number }} ({{ page.category }})</a>, <a href="{{ page.doi }}">{{ page.doi }}</a></span>
+            <span class="meta">from <a href="{{site.url}}/volume/{{ page.category }}/">volume {{ page.volume-number }} ({{ page.category }})</a>, <a href="{{ page.doi }}">{{ page.doi }}</a></span>
         </header>
         <section class="abstract callout">
             <h3>Abstract</h3>
@@ -42,7 +42,11 @@ layout: default
         {% endif %}
         <ul>
         {% for item in page.appendix %}
+            {% if item.file %}
             <li><a href="{{ site.appendices }}/{{ item.file }}" download>{{ item.name }}</a></li>
+            {% else %}
+            <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+            {% endif %}
         {% endfor %}
         </ul>
         {% endif %}

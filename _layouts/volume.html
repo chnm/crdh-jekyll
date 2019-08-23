@@ -12,16 +12,16 @@ layout: default
               <div class="essay clearfix media-object stack-for-small">
                   <div class="media-object-section">
                       <div class="thumbnail">
-                          <a href="{{ essay.url }}">
-                            <img src="{{ essay.preview }}" alt="Preview image for {{ essay.title }}">
+                          <a href="{{ site.url }}{{ essay.url }}">
+                            <img src="{{site.url}}{{ essay.preview }}" alt="Preview image for {{ essay.title }}">
                           </a>
                       </div>
                   </div>
                   <div class="media-object-section">
                       {% if essay.subtitle %}
-                      <h3><a href="{{ essay.url }}">{{ essay.title }}: {{ essay.subtitle }}</a></h3>
+                      <h3><a href="{{ site.url }}{{ essay.url }}">{{ essay.title }}: {{ essay.subtitle }}</a></h3>
                       {% else %}
-                      <h3><a href="{{ essay.url }}">{{ essay.title }}</a></h3>
+                      <h3><a href="{{ site.url }}{{ essay.url }}">{{ essay.title }}</a></h3>
                       {% endif %}
                       <span class="author">
                       {% for author in essay.authors %}
@@ -50,9 +50,9 @@ layout: default
             {% for volume in site.data.volumes %}
             <div class="volume">
                 <span class="volume-number">{{ forloop.index }}</span>
-                <a href="{{ site.baseurl }}/volume/{{ volume.title }}/">
-                <img src="{{ site.baseurl }}/assets/img/{{ volume.img_dir }}/cover-bw.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
-                <img src="{{ site.baseurl }}/assets/img/{{ volume.img_dir }}/cover-color.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
+                <a href="{{ site.url }}/volume/{{ volume.title }}/">
+                <img src="{{ site.url }}/assets/img/{{ volume.img_dir }}/cover-bw.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
+                <img src="{{ site.url }}/assets/img/{{ volume.img_dir }}/cover-color.jpg" alt="Cover for Volume {{ volume.volume }} {{ volume.title }}">
                 </a>
             </div>
             {% endfor %}
