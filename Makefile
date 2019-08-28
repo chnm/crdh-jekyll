@@ -14,15 +14,11 @@ deploy : clean
 	rsync --checksum --delete --exclude appendices/ -avz --no-perms \
 		_site/* kaizen:/websites/crdh/www/dev/
 
-deploy-production : build
+deploy-production : clean
 	@echo "Building site ..."
 	bundle exec jekyll build --config _config.yml,_config-production.yml
 	@echo "Deploying to server ..."
-	rsync --checksum --delete --exclude appendices/ --exclude dev/ -avz \
-		_site/* kaizen:/websites/crdh/www/ --dry-run
+	rsync --checksum --delete --exclude appendices/ --exclude dev/ -avz --no-perms \
+		_site/* kaizen:/websites/crdh/www/
 
-appendices :
-	rsync --checksum -avz ../crdh-appendices/* \
-	 kaizen:/websites/crdh/www/appendices --dry-run
-
-.PHONY: preview deploy appendices
+.PHONY: preview deploy deploy-production clean 
