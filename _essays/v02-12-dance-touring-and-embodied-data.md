@@ -139,7 +139,7 @@ to examine shifting sites of support in terms of their change over time.
 It facilitates comparisons across cities by compressing a large span of
 time and global travel into a visually comprehensible chart.
 
-{% figure caption: "Figure 2. Timeline for cities in which Dunham stayed over 10 days cumulatively, 1950-53. This shows the same data of stays and returns in key locations plotted chronologically, while grouping the "other cities" into a single category below. Data: Harmony Bench and Kate Elswit;Visualization: Antonio Jiménez Mavillard." %}
+{% figure caption: "Figure 2. Timeline for cities in which Dunham stayed over 10 days cumulatively, 1950-53. This shows the same data of stays and returns in key locations plotted chronologically, while grouping the “other cities” into a single category below. Data: Harmony Bench and Kate Elswit; Visualization: Antonio Jiménez Mavillard." %}
 ![Graph showing the number of nights Dunham stayed in particular cities such as Paris, Los Angles, Port-au-Prince, London, Buenos Aires, Rome, New York City, and Rio de Janeiro during the years nineteen fifty to nineteen fifty-three.]({{site.url}}/assets/img/v02/bench/figure2.png)
 {% endfigure %}
 
