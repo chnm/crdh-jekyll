@@ -334,7 +334,7 @@ Congress. <https://chroniclingamerica.loc.gov/>.
 Clemow, Frank. *The Cholera Epidemic of 1892 in the Russian Empire*.
 London: Longmans, Green, and Co., 1893.
 
-Cordell, Ryan. "Reprinting, Circulation, and the Network Author in
+Cordell, Ryan, and David A. Smith. "Reprinting, Circulation, and the Network Author in
 Antebellum Newspapers." *American Literary History* 27, no. 3 (2015):
 417--445.
 
@@ -533,7 +533,7 @@ Funding for this project was provided by a bilateral digital
 
 [^12]: *Novoe Vremia*, December 3 (15), 1889, 3.
 
-[^13]: Cordell, "Reprinting, Circulation, and the Network," 417--445.
+[^13]: Cordell and Smith, "Reprinting, Circulation, and the Network," 417--445.
 
 [^14]: Hamlin, *Cholera. The Biography*.
 
