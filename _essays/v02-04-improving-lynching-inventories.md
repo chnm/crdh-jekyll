@@ -141,7 +141,7 @@ racial terror in their localities. An interactive [map](https://sites.lib.jmu.ed
 
 <figure>
 <iframe src="https://jmu.maps.arcgis.com/apps/Embed/index.html?webmap=f85d6bca745c48d6b821c4b6abdd0932&extent=-83.0097,35.956,-75.5226,39.6144&home=true&zoom=true&scale=true&legend=true&disable_scroll=true&theme=light" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Figure 1. Interactive <a href="http://sites.jmu.edu/valynchings/map/">map</a> of the locations of Virginia lynchings, 1877-1927. Click on the squares and circles on the map for more information about the lynching that occured at each location.</figcaption>
+<figcaption>Figure 1. Interactive <a href="https://sites.lib.jmu.edu/valynchings/data-visualization/">map</a> of the locations of Virginia lynchings, 1877-1927. Click on the squares and circles on the map for more information about the lynching that occured at each location.</figcaption>
 </figure>
 
 The website also provides a searchable [database](https://sites.lib.jmu.edu/valynchings/articles/) of
