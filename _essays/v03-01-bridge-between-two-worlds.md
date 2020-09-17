@@ -95,13 +95,13 @@ fieldworkers underscored that "each fund raising \[sic\] drive should be
 seen as an educational effort also, for change in the South depends on a
 climate of opinion all over the country which will cause people to
 support the movement in the South and demand action from the Federal
-government."[^7] In this way, the "Friends of SNCC" chapters maintained
+government."[^7] The "Friends of SNCC" chapters maintained
 a commitment to grassroots organizing in the Black Belt and poor
 communities in the America South while also translating that organizing
 strategy in the context of wealthy homes of Martha's Vineyard and
 Hollywood.
 
-{% figure caption: "Figure 1. This map demonstrates the geographical reach of Friends of SNCC Chapters. The Atlanta office served as a central organizing hub in terms of communicating news and needs related to the projects to the chapters across the United States. Certain chapters, such as those in the Bay Area and in Boston, did develop their own regional networks. It's also important to note that this map only visualizes the nineteen Friend Chapters listed by SNCC's main Atlanta Office in 1963. By 1965, after SNCC's Mississippi Freedom Summer, Friends of SNCC Chapters increased to seventy-eight." %}
+{% figure caption: "Figure 1. This map demonstrates the geographical reach of Friends of SNCC Chapters. The Atlanta office served as a central organizing hub in terms of communicating news and needs related to the projects to the chapters across the United States. Certain chapters, such as those in the Bay Area and in Boston, also developed their own regional networks. It's also important to note that this map only visualizes the nineteen Friend Chapters listed by SNCC's main Atlanta Office in 1963. By 1965, after SNCC's Mississippi Freedom Summer, Friends of SNCC Chapters increased to seventy-eight." %}
 ![Map of the United States, showing the locations of SNCC Projects (in the south) and SNCC Friends Chapters (in the North), in relation to the national headquarters in Atlanta.]({{site.url}}/assets/img/v03/busch/figure1.jpg)
 {% endfigure %}
 
@@ -118,7 +118,7 @@ highest rates of poverty and highest percentage of population defined as
 and median family income. This should not come as a surprise: the data
 visualizes the economic effects of Jim Crow and racial segregation.
 
-{% figure caption: "Figure 2. Median Family Income, and Per Capita Income. The chart provides a breakdown of those categories for each color-coded county. When analyzing the map, it's important to keep in mind that the 'nonwhite' identity marker of the 1960 Census Data include Black, Asian, and Indigenous populations. This marker obscures some of the results, especially in Texas, where the Latinx communities were often counted as 'white' in the 1960 census. Nonetheless, the map offers a geographical snapshot of the economic gap between Northern and Southern communities in early 1960, especially along racial lines. The most important figure in terms of economic character is per capita income. Per 1960 Census Categories, the Poverty Threshold for individuals was \$1,490." %}
+{% figure caption: "Figure 2. This map visualizes the racial and economic character of the United States at the county level. The chart provides a breakdown of each color-coded group by Race, Poverty Rate, Median Family Income, and Per Capita Income. When analyzing the map, it's important to keep in mind that the 'nonwhite' identity marker of the 1960 Census Data included Black, Asian, and Indigenous populations. This marker obscures some of the results, especially in Texas, where the Latinx communities were often counted as 'white' in the 1960 census. Nonetheless, the map offers a geographical snapshot of the economic gap between Northern and Southern communities in early 1960, especially along racial lines. The most important figure in terms of economic character is per capita income. Per 1960 Census Categories, the Poverty Threshold for individuals was \$1,490." %}
 ![Map of the United States, showing counties colored with red, orange, blue, and green, to indicate their grouping.]({{site.url}}/assets/img/v03/busch/figure2.jpg)
 
 | Category | <span style="color:red">Group #1</span> | <span style="color:orange">Group #2</span> | <span style="color:blue">Group #3</span> | <span style="color:green">Group #4</span> |
@@ -147,7 +147,7 @@ they explained, "got its sunshine (which could be money) from the North,
 and its rain from the South, in the presence of Southern students who
 helped to develop these roots which are now in the communities."[^10]
 
-{% figure caption: "Figure 3. This map visualizes how SNCC's network served as a bridge between two economic and social worlds. The chart provides a picture (color-coded) of the social-economic differences between county locations of SNCC Friends Chapters and Projects. The breakdown reveals some nuances that require further spatial analysis and archival work. SNCC Projects in the South, for instance, were also located in Southern counties that, by some measures, had a strong economic profile and large white population. This begs the question: Why would SNCC locate some projects in predominately white, well-off Southern counties? This breakdown suggests that SNCC's national model functioned at a micro-level in the South, with wealthy white activists like Anne and Carl Braden playing a key role in developing fundraising and organizing among white liberal southerners. But tract-level census data might reveal that these projects were in fact located in areas that were predominantly Black. In addition, both SNCC projects and Friends Chapters were noticeably absent in Group 3, a grouping category that shared the economic characteristics of many SNCC projects, but not the racial makeup. The Project locations listed above, however, do not include those from the 1964-1965 Freedom Summers, when SNCC fieldworkers and Freedom Summer volunteers started 'White Folks Projects' in Biloxi, Mississippi and Ozark, Arkansas, two areas that fell within the Group 3 category." %}
+{% figure caption: "Figure 3. This map visualizes how SNCC's network served as a bridge between two economic and social worlds. The chart provides a picture of the social-economic differences between county locations of SNCC Friends Chapters and Projects. The breakdown reveals some nuances that require further spatial analysis and archival work. SNCC Projects in the South, for instance, were also located in Southern counties that, by some measures, had a strong economic profile and large white population. This begs the question: Why would SNCC locate some projects in predominately white, well-off Southern counties? This breakdown suggests that SNCC's national model functioned at a micro-level in the South, with wealthy white activists like Anne and Carl Braden playing a key role in developing fundraising and organizing among white liberal southerners. But tract-level census data might reveal that these projects were in fact located in areas that were predominantly Black. In addition, both SNCC projects and Friends Chapters were noticeably absent in Group 3, a grouping category that shared the economic characteristics of many SNCC projects, but not the racial makeup. The Project locations listed above, however, do not include those from the 1964-1965 Freedom Summers, when SNCC fieldworkers and Freedom Summer volunteers started 'White Folks Projects' in Biloxi, Mississippi and Ozark, Arkansas, two areas that fell within the Group 3 category." %}
 ![Map of the United States, showing counties colored with red, orange, blue, and green, to indicate their grouping. The connections between SNCC Projects, SNCC Friends Chapters, and the national headquarters in Atlanta, are superimposed on top. ]({{site.url}}/assets/img/v03/busch/figure3.jpg)
 
 | Category | <span style="color:red">Group #1</span> | <span style="color:orange">Group #2</span> | <span style="color:blue">Group #3</span> | <span style="color:green">Group #4</span> |
@@ -168,8 +168,8 @@ Friends chapters will further illuminate the civil rights struggles that
 extended beyond the Mason-Dixon line as well as the unique political
 dynamics that influenced and constrained efforts in the North.[^11] The
 second area is the vital role of SNCC Friends Chapters in the
-recruitment of students and other volunteers. The 1964 Freedom Summer,
-for instance, has been the subject of extensive scholarship.[^12] Yet,
+recruitment of students and other volunteers. The 1964 Freedom Summer
+has been the subject of extensive scholarship.[^12] Yet,
 scholars have not demonstrated how SNCC was able to recruit close to
 1,000 students from across the United States. Early research on the
 location of SNCC Friends Chapters shows that 65% of the chapters were
