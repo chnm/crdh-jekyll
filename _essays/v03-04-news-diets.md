@@ -165,7 +165,7 @@ common in political rhetoric and laying out of first principles[^10])
 and the category of "political demands," which contains Socialist Party
 platforms and political demands of labor federations.
 
-{% figure caption: "Figure 5: Topics most characteristic of the labor material. News and editorial topics in **bold**, topics containing a mix of notices/advertising and news/editorials in bold italic**.** Each square represents the strength of a topic in a particular newspaper title; the darker the square, the more prominent the topic was in that title. Note especially the starkly disproportionate reporting on strikes in labor papers, and the near-absence of the topic from mainstream papers. Note also the prominence of the 'analysis, principles, ideals' topic." %} ![Heat map showing the topics most prominent in labor materials.]({{site.url}}/assets/img/v03/hulden/figure5.png)
+{% figure caption: "Figure 5: Topics most characteristic of the labor material. News and editorial topics in **bold**, topics containing a mix of notices/advertising and news/editorials in ***bold italic***. Each square represents the strength of a topic in a particular newspaper title; the darker the square, the more prominent the topic was in that title. Note especially the starkly disproportionate reporting on strikes in labor papers, and the near-absence of the topic from mainstream papers. Note also the prominence of the 'analysis, principles, ideals' topic." %} ![Heat map showing the topics most prominent in labor materials.]({{site.url}}/assets/img/v03/hulden/figure5.png)
 {% endfigure %}
 
 The differences in topics underline the extent to which the labor press
@@ -192,8 +192,7 @@ Most newspapers in the early twentieth century were only secondarily
 about the news. The country weeklies that dominated the
 early-twentieth-century newspaper landscape served as a community glue
 of sorts: filled with mundane but locally important information, they
-served the news on the side. Yet the news they served mattered, as it in
-all likelihood formed the bulk of the news their readers consumed. And
+served the news on the side. Yet the news they served mattered; in all likelihood, the local paper's content formed the bulk of the news its readers consumed. And
 thus, while the labor papers created a different community, one more
 widely dispersed in geography but limited to those who identified as a
 worker, the labor papers faced an additional hurdle to delivering their
@@ -285,6 +284,6 @@ Vesanto, Aleksi, Asko Nivala, Tapio Salakoski, Hannu Salmi, and Filip Ginter. "A
 
 [^9]: Note that all analysis here concerns the full material. No reprint detection was performed for this sample.
 
-[^10]: The list of words most prominent associated with the topic is: people men man great country life good public law power world government american time true things fact human free political.
+[^10]: The list of words most prominently associated with the topic is: people men man great country life good public law power world government american time true things fact human free political.
 
 [^11]: Kaplan, *Politics and the American Press*. For other analyses emphasizing the community and advocacy functions of particular groups of newspapers, see e.g. Fry, *The Farm Press*; essays in Shore, Fones-Wolf, and Danky, *The German-American Radical Press*.
