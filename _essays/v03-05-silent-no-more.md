@@ -20,7 +20,7 @@ appendix:
   file: sanders-v03/README.txt
 - name: Data archive
   file: sanders-v03/sanders-data.zip
-preview: "/assets/img/v03/sanders/preview2.png"
+preview: "/assets/img/v03/sanders/preview.png"
 ---
 
 ### Introduction
@@ -104,15 +104,15 @@ added for the woman and linked to both the known father and son in the
 edges list.
 
 {% figure caption: "Figure 1: This graph depicts the Ottoman-Algerian Social Network (1567-1837) with only individuals who were explicitly named in the source materials. Women are shown in orange; men are gray. In this graph, only 12 named individuals are women (out of a total of 105) or just 11 percent. This figure, along with figures 2 and 3, justify the novel method of analysis employed in this study by showing how comparatively few women were explicitly named in the sources; however, by adding referenced women and those identified by inference, we generate a much more complete socio-political network of Ottoman Algeria. The women identified in this way were historically significant, even though we do not know their names, an argument borne out by the betweenness centrality scores presented in figure 4 and the accompanying analysis." %}
-![Network graph, showing Ottoman-Algerian Social Network with only named individuals.]({{site.url}}/assets/img/v03/sanders/figure1b.png)
+![Network graph, showing Ottoman-Algerian Social Network with only named individuals.]({{site.url}}/assets/img/v03/sanders/figure1.png)
 {% endfigure %}
 
 {% figure caption: "Figure 2: This graph depicts the Ottoman-Algerian Social Network (1567-1837) with both individuals who were explicitly named and those who were directly referenced in the source materials. For example, you will see “Daughter of Ahmed El-Koli” listed in the lower left corner of the graph because she was referenced in the documents as Ahmed El-Koli's daughter and as the wife of Salah Bey; she is therefore connected by edges to both of these men. Women are shown in orange; men are gray. In this graph of both named and referenced individuals, 24 out of 140 individuals shown are women, increasing the proportion of women from 11 to 26 percent. " %}
-![Network graph, showing Ottoman-Algerian Social Network with only named and referenced individuals.]({{site.url}}/assets/img/v03/sanders/figure2b.png)
+![Network graph, showing Ottoman-Algerian Social Network with only named and referenced individuals.]({{site.url}}/assets/img/v03/sanders/figure2.png)
 {% endfigure %}
 
 {% figure caption: "Figure 3: This graph represents the Ottoman-Algerian Social Network (1567-1837) with individuals who were named and referenced in the sources, as well as individuals whose existence was inferred through existing relationships. The most common way the research team identified an individual by inference was by completing a family unit. If a father and son were named or referenced in the sources, we added a woman as the partner of the father and mother of the son. In this graph, 55 out of 159 individuals shown are women, increasing the proportion of women from 26 to 35 percent." %}
-![Network graph, showing Ottoman-Algerian Social Network with named, referenced, and inferred individuals.]({{site.url}}/assets/img/v03/sanders/figure3b.png)
+![Network graph, showing Ottoman-Algerian Social Network with named, referenced, and inferred individuals.]({{site.url}}/assets/img/v03/sanders/figure3.png)
 {% endfigure %}
 
 {% figure caption: "Figure 4: Raw numbers and proportions of men and women in the three social network graphs depicted above. In the initial graph of named individuals alone, only 11 percent of the people represented are women (12/105 individuals). By adding unnamed but referenced persons, the proportion of women more than doubled to 26 percent (36/140). In the final graph, which includes inferred individuals, the ratio of women to men increased to about one in three (35 percent or 55/159)." %}
