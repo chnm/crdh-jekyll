@@ -9,7 +9,7 @@ authors:
 - last: Fraga
   first: Sean
   email: sfraga@usc.edu
-  affiliation: "Mellon Humanities in a Digital World Program, University of Southern California"
+  affiliation: "USC–Mellon Humanities in a Digital World Program, University of Southern California"
   orcid: 0000-0002-6804-4486
   url: "https://seanfraga.com/"
 abstract: |
@@ -48,7 +48,7 @@ The ledger shows how the 1858 Fraser River gold rush catalyzed American settleme
 | Master’s name | November 1851 - April 1861 |
 | Cargo | November 1851 - December 1858 |
 | Number of crew | November 1851 - December 1858 |
-| Number of passengers | November 1851 - December 1858 |
+| Number of passengers | November 1851 - December 1852 |
 
 <figure>
 <figcaption>Figure 1. Between 1851 and 1861, U.S. officials used a single ledger to record a range of attributes about each voyage through the Puget Sound Customs District. These data capture the role of steam-propelled vessels in initial U.S. colonization of Puget Sound. The ledger’s granular data make it possible to trace how maritime trade networks formed and shifted at a much finer resolution than that provided by published sources.</figcaption>
@@ -62,7 +62,7 @@ Even so, the ledger offers a much fuller portrait of Puget Sound maritime mobili
 
 Similar digital-humanities projects offer models for visualizing and mapping non-narrative maritime data. Scholars have built an atlas to reveal global geographic data contained in the Prize Papers, a collection of papers captured at sea by British ships during times of war between 1664 and 1817.[^16] Similarly, Benjamin Schmidt has mapped global voyages of U.S. ships between roughly 1785 and 1860, using data largely collected by Matthew Fontaine Maury in the years before the U.S. Civil War.[^17] But where these projects operate on a global scale and across multiple decades, this ledger’s tighter geographic coverage focuses our attention on the Pacific Northwest, and its rich detail enables us to track key changes over a relatively small period of time.
 
-{% figure caption: "Figure 2. Mapping every origin or destination port recorded in the Puget Sound Customs District ledger shows how Puget Sound was connected to a spread of destinations across the Pacific Ocean, from Peru to Hawai’i to China to Australia, as well as to a few key ports in the Atlantic Ocean, including Boston and London. Although this map makes Puget Sound appear globally connected, the cluster of points concentrated on the Pacific Northwest also makes evident Puget Sound’s relatively greater regional connections during this period. Ports in the Pacific Northwest illustrate the extent and distribution of non-native settlements around Puget Sound, Gulf of Georgia, and on Vancouver Island, suggesting the importance of maritime mobility within this coastal region." %}
+{% figure caption: "Figure 2. Mapping every origin or destination port recorded in the Puget Sound Customs District ledger shows how Puget Sound was connected to a spread of destinations across the Pacific Ocean, from Peru to Hawaiʻi to China to Australia, as well as to a few key ports in the Atlantic Ocean, including Boston and London. Although this map makes Puget Sound appear globally connected, the cluster of points concentrated on the Pacific Northwest also makes evident Puget Sound’s relatively greater regional connections during this period. Ports in the Pacific Northwest illustrate the extent and distribution of non-native settlements around Puget Sound, Gulf of Georgia, and on Vancouver Island, suggesting the importance of maritime mobility within this coastal region." %}
 ![The left images shows a world map. The right images shows a map of Puget Sound. Purple circles indicate points of origin. Yellow triangles indicate destinations.]({{site.url}}/assets/img/v03/fraga/figure2.jpg)
 {% endfigure %}
 
@@ -78,17 +78,17 @@ The Puget Sound Customs District ledger captures two overlapping geographies: of
 
 While these maps effectively illustrate Puget Sound’s maritime links, they do not capture the relative importance of different ports. This gap becomes apparent when mapping how the number of voyages between different ports changed over time. Figure 4 animates a series of global maps, with the size of each port tied to the number of voyages for that year. A pattern emerges after 1856, as symbols for Victoria, San Francisco, and Puget Sound ports grow bigger and bigger. 
 
-{% figure caption: "Figure 5. The spike in gold-rush traffic between Puget Sound and the British Northwest is immediately visible in this chart. Almost all of the voyages to or from the British Northwest were between Port Townsend, the U.S. port of entry, and Victoria, the British port of entry. In 1860, for example, there were about five hundred and sixty round trips between Port Townsend and Victoria, about one and a half trips a day." %}
+{% figure caption: "Figure 5. The spike in gold-rush traffic between Puget Sound and the British Northwest is immediately visible in this chart. Almost all of the recorded voyages to or from the British Northwest were between Port Townsend, the U.S. port of entry, and Victoria, the British port of entry. In 1860, for example, there were about five hundred and sixty round trips between Port Townsend and Victoria, about one and a half trips a day." %}
 ![Line graph of number of voyages (combined arrivals and departures) from seven different regions: British Northwest, US Pacific Coast, Puget Sound, Asia, US East Coast, Central & South America, Hawaiian Islands.]({{site.url}}/assets/img/v03/fraga/figure5.jpg)
 {% endfigure %}
 
 The 1858 Fraser River gold rush brought thousands of people to the Pacific Northwest and, as shown in figure 5, led to a corresponding increase in travel and trade between Puget Sound, the British Northwest, and San Francisco. Between 1857 and 1858, voyages between Puget Sound and the British Northwest quadrupled; the overwhelming majority of traffic recorded in the ledger during 1858, 1859, and 1860 was to or from the British Northwest. 
 
-{% figure caption: "Figure 6. This animation shows how the number of steam-powered voyages through the Puget Sound Customs District changed over time. As in figure 3, symbol size is based on the number of voyages to or from each port, with larger symbols representing more voyages. While this animation depicts a similar pattern of gold-rush traffic to that in figure 4, with the number of voyages spiking in 1858 and 1859, it also illustrates that steam-powered vessels operated relatively few voyages during this period." %}
+{% figure caption: "Figure 6. This animation shows how the number of steam-powered voyages through the Puget Sound Customs District changed over time. As in figure 4, symbol size is based on the number of voyages to or from each port, with larger symbols representing more voyages. While this animation depicts a similar pattern of gold-rush traffic to that in figure 5, with the number of voyages spiking in 1858 and 1859, it also illustrates that steam-powered vessels operated relatively few voyages during this period." %}
 ![Map of Puget Sound. Nine images in loop. One image for each year. Red circles indicate points of origin. Blue triangles indicate destinations. Larger shapes indicate more voyages.]({{site.url}}/assets/img/v03/fraga/figure6.gif)
 {% endfigure %}
 
-But steam vessels handled relatively little gold-rush traffic, as shown in figure 6. The gold rush created more traffic between Puget Sound and San Francisco, with voyages between these ports tripling between 1857 and 1858, even as voyages associated with other regions outside the Pacific Northwest stayed flat. Voyages by steam first surged, then receded. Steam vessels did not appear on Puget Sound–San Francisco route until 1857 (when one steamship made one voyage), then made about half of all voyages between these ports in 1858 (41%) and 1859 (53%). In 1860, as the gold rush began to ebb, steamships fled the route, handling only 12% of traffic. Similarly, the percentage of steam-powered voyages between Puget Sound and the British Northwest fell to 14% in 1860, from an average of 35% in the years before the gold rush.
+But steam vessels handled relatively little gold-rush traffic, as shown in figure 6. The gold rush created more traffic between Puget Sound and San Francisco, with voyages between these ports tripling between 1857 and 1858, even as voyages associated with other regions outside the Pacific Northwest stayed flat. Voyages by steam first surged, then receded. Steam vessels did not appear on the Puget Sound–San Francisco route until 1857 (when one steamship made one voyage), then made about half of all voyages between these ports in 1858 (41%) and 1859 (53%). In 1860, as the gold rush began to ebb, steamships fled the route, handling only 12% of traffic. Similarly, the percentage of steam-powered voyages between Puget Sound and the British Northwest fell to 14% in 1860, from an average of 35% in the years before the gold rush.
 
 Plotting the ledger data reveals the individual voyages that sustained these connections, and highlights the role of smaller vessels in traffic associated with the Fraser River gold rush. Vessel tonnage and voyage frequency both suddenly and dramatically increased in early 1858.[^18] (Tonnage measures a vessel’s passenger and cargo capacity.) Before 1858, most vessels visiting Puget Sound were under 500 tons; after 1858, a procession of large sailing ships and steamships passed through Puget Sound. Many handled the new traffic between Puget Sound and San Francisco, with vessels over 700 tons consistently over-represented on this route during 1858, 1859, and 1860. More trips by larger vessels brought Puget Sound in closer contact with San Francisco.
 
@@ -97,7 +97,7 @@ Plotting the ledger data reveals the individual voyages that sustained these con
 <figcaption>Figure 7. This scatterplot plots every ledger entry containing both a voyage date and vessel tonnage (a measure of a vessel’s size and carrying capacity), on a logarithmic scale, one in which each tick mark on the vertical axis represents a ten-fold increase. (This represents about 93% of all ledger entries.) Despite the apparent increase in vessel size, average tonnage actually decreased during this period. Plotting on a log scale shows how the start of the 1858 Fraser River gold rush correlated with a significant increase in voyages by smaller sailing vessels, especially sloops and schooners.</figcaption>
 </figure>
 
-But for every large ship inbound from San Francisco, dozens of smaller vessels also began swarming within Puget Sound. The Fraser River gold rush correlated with an increase in voyages by smaller sailing vessels. Surprisingly, despite the increase in trips by larger vessels, average tonnage decreased during this decade, falling slightly to 143.02 tons per vessel in 1860 from 147.69 tons per vessel in 1852. This change was particularly evident when I plotted the ledger data using a logarithmic scale, as shown in figure 7---a scale in which every tick mark on the vertical axis represents a ten-fold increase.[^19]
+But for every large ship inbound from San Francisco, dozens of smaller vessels also began swarming within Puget Sound. The Fraser River gold rush correlated with an increase in voyages by smaller sailing vessels. Surprisingly, despite the increase in trips by larger vessels, average tonnage *decreased* during this decade, falling slightly to 143.02 tons per vessel in 1860 from 147.69 tons per vessel in 1852. This change was particularly evident when I plotted the ledger data using a logarithmic scale, as shown in figure 7---a scale in which every tick mark on the vertical axis represents a ten-fold increase.[^19]
 
 The scatterplot is color-coded by vessel type. The different vessel types indicate differences in configuration and rigging. (A sloop, for example, has one mast, while a schooner has two.) This color-coding highlights several long horizontal bands, each representing trips by a single vessel. Because tonnage is a consistent and relatively particular characteristic, it can serve as a rough proxy for individual vessels. These tonnage bands highlight frequent, regular voyages. At first, steamboats stand out. The Hudson’s Bay Company steamboat *Otter* (144 tons) had an especially long term of service on Puget Sound, for example, with voyages from November 1853 to September 1860.
 
@@ -119,7 +119,7 @@ Greenfield, Mary Catherine. "The Unending Conquest of the S.S. Beaver: Steam Pow
 
 Harmon, Alexandra. *Indians in the Making: Ethnic Relations and Indian Identities around Puget Sound*. Berkeley, CA: University of California Press, 1998.
 
-Hau’ofa, Epeli. "Our Sea of Islands." *The Contemporary Pacific* 6, no. 1 (Spring 1994): 148--161.
+Hauʻofa, Epeli. "Our Sea of Islands." *The Contemporary Pacific* 6, no. 1 (Spring 1994): 148--161.
 
 Huber, Valeska. "Multiple Mobilities, Multiple Sovereignties, Multiple Speeds: Exploring Maritime Connections in the Age of Empire." *International Journal of Middle East Studies* 48, no. 4 (November 2016): 763--766. <https://doi.org/10.1017/S0020743816000908>.
 
@@ -151,7 +151,7 @@ Steel, Frances. "The 'Missing Link': Space, Race, and Transoceanic Ties in the S
 
 Steel, Frances. "Anglo-worlds in Transit: Connections and Frictions Across the Pacific." *Journal of Global History* 11 (2016): 251--270. <http://dx.doi.org/10.1017/S1740022816000085>.
 
-United States Department of the Treasury. "Report of the Secretary of the Treasury, Transmitting a Report from the Register of the Treasury of the Commerce and Navigation of the United States, 1852--1860."
+United States Department of the Treasury. "Report of the Secretary of the Treasury, Transmitting a Report from the Register of the Treasury of the Commerce and Navigation of the United States." 1852--1860.
 
 Whaley, Gray. *Oregon and the Collapse of Illahee: U.S. Empire and the Transformation of an Indigenous World, 1792--1859*. Chapel Hill: University of North Carolina Press, 2010. <https://doi.org/10.5149/9780807898314_whaley￼>.
 
@@ -169,7 +169,7 @@ Whaley, Gray. *Oregon and the Collapse of Illahee: U.S. Empire and the Transform
 
 [^5]: Matsuda, *Pacific Worlds*.
 
-[^6]: Braudel, *The Mediterranean*; Hau’ofa, "Our Sea of Islands"; Bassi, *An Aqueous Territory*, 8.
+[^6]: Braudel, *The Mediterranean*; Hauʻofa, "Our Sea of Islands"; Bassi, *An Aqueous Territory*, 8.
 
 [^7]: Land, "The Urban Amphibious."
 
@@ -177,7 +177,7 @@ Whaley, Gray. *Oregon and the Collapse of Illahee: U.S. Empire and the Transform
 
 [^9]: Steel, "The 'Missing Link'"; Steel, "Anglo-worlds in Transit."
 
-[^10]: Greenfield, "The Unending Conquest of the *S.S. Beaver*."
+[^10]: Greenfield, "The Unending Conquest of the S.S. Beaver."
 
 [^11]: Huber, "Multiple Mobilities."
 
