@@ -1,6 +1,6 @@
 ---
 title: "What’s on History?"
-subtitle: "Tuning into Conspiracies, Capitalism, and Masculinity"
+subtitle: "Tuning In to Conspiracies, Capitalism, and Masculinity"
 doi: "https://doi.org/10.31835/crdh.2020.02"
 category: "2020"
 volume-number: 3
@@ -34,7 +34,7 @@ preview: "/assets/img/v03/catalano-pocratsky/preview.png"
 
 Following the success of Ken Burns' *The Civil War* and the subsequent boom of historical programming on cable television in the 1990s, media historian Gary Edgerton made the bold claim that "television is the principal means by which most people learn about history today."[^1] Despite the continued popularity of museums and online resources, this assertion remains largely true. However, the historical programming now presented on television is no longer dominated by the "biographies and quasi-biographical documentaries" of decades past.[^2]
 
-While PBS and a few other outlets continue to produce educational programming that presents historical content rooted in archival research and scholarly expertise, such as Rec*onstruction: America After the Civil War* (2019), other networks such as History (formerly The History Channel) have shifted to more financially profitable programming that is only loosely based on historical content and gives little regard to topical representativeness and nuanced interpretation.[^3] As Edgerton recently noted, historical programing is now an "entirely new and different kind of programming altogether" that comprises a spectrum of quality from "comprehensive, complex, and penetrating to trash TV."[^4] Ann Gray and Erin Bell have argued that these changes are the result of larger industry forces such as the intensification of competition, the fragmentation of the audience, branding, and celebrity culture which are driving content creation. The "search for 'niche' audiences has shaped the requirements of history programmes in relation to choice of periods and topics considered to be attractive to these target audiences."[^5] As Brian Taves explains, "The History Channel's bedrock support is considered to be men, middle-aged and older; hence the emphasis on programming dealing with war, weapons, and technology, especially during its weekend lineup, as a counteroffering to sports broadcasting."[^6] Many of these pressures, in addition to a host of new factors, also apply to the creation of content for streaming services as well.[^7]  
+While PBS and a few other outlets continue to produce educational programming that presents historical content rooted in archival research and scholarly expertise, such as *Reconstruction: America After the Civil War* (2019), other networks such as History (formerly The History Channel) have shifted to more financially profitable programming that is only loosely based on historical content and gives little regard to topical representativeness and nuanced interpretation.[^3] As Edgerton recently noted, historical programing is now an "entirely new and different kind of programming altogether" that comprises a spectrum of quality from "comprehensive, complex, and penetrating to trash TV."[^4] Ann Gray and Erin Bell have argued that these changes are the result of larger industry forces such as the intensification of competition, the fragmentation of the audience, branding, and celebrity culture which are driving content creation. The "search for 'niche' audiences has shaped the requirements of history programmes in relation to choice of periods and topics considered to be attractive to these target audiences."[^5] As Brian Taves explains, "The History Channel's bedrock support is considered to be men, middle-aged and older; hence the emphasis on programming dealing with war, weapons, and technology, especially during its weekend lineup, as a counteroffering to sports broadcasting."[^6] Many of these pressures, in addition to a host of new factors, also apply to the creation of content for streaming services as well.[^7]  
 
 These programming changes have not come without criticism by scholars and media critics who have called out History's production of inaccurate, fabricated, and purposefully ambiguous content that continues to move further away from historical scholarship and closer to conspiracy narratives and reality television.[^8] As Nancy Dubuc, the former CEO of A+E Networks and the person credited with transforming the network, has stated, "at the end of the day we're [History] not an education resource. We’re an entertainment brand."[^9] While History is not the only scholastic television network to move away from research-based educational programming (see Discovery Channel, formerly The Discovery Channel, and TLC, formerly The Learning Channel), its authoritative presence and substantial viewership makes this shift of pressing importance to public historians and educators. As of 2020, History reached 380 million homes worldwide and much of its content is now accessible via Hulu, Netflix, YouTube, and its own streaming service History Vault.[^10] 
 
@@ -48,20 +48,22 @@ To create the corpus, we collected episode titles and descriptions from History'
 
 ### Results & Analysis 
 
-The results of the topic model showed a general lack of historic themes. Figure 1 depicts a topic model with twelve topics and displays the top twenty most significant words associated with each topic. Based on the content or words of each topic, we assigned labels to each: 
+The results of the topic model showed a general lack of historic themes. Figure 1 depicts a topic model with twelve topics and displays the top twenty most significant words associated with each topic. 
 
-- 1 - Apocalyptic/Prophecy
-- 2 - Treasure hunting
-- 3 - Bladesmithing
-- 4 - Collecting/Cars 
-- 5 - Space and Technology
-- 6 - Competition/Killing
-- 7 - Collecting/Antiques 
-- 8 - American military
-- 9 - Mixed
-- 10 - Aliens
-- 11 - Classic Cars
-- 12 - Capitalism
+Based on the content or words of each topic, we assigned labels to each: 
+
+> 1. Apocalyptic/Prophecy
+> 2. Treasure hunting
+> 3. Bladesmithing
+> 4. Collecting/Cars 
+> 5. Space and Technology
+> 6. Competition/Killing
+> 7. Collecting/Antiques 
+> 8. American military
+> 9. Mixed
+> 10. Aliens
+> 11. Classic Cars
+> 12. Capitalism
 
 {% figure caption: "Figure 1: This visualization shows the results of a twelve-topic model analyzing the episode titles and descriptions for thirty days of programming on History in 2018. Below each topic is a list of the twenty most significant words associated with each topic. The x-axis shows the word probability per topic." %}
 ![Horizontal bar graph for each of the twelve topics in the model, showing the most common words in each topic.]({{site.url}}/assets/img/v03/catalano-pocratsky/figure1.png)
@@ -69,12 +71,11 @@ The results of the topic model showed a general lack of historic themes. Figure 
 
 To gain an understanding of the overall prevalence or frequency of these topics on History, not just their mere existence or inclusion in the topic model, we counted the number of times a particular word appeared in an episode title or description (see figure 2). After examining the models, we performed a close textual analysis of several episodes of the most frequently aired programs (see figure 3). The close readings of these shows revealed not only the themes of conspiracy and capitalism but an underlying thread of masculinity. 
 
-<figure>
-<img src="/assets/img/v03/catalano-pocratsky/figure2.png" alt="Horizontal bar graph in green of the top sixty most common words.">
-<figcaption>Figure 2. This visualization shows the frequency of the most common words found in the episode titles and descriptions for thirty days of programming on History in 2018. This chart does not include the pruned vocabulary (proper names, articles, and other ubiquitous words). Many of these words are more associated with specific topics. For example, the word "ancient" appears in the description of nearly every episode of Ancient Aliens as do the words "fire" and "final" in the show Forged in Fire (the names of the shows were not included in the model). Other words related to the themes of capitalism and collecting such as "buy," "take," "offer," "car," "war," and "get" are present in the descriptions of several shows such as Pawn Stars, American Pickers, and Counting Cars among others.</figcaption>
-</figure>
+{% figure caption: "Figure 2. This visualization shows the frequency of the most common words found in the episode titles and descriptions for thirty days of programming on History in 2018. This chart does not include the pruned vocabulary (proper names, articles, and other ubiquitous words). Many of these words are more associated with specific topics. For example, the word “ancient” appears in the description of nearly every episode of Ancient Aliens as do the words “fire” and “final” in the show *Forged in Fire* (the names of the shows were not included in the model). Other words related to the themes of capitalism and collecting such as “buy,” “take,” “offer,” “car,” “war,” and “get” are present in the descriptions of several shows such as *Pawn Stars*, *American Pickers*, and *Counting Cars* among others." %}
+![Horizontal bar graph in green of the top sixty most common words.]({{site.url}}/assets/img/v03/catalano-pocratsky/figure2.png)
+{% endfigure %}
 
-{% figure caption: "Figure 3. This visualization shows the total number of times that an episode of each show aired during the thirty-day sample period and demonstrates History’s tendency to fill its programming lineup with reality television shows such as Pawn Stars, American Pickers, Forged in Fire, and Swamp People. The most aired non-reality television show was Ancient Aliens followed by the scripted drama Six.  Given the strong correlation between certain programs and topics, this visualization demonstrates not merely the existence of a topic on the network but its prevalence. For example, shows such as Pawn Stars, American Pickers, and Counting Cars contain a high percentage of the topic 'Collecting/Antiques.'" %}
+{% figure caption: "Figure 3. This visualization shows the total number of times that an episode of each show aired during the thirty-day sample period and demonstrates History’s tendency to fill its programming lineup with reality television shows such as *Pawn Stars*, *American Pickers*, *Forged in Fire*, and *Swamp People*. The most aired non-reality television show was Ancient Aliens followed by the scripted drama Six. Given the strong correlation between certain programs and topics, this visualization demonstrates not merely the existence of a topic on the network but its prevalence. For example, shows such as *Pawn Stars*, *American Pickers*, and *Counting Cars* contain a high percentage of the topic “Collecting/Antiques.”" %}
 ![Vertical bar graph showing the number of episodes of each show which aired on History during the study period.]({{site.url}}/assets/img/v03/catalano-pocratsky/figure3.png)
 {% endfigure %}
 
@@ -82,30 +83,30 @@ To gain an understanding of the overall prevalence or frequency of these topics 
 
 The most prominent topic in the model consisted of aliens, prophecies, and speculative content. *Ancient Aliens* (49 episodes) was the most frequently-aired and emblematic program of this topic in the sample. The premise of *Ancient Aliens* is anything but novel; rather, it is part of the long tradition of alternative archeology or pseudoarchaeology. The fascination with the possibility of extraterrestrial ancestors can be traced back to the Victorian Era and the early 20th century works of H.P. Lovecraft.[^15] By the 1920s, many of the topics and theories of modern alternative archeology or pseudoarchaeology were already present including:
 >giants; ancient space travelers; magic as occult science and wisdom; druids; megaliths; poor "sounds alike, is alike" linguistics; secret texts in unknown languages; a particular interest in the Aryan race; lost continents; "looks alike, is alike" comparisons between places like Egypt, the Maya homeland, Peru, and Easter Island; myth as history; and a high handed disdain for foolish, materialist scientists and benighted religious leaders.[^16]
-These same themes can be seen in the questions posed by Ancient Aliens (see figure 4). 
+
+These same themes can be seen in the questions posed by *Ancient Aliens* (see figure 4). 
 
 {% figure caption: "Figure 4: This figure contains questions from episode descriptions of Ancient Aliens. These questions are intentionally provocative and put the burden on academics and “mainstream science” to disprove the possibility of the premise. By adding an “And if so” statement to many of the questions, the show presents a highly improbable scenario with little to no supporting evidence as a reasonable possibility. By grafting cherry-picked support onto conspiracy theories, the show blurs the distinction between evidence-based scientific research and conspiratorial opinion." %}
 
-
-> #### Selected *Ancient Aliens* Questions
-> - Could giant ancient drawings found etched into the desert floor be part of an ancient alien code?
-> - Could black holes exist not just in outer space, but here on Earth? And if so, could Earth's Black Holes have caused strange disappearances and other inexplicable phenomena for centuries?
-> - What is the meaning behind secret messages found throughout Washington, D.C.?
-> - Did America's Founding Fathers know something about ancient aliens that the general public did not? And if so, could this knowledge have been incorporated into the symbols, architecture, and even the founding documents of the United States of America?
-> - If ancient aliens visited Earth, were they responsible for catastrophes, wars and other deadly disasters to control the fate of the human race?
-> - The story of the Great Flood sent by deities to destroy civilizations exists in many prehistoric cultures. There are ancient descriptions of extraterrestrial battles that caused wide-scale destruction, and even reports of UFOs lurking in the shadows of recent natural disasters. The Book of Revelations [sic] and the Dead Sea Scrolls describe a future apocalyptic battle between good and evil that will destroy our world. Are these ancient texts proof that aliens are hostile and planning a violent return? Or might they be our saviors, ensuring our survival as a species during times of devastation?
-> - Hindu scripture describes an enormous flying creature called a Garuda that shook the ground when it landed on Earth. Is it possible that this monster was actually a misinterpreted alien craft?
-> - Are hybrids like the Centaur, the Minotaur and Medusa just mythical creatures of fantasy---or could these ancient depictions of terrifying monsters have been the result of advanced extraterrestrial transplantation procedures?
-> - What if, as Ancient Astronaut theorists believe, there is evidence to connect Bigfoot with an alien species that once visited Earth in the distant past?
+| Selected *Ancient Aliens* Questions |
+|:---|
+| Could giant ancient drawings found etched into the desert floor be part of an ancient alien code? |
+| Could black holes exist not just in outer space, but here on Earth? And if so, could Earth's Black Holes have caused strange disappearances and other inexplicable phenomena for centuries? |
+| What is the meaning behind secret messages found throughout Washington, D.C.? |
+| Did America's Founding Fathers know something about ancient aliens that the general public did not? And if so, could this knowledge have been incorporated into the symbols, architecture, and even the founding documents of the United States of America? |
+| If ancient aliens visited Earth, were they responsible for catastrophes, wars and other deadly disasters to control the fate of the human race? |
+| The story of the Great Flood sent by deities to destroy civilizations exists in many prehistoric cultures. There are ancient descriptions of extraterrestrial battles that caused wide-scale destruction, and even reports of UFOs lurking in the shadows of recent natural disasters. The Book of Revelations [sic] and the Dead Sea Scrolls describe a future apocalyptic battle between good and evil that will destroy our world. Are these ancient texts proof that aliens are hostile and planning a violent return? Or might they be our saviors, ensuring our survival as a species during times of devastation? |
+| Hindu scripture describes an enormous flying creature called a Garuda that shook the ground when it landed on Earth. Is it possible that this monster was actually a misinterpreted alien craft? |
+| Are hybrids like the Centaur, the Minotaur and Medusa just mythical creatures of fantasy---or could these ancient depictions of terrifying monsters have been the result of advanced extraterrestrial transplantation procedures? |
+| What if, as Ancient Astronaut theorists believe, there is evidence to connect Bigfoot with an alien species that once visited Earth in the distant past? |
 
 {% endfigure %}
 
 Each episode of *Ancient Aliens* consists of a carefully selected group of what are called "ancient astronaut theorists" who attempt to explain historical and archeological questions about ancient civilizations through the past visitation of extraterrestrial beings (see figure 5). The lack of credentialed and respected archeologists on this show is a hallmark of pseudoarchaeology. As Jeb Card explains, "Anyone willing to wear the old symbols of preprofessional archaeology can claim the archaeological legacy and its mythic social currency even if their ideas or methods have no significant tie to archaeological practices past or present."[^17]
 
-<figure>
-<img src="/assets/img/v03/catalano-pocratsky/figure5.png" alt="Screenshot from History's webpage for the show Ancient Aliens.">
-<figcaption>Figure 5. This image shows History's description of Ancient Aliens. The image is a screenshot from their website (<a href="https://www.history.com/shows/ancient-aliens/about">https://www.history.com/shows/ancient-aliens/about</a>) on September 26, 2019. The image contains recognizable structures such as Stonehenge and the pyramids of Egypt interspersed with suggestions of alien interaction such as a UFO and Martian landscape. This is only one of a number of promotional images that the show uses to purposefully mix historic iconography with aliens and supernatural beings. By describing the show as being based on "grounded theories" and "first-hand accounts" the show stakes a claim of credibility that is reinforced by History's reputation as a trustworthy source for information among public audiences.</figcaption>
-</figure>
+{% figure caption: "Figure 5. This image shows History's description of *Ancient Aliens*. The image is a screenshot from their [website](https://www.history.com/shows/ancient-aliens/about) on September 26, 2019. The image contains recognizable structures such as Stonehenge and the pyramids of Egypt interspersed with suggestions of alien interaction such as a UFO and Martian landscape. This is only one of a number of promotional images that the show uses to purposefully mix historic iconography with aliens and supernatural beings. By describing the show as being based on “grounded theories” and “first-hand accounts” the show stakes a claim of credibility that is reinforced by History's reputation as a trustworthy source for information among public audiences." %}
+![Screenshot from History's webpage for the show Ancient Aliens.]({{site.url}}/assets/img/v03/catalano-pocratsky/figure5.png)
+{% endfigure %}
 
 Through the examination of archeological sites and artifacts, these ancient astronaut theorists attempt to bring credibility to their often unsupported, fantastical, and extraterrestrial explanations. By continuously posing often unanswerable questions without any conclusive answers and cherry-picking evidence, the show erodes the basis for proof and understanding that scientific and humanistic inquiry are founded upon, thus promoting the acceptance of highly unlikely and unsupported theories as legitimate possibilities. The testimony of ancient astronaut theorists and their ideas is constructed as just as legitimate as that of professional archeologists and their peer-reviewed research.[^18] In some respects, the ancient astronaut theorists are portrayed as more legitimate because of their lack of academic training that would have prevented them from seeing the bigger picture. As Card has pointed out, the one unifying theme of alternative archeology is its "opposition to professional mainstream archeology and, more broadly, science."[^19] 
 
@@ -127,10 +128,9 @@ The overall framing of the show and of the sellers reinforces Mike and Frank's p
 
 Coming in a distant third for most-aired programming on History was the reality television competition *Forged in Fire*, along with its related series *Forged in Fire: Cutting Deeper* and *Forged in Fire: Knife or Death* (80 total episodes). The *Forged in Fire* series contribute to the construction of masculinity on History and include topics such as competition/killing, capitalism, and bladesmithing. In the show, bladesmiths forge iconic weapons from metal that are judged by a panel of experts to determine the winner of $10,000 (see Figure 6). The show repackages the popular television format of cooking and singing competitions in a way that emphasizes violence and rewards lethality.  
 
-<figure>
-<img src="/assets/img/v03/catalano-pocratsky/figure6.png" alt="Screenshot from History's webpage for the show Forged in Fire.">
-<figcaption>Figure 6. This image shows History's description of Forged in Fire. The image is a screenshot from their website (<a href="https://www.history.com/shows/forged-in-fire/about">https://www.history.com/shows/forged-in-fire/about</a>) on March 9, 2018. The image depicts a man testing the durability of a blade edge by chopping a block of ice. Contestants are rewarded for creating implements of destruction and violence. History's description of the show as a contest of "sweat, fire, [and] force of will" supports the network's overall celebration of manual labor as central to its framing of masculinity.</figcaption>
-</figure>
+{% figure caption: "Figure 6. This image shows History's description of *Forged in Fire*. The image is a screenshot from their [website](https://www.history.com/shows/forged-in-fire/about) on March 9, 2018. The image depicts a man testing the durability of a blade edge by chopping a block of ice. Contestants are rewarded for creating implements of destruction and violence. History's description of the show as a contest of “sweat, fire, [and] force of will” supports the network's overall celebration of manual labor as central to its framing of masculinity." %}
+![Screenshot from History's webpage for the show Forged in Fire.]({{site.url}}/assets/img/v03/catalano-pocratsky/figure6.png)
+{% endfigure %}
 
 The forge itself evokes imagery of gritty, sweaty, and tiresome work in the U.S. popular imagination. Contestants on the show, predominately men, are featured frantically heating, hammering, pressing, and grinding steel as sweat drips off of their faces in front of a glowing fire. Judges test the strength and durability and sharpness of the weapons in addition to a final "kill test" involving animal carcasses and ballistic dummies. Brandon Weigel explains that the show is a "callback to our country's height as an industrial powerhouse, when red-blooded American men could make a good living using their hands, and so much of what we bought proudly said 'Made in the U.S.A.'"[^34] 
 
@@ -243,10 +243,9 @@ Wright, Robert. "The Way We Were? History as 'Infotainment' in the Age of Histor
 *Journal of Digital Humanities* 2, no. 1 (2012). <http://journalofdigitalhumanities.org/2-1/>.
 
 ---
-
 ### Notes
 
-The authors would like to thank the editors and staff of *CRDH*, the three peer reviewers, and the attendees of the Lincoln’s Unfinished Work conference for their feedback and support. We would also like to thank Peter Eisenstadt, Amanda Regan, and Eric Gonzaba who provided generous feedback on drafts.
+The authors would like to thank the editors and staff of *CRDH*, the three peer reviewers, and the attendees of the Lincoln's Unfinished Work conference for their feedback and support. We would also like to thank Peter Eisenstadt, Amanda Regan, and Eric Gonzaba who provided generous feedback on drafts.
 
 [^1]: Edgerton, "Television as Historian," 7.
 
@@ -327,11 +326,3 @@ The authors would like to thank the editors and staff of *CRDH*, the three peer 
 [^39]: History, "Swamp People: About."
 
 [^40]: Burns, "Four O'Clock in the Morning Courage," 177.
-
-
-
-
-￼
-
-
-
