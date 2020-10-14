@@ -42,10 +42,9 @@ stakeholder in the grant, to report that the San Luis Valley "could not
 have been more perfectly adapted to the wants of an agricultural region
 if it had been arranged by the hand of art."[^3]
 
-<figure>
-<img src="/assets/img/v03/swisher/figure1.png" alt="Sketch, with Sierra Blanca Massif in the background, and Fort Garland, an American flag on a flag pole, and a person on a horse in the foreground.">
-<figcaption>Figure 1. "The Sierra Blanca, Ft. Garland Colorado," Henry W. Elliot, 1869. United States Geological Survey, Washington, D.C. As Gilpin and Hayden reached the valley floor in October of 1868, they encountered a view much like the one Henry Elliot sketched of the Sierra Blanca Massif and the U.S. Army post at Fort Garland in 1869. Like Hayden's report to Blackmore and Gilpin, Elliot's sketch similarly portrayed the landscape as open and hospitable to westward-bound Americans.</figcaption>
-</figure>
+{% figure caption: "Figure 1. “The Sierra Blanca, Ft. Garland Colorado,” Henry W. Elliot, 1869. United States Geological Survey, Washington, D.C. As Gilpin and Hayden reached the valley floor in October of 1868, they encountered a view much like the one Henry Elliot sketched of the Sierra Blanca Massif and the U.S. Army post at Fort Garland in 1869. Like Hayden's report to Blackmore and Gilpin, Elliot's sketch similarly portrayed the landscape as open and hospitable to westward-bound Americans." %}
+![Sketch, with Sierra Blanca Massif in the background, and Fort Garland, an American flag on a flag pole, and a person on a horse in the foreground.]({{site.url}}/assets/img/v03/swisher/figure1.png)
+{% endfigure %}
 
 But was the San Luis Valley such a paradise? Or was Gilpin and Hayden's
 portrayal of the region more promotional act than truthful
@@ -70,10 +69,9 @@ produced in Colorado newspapers that represented the San Luis Valley as
 an obstacle to be overcome en route to the mines of the San Juan Country
 rather than an agrarian paradise rife with potential.[^9]
 
-<figure>
-<img src="/assets/img/v03/swisher/figure2.png" alt="Map of Colorado, with the Sangre de Cristo Grant in the bottom-middle of the map.">
-<figcaption>Figure 2. "Map of Colorado Embracing the Central Gold Region," Frederick J. Ebert, 1869. Colorado State University Water Resources Archive. The Sangre de Cristo Grant (colored in dark green and pink) is located in the southeast corner of the San Luis Valley (light green). Ebert produced the map "under the direction of" William Gilpin. Notably, the shading employed by Ebert focuses the viewer's attention on the San Luis Valley as both a confluence point of railroad track and, to the uninformed reader, as a significant area in the "Colorado Gold Region." Many viewers, however, were likely interested in learning more about the mines of the San Juan Country, which lay northwest of the San Luis Valley and unshaded in Ebert's depiction of the Colorado Territory.[^5]</figcaption>
-</figure>
+{% figure caption: "Figure 2. “Map of Colorado Embracing the Central Gold Region,” Frederick J. Ebert, 1869. Colorado State University Water Resources Archive. The Sangre de Cristo Grant (colored in dark green and pink) is located in the southeast corner of the San Luis Valley (light green). Ebert produced the map “under the direction of” William Gilpin. Notably, the shading employed by Ebert focuses the viewer's attention on the San Luis Valley as both a confluence point of railroad track and, to the uninformed reader, as a significant area in the “Colorado Gold Region.” Many viewers, however, were likely interested in learning more about the mines of the San Juan Country, which lay northwest of the San Luis Valley and unshaded in Ebert's depiction of the Colorado Territory." %}
+![Map of Colorado, with the Sangre de Cristo Grant in the bottom-middle of the map.]({{site.url}}/assets/img/v03/swisher/figure2.png)
+{% endfigure %}
 
 This essay leverages digital tools to place Gilpin and Hayden's
 portrayal of the Sangre de Cristo Land Grant and the San Luis Valley
@@ -309,7 +307,7 @@ understanding of regional, national, and global histories.
 
 ---
 
-### Newspapers in Corpus
+### Newspaper Corpus
 
 *Boulder County News*, (Boulder, Colorado)
 
