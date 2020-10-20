@@ -13,7 +13,7 @@ authors:
   orcid: 0000-0003-2270-4933
   url: "https://history.nd.edu/graduate-program/graduate-student-directory/jacob-swisher/"
 abstract: |
-  During the mid-nineteenth century, Colorado and New Mexico's San Luis Valley experienced an influx of migrants, land speculators, American soldiers, and capital. Much like in other borderland regions throughout the American West, their arrival was anything but smooth. As these new arrivals settled alongside an existing population of Utes, many attempted to reimagine the region in ways that supported their own economic ambitions. This article traces two regional identities that white Americans created for the San Luis Valley as they migrated to the region in the 1860s and 1870s, both of which ignored claims laid to the region by existing Indigenous and Nuevomexicano populations. The first imagined the valley as an agrarian paradise that land speculator William Gilpin and his partners created to appeal to white settlers. This article employs text mining and spatial analysis to reconstruct the second, an identity that emerged in Colorado newspapers and defined the region as a thoroughfare to mines further west. Through digital methods, this article links localized attempts to define the San Luis Valley as a region and to lay claim to its resources to those that occurred in the press from afar. In doing so, it demonstrates the efficacy of digital methods for connecting local borderlands histories to broader regional and national narratives.
+  During the mid-nineteenth century, Colorado and New Mexico's San Luis Valley experienced an influx of migrants, land speculators, American soldiers, and capital. Much like in other borderland regions throughout the American West, their arrival was anything but smooth. As these new arrivals settled alongside an existing population of Utes, many attempted to reimagine the region in ways that supported their own economic ambitions. This article traces two regional identities that white Americans created for the San Luis Valley as they migrated to the region in the 1860s and 1870s, both of which ignored claims laid to the region by existing Indigenous and Nuevomexicano populations. The first imagined the valley as an agrarian paradise that land speculator William Gilpin and his partners created to appeal to white settlers. This article employs text mining and spatial analysis to reconstruct the second, an identity that emerged in Colorado newspapers and defined the region as a thoroughfare to mines farther west. Through digital methods, this article links localized attempts to define the San Luis Valley as a region and to lay claim to its resources to those that occurred in the press from afar. In doing so, it demonstrates the efficacy of digital methods for connecting local borderlands histories to broader regional and national narratives.
 appendix:
 - name: README
   file: swisher-v03/README.txt
@@ -63,13 +63,13 @@ Hayden, during the 1860s and 1870s, a growing tide of American and
 European migrants joined the existing population of Utes,
 Nuevomexicanos, and American soldiers in this contested borderland.[^8]
 When Americans flocked to the San Luis Valley in growing numbers, an
-alternative portrait of the San Luis Valley emerged alongside Gilpin,
+alternative portrait of the region emerged alongside Gilpin,
 Hayden, and Blackmore's promotions; an "imagined geography" largely
 produced in Colorado newspapers that represented the San Luis Valley as
 an obstacle to be overcome en route to the mines of the San Juan Country
-rather than an agrarian paradise rife with potential.[^9]
+rather than as an agrarian paradise rife with potential.[^9]
 
-{% figure caption: "Figure 2. “Map of Colorado Embracing the Central Gold Region,” Frederick J. Ebert, 1869. Colorado State University Water Resources Archive. The Sangre de Cristo Grant (colored in dark green and pink) is located in the southeast corner of the San Luis Valley (light green). Ebert produced the map “under the direction of” William Gilpin. Notably, the shading employed by Ebert focuses the viewer's attention on the San Luis Valley as both a confluence point of railroad track and, to the uninformed reader, as a significant area in the “Colorado Gold Region.” Many viewers, however, were likely interested in learning more about the mines of the San Juan Country, which lay northwest of the San Luis Valley and unshaded in Ebert's depiction of the Colorado Territory." %}
+{% figure caption: "Figure 2. “Map of Colorado Embracing the Central Gold Region,” Frederick J. Ebert, 1869. Colorado State University Water Resources Archive. The Sangre de Cristo Grant (colored in dark green and pink) is located in the southeast corner of the San Luis Valley (light green). Ebert produced the map “under the direction of” William Gilpin. Notably, the shading employed by Ebert focuses the viewer's attention on the San Luis Valley as both a confluence point of railroad tracks and, to the uninformed reader, as a significant area in the “Colorado Gold Region.” Many viewers, however, were likely interested in learning more about the mines of the San Juan Country, which lay northwest of the San Luis Valley and unshaded in Ebert's depiction of the Colorado Territory." %}
 ![Map of Colorado, with the Sangre de Cristo Grant in the bottom-middle of the map.]({{site.url}}/assets/img/v03/swisher/figure2.png)
 {% endfigure %}
 
@@ -77,7 +77,7 @@ This essay leverages digital tools to place Gilpin and Hayden's
 portrayal of the Sangre de Cristo Land Grant and the San Luis Valley
 alongside an alternative portrait of the region that developed in
 contemporary Colorado newspapers as Americans moved west into the
-region. In doing so, it adds to the local body of scholarship on the San
+basin. In doing so, it adds to the local body of scholarship on the San
 Luis Valley by revealing how distanced historical actors also laid
 claims to the region as they sought to promote the valley as an ideal
 and profitable route between the Colorado plains and the San Juan
@@ -115,7 +115,7 @@ Although references to stock-raising appear with some frequency (Hayden
 purported that the valley contained "excellent pasture"), outside
 observers were more likely to encounter newspaper accounts that
 discussed how they might reach the San Luis Valley but said little about
-what they might do once they arrived. Unlike Hayden and Gilpin, the
+what they might do once they arrived. Unlike Hayden, the
 regional news media did little to portray the San Luis Valley as "the
 most inviting and most promising district west of the Missouri
 River."[^13]
@@ -130,7 +130,7 @@ River."[^13]
 | Good | 86 |
 | Stock | 86 |
 | New | 84 |
-| Mine | 79 |
+| Mine(s) | 79 |
 
 <figure>
 <figcaption>Figure 3. High-frequency topics associated with the San Luis Valley in Colorado newspapers, 1862-1878. Excluding place name references, such as "San Luis Valley" or "San Juan Country," Colorado newspapers most frequently paid attention to distance and movement both into and through the San Luis Valley, with mile(s), road(s), and pass(es) appearing most frequently in the corpus. Stock and mine(s) also appear with high frequency, ranking fourth and seventh respective to the adjectives good (tied with stock for fourth at 86 mentions) and new (sixth with 84 mentions). Topics selected based on frequency of appearance as ranked by Voyant Tools. Stemming of terms like mile(s) and road(s) occurred after examining initial list of high-frequency terms.</figcaption>
@@ -144,7 +144,7 @@ newspapers were far more likely to identify the region as an obstacle
 that stood between American migrants and southwestern Colorado's crown
 jewel: the San Juan Country. Following an initial gold rush in 1858, the
 San Juan Country garnered prospectors' attention in the early 1860s and
-loomed large public perceptions of the Colorado Territory. The San Juan
+loomed large in public perceptions of the Colorado Territory. The San Juan
 mines, however, remained physically remote throughout the 1870s and most
 overland traffic to the region flowed through passes along the western
 edge of the San Luis Valley.[^14]
@@ -164,7 +164,7 @@ part" at Saguache or Conejos, two towns along the valley's western edge
 frequented by travelers en route to the San Juan Mountains.[^15] Though
 brief, G.W.J.'s description of the valley suggested to travelers that
 Pueblo, Saguache, and Conejos were of some utility during the journey to
-the true objective of readers moving to the San Luis Valley: the San
+the true objective of readers moving towards the San Luis Valley: the San
 Juan Country. In G.W.J.'s report, communities that lay in between Pueblo
 and the valley's western markets, like Fort Garland, simply faded into
 the blank space of the press's "imagined geography" of the San Luis
@@ -260,7 +260,7 @@ Gilpin and populated by Nuevomexicano settlers and Ute bands. The second
 emerged in the public consciousness and characterized the San Luis
 Valley by the quickest route across the basin and into the San Juan
 Country. The third, an agrarian "promised land," existed only in the
-minds of select few among the area's travelers and residents---a group
+minds of a select few among the area's travelers and residents---a group
 interested in portraying the region as ripe not only for settlement, but
 for a white settler utopia.[^26] Together, these divergent geographic
 identities reveal that the San Luis Valley was hardly remote and unknown
@@ -301,7 +301,7 @@ tools can add depth to local stories while placing borderlands into
 narrative association with regional, national, and even continental
 histories.[^30] Moreover, by applying digital tools to places without
 readily available, massive datasets, we may also further the central
-goal of borderlands scholarship: leveraging the histories exciting,
+goal of borderlands scholarship: leveraging stories from exciting,
 unique, and often unpredictable places to valuably complicate our
 understanding of regional, national, and global histories.
 
