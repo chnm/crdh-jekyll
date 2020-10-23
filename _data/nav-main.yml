@@ -1,12 +1,8 @@
-- link: CFP
-  url: /cfp/
-
-- link: Conference
-  url: /conference/
-
 - link: All Volumes
   url: /volume/
+  
+- link: Submissions
+  url: /submissions/
 
 - link: About
   url: /about/
-

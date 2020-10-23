@@ -1,7 +1,7 @@
 # Site settings
 language:               "en"
 title:                  "Current Research in Digital History"
-description:            "Hosted by the Roy Rosenzweig Center for History and New Media, Current Research in Digital History is an annual one-day conference that publishes online, peer-reviewed proceedings. Its primary aim is to encourage and publish scholarship in digital history that offers discipline-specific arguments and interpretations."
+description:            "Hosted by the Roy Rosenzweig Center for History and New Media, Current Research in Digital History is an open-access, peer-reviewed, online publication. Its primary aim is to encourage and publish scholarship in digital history that offers discipline-specific arguments and interpretations."
 google-verification:    ""
 
 collections:
