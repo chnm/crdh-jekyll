@@ -45,8 +45,6 @@ Submissions should not currently be under consideration by or already published 
 
 [Lincoln A. Mullen](https://lincolnmullen.com/), George Mason University
 
-### Editorial Assistant
-
 [Greta Swain](http://gretakswain.org/), George Mason University
 
 ### Editorial Board
