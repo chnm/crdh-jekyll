@@ -49,13 +49,15 @@ Submissions should not currently be under consideration by or already published 
 
 ### Editorial Board
 
+[Cameron Blevins](http://www.cameronblevins.org), University of Colorado, Denver
+
 [Sharon Block](https://www.faculty.uci.edu/profile.cfm?faculty_id=5301), University of California, Irvine
 
-[Kalani Craig](http://www.kalanicraig.com/), Indiana University
+[Kalani Craig](http://www.kalanicraig.com/), Indiana University, Bloomington
 
 [Crystal Moten](https://www.crystalmoten.com/), National Museum of American History
 
-[Robert Nelson](https://directory.richmond.edu/bios/rnelson2/) (University of Richmond)
+[Robert Nelson](https://directory.richmond.edu/bios/rnelson2/), University of Richmond
 
 [Anelise Hanson Shrout](http://www.anelisehshrout.com/), Bates College
 
