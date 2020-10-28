@@ -2,7 +2,7 @@
 title: "Silent No More"
 subtitle: "Women as Significant Political Intermediaries in Ottoman
     Algeria"
-doi: "https://doi.org/10.31835/crdh.2020.5"
+doi: "https://doi.org/10.31835/crdh.2020.05"
 category: "2020"
 volume-number: 3
 year: 2020
