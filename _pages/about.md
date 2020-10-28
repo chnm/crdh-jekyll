@@ -73,4 +73,4 @@ Fairfax, VA 22030
 
 ### Origins
 
-*CRDH* began as a conference hosted by RRCHNM. For reference, you can see the [programs]({{site.url}}/conference/) and program committees from the conferences that were held.
+*CRDH* began as a conference hosted by RRCHNM. For reference, you can see the [programs]({{site.url}}/conference-history/) and program committees from the conferences that were held.
