@@ -5,8 +5,7 @@ permalink: /submissions/
 ---
 
 <br>
-
-From Ocotber 2020, *Current Research in Digital History* will accept and publish articles on a rolling basis. Manuscripts can be submitted to Lincoln Mullen <lincoln+crdh@lincolnmullen.com>. Questions may be sent to the same address.
+*Current Research in Digital History* accepts and publishes articles on a rolling basis. Manuscripts can be submitted to Lincoln Mullen <lincoln+crdh@lincolnmullen.com>. Questions may be sent to the same address.
 
 ### Submission Guidelines
 All articles to be considered for publication in *CRDH* should follow the guidelines below.

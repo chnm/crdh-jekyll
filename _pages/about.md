@@ -17,18 +17,13 @@ scholarship:
 -   DOIs and other metadata for all articles
 -   indexing in Google Scholar and other academic databases
 
-*CRDH* began as a publication linked to an annual one-day conference held at George Mason University, with the support of the Department of History and Art History and the RRCHNM Director’s Fund. Accepted submissions were peer-reviewed by a program committee and revised prior to the conference. A commentator at the conference provided a second round of peer review. The conference also featured a plenary roundtable of four scholars discussing the state of digital history. Conferences were held in 2018 and 2019. Beginning in 2020, the editors made the decision to move to the more sustainable model of a journal with rolling publication.  
-
-- [Conference program for Current Research in Digital History 2019](/conference/2019/)
-- [Conference program for Current Research in Digital History 2018](/conference/2018/)
-
 ### Journal Policies
 
 **Peer Review**:
 Two rounds of peer review gives academic standing to these short works. Given that these are brief articles about work in progress, we are committed to a fast peer review and publication schedule. Submissions are first reviewed by members of the editorial board. Accepted submissions will be returned with written reviews. After revisions are made in response to these inital reviews, a revised copy of the submission is sent to a second reviewer, who will provide a second written review. Both sets of reviews should be taken into consideration when authors prepare the final version of their article for publication. 
 
 **Rolling Publication**:
-Articles are published individually on a rolling basis, when they are ready for publication, instead of being published as a set of articles, once a year.
+Articles are published individually on a rolling basis, when they are ready for publication, instead of being published as a set of articles once a year.
 
 **Open Access**:
 This journal is open access. Users may read, download, copy, distribute, print, search, or link to the full text of these articles. This journal does not charge article processing fees or submission fees. We do not provide download statistics, but authors can find how their work is being cited in sources such as Google Scholar. 
@@ -43,7 +38,7 @@ Submissions should not currently be under consideration by or already published 
 
 [Stephen Robertson](http://drstephenrobertson.com/), George Mason University
 
-[Lincoln A. Mullen](https://lincolnmullen.com/), George Mason University
+[Lincoln A. Mullen](https://lincolnmullen.com/), Roy Rosenzweig Center for History and New Media
 
 [Greta Swain](http://gretakswain.org/), George Mason University
 
@@ -61,36 +56,6 @@ Submissions should not currently be under consideration by or already published 
 
 [Anelise Hanson Shrout](http://www.anelisehshrout.com/), Bates College
 
-### 2020 Program Committee
-
-[Christopher Church](http://www.christophermchurch.com/), University of Nevada, Reno
-
-[Kalani Craig](http://www.kalanicraig.com/), Indiana University, Bloomington
-
-[Maeve Kane](https://maevekane.net/), State University of New York, Albany
-
-[Crystal Moten](http://crystalmoten.com/), Smithsonian National Museum of American History
-
-### 2019 Program Committee
-
-[Elizabeth Bond](https://history.osu.edu/people/bond.282), Ohio State University
-
-[Kalani Craig](http://www.kalanicraig.com/), Indiana University, Bloomington
-
-[Michelle DiMeo](https://michelledimeo.com/), Hagley Museum and Library
-
-[Crystal Moten](http://crystalmoten.com/), Macalester College
-
-### 2018 Program Committee
-
-[Kalani Craig](http://www.kalanicraig.com), Indiana University, Bloomington
-
-[Jessica Marie Johnson](https://jmjohnso.squarespace.com/), Johns Hopkins University
-
-[Michelle Moravec](https://michellemoravec.com/), Rosemont College
-
-[Scott Weingart](http://scottbot.net/), Carnegie Mellon University
-
 ### Site Design
 
 [Ken Albers](https://rrchnm.org/author/ken-albers/), Roy Rosenzweig Center for History and New Media
@@ -105,3 +70,7 @@ Roy Rosenzweig Center for History and New Media<br>
 George Mason University<br>
 4400 University Drive, MSN 1E7<br>
 Fairfax, VA 22030
+
+### Origins
+
+*CRDH* began as a conference hosted by RRCHNM. For reference, you can see the [programs]({{site.url}}/conference/) and program committees from the conferences that were held.
