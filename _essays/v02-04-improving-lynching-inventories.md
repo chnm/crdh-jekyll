@@ -36,7 +36,7 @@ extralegal violence underscores the complicity of local, state and
 federal authorities in perpetuating a state of racial terror for African
 Americans during Jim Crow.
 
-The digital history project [*Racial Terror: Lynchings in Virginia, 1877--1927*](http://sites.jmu.edu/valynchings/) compiles an
+The digital history project [*Racial Terror: Lynchings in Virginia, 1877--1927*](https://sites.lib.jmu.edu/valynchings/) compiles an
 amended and enhanced inventory of lethal mob violence in Virginia.
 Starting from the Beck-Tolnay[^3] inventory of Southern lynchings, this
 project, for the first time, uses local Virginia newspapers rather than
@@ -111,7 +111,7 @@ lynching victim contained in the Beck-Tolnay database. Relying on the
 [Chronicling America](https://chroniclingamerica.loc.gov/)
 website, students searched, catalogued and compiled a database of
 historical Virginia newspapers.[^10] In early 2018, the database was
-made publicly available through the [*Racial Terror: Lynching in Virginia, 1877--1927*](http://sites.jmu.edu/valynchings/)
+made publicly available through the [*Racial Terror: Lynching in Virginia, 1877--1927*](https://sites.lib.jmu.edu/valynchings/)
 website. This site tells the stories of the 104 known Virginia lynching
 victims between the end of Reconstruction and the introduction of the
 Virginia Anti-lynching Law in 1928.[^11] Thanks to this original
@@ -131,20 +131,20 @@ information to enrich the website, or correct errors.[^14] In addition
 to its research objective, this digital project also includes civic and
 pedagogical aspirations; in particular, it strives to help restore the
 collective memory of lynching victims, too often erased from local
-histories. Thus, for each [lynching victim](http://sites.jmu.edu/valynchings/victims/), the
+histories. Thus, for each [lynching victim](https://sites.lib.jmu.edu/valynchings/victims/), the
 *Racial Terror* website dedicates a page detailing the events leading to
 their killing and what happened afterwards; it also displays all the
 primary sources (local newspapers) used to reconstruct that story.
 Making this material available online invites local communities and
 activists to conduct their own research and engage with the history of
-racial terror in their localities. An interactive [map](http://sites.jmu.edu/valynchings/map/) of Virginia (see figure 1) visually displays where each lynching occurred.
+racial terror in their localities. An interactive [map](https://sites.lib.jmu.edu/valynchings/data-visualization/) of Virginia (see figure 1) visually displays where each lynching occurred.
 
 <figure>
 <iframe src="https://jmu.maps.arcgis.com/apps/Embed/index.html?webmap=f85d6bca745c48d6b821c4b6abdd0932&extent=-83.0097,35.956,-75.5226,39.6144&home=true&zoom=true&scale=true&legend=true&disable_scroll=true&theme=light" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<figcaption>Figure 1. Interactive <a href="http://sites.jmu.edu/valynchings/map/">map</a> of the locations of Virginia lynchings, 1877-1927. Click on the squares and circles on the map for more information about the lynching that occured at each location.</figcaption>
+<figcaption>Figure 1. Interactive <a href="https://sites.lib.jmu.edu/valynchings/data-visualization/">map</a> of the locations of Virginia lynchings, 1877-1927. Click on the squares and circles on the map for more information about the lynching that occured at each location.</figcaption>
 </figure>
 
-The website also provides a searchable [database](http://sites.jmu.edu/valynchings/articles/) of
+The website also provides a searchable [database](https://sites.lib.jmu.edu/valynchings/articles/) of
 more than 500 historical Virginia newspaper articles on lynching. The
 articles are drawn from 36 local newspapers (except for three articles
 coming from *The Washington Post* and one from the *New York
@@ -199,11 +199,11 @@ interpret and correct current lynching inventories.
 
 The Beck-Tolnay inventory identified 109 lynching victims in Virginia
 between 1877 and 1927. Eighty-three victims were black (76% of the total
-number of victims), one of them, [Charlotte Harris](http://sites.jmu.edu/valynchings/va1878030601/), a woman; the remaining 26 victims were white (24%), one of them, [Peb Falls](http://sites.jmu.edu/valynchings/va1897092501/), a
+number of victims), one of them, [Charlotte Harris](https://sites.lib.jmu.edu/valynchings/va1878030601/), a woman; the remaining 26 victims were white (24%), one of them, [Peb Falls](https://sites.lib.jmu.edu/valynchings/va1897092501/), a
 woman. Researching local Virginia newspapers, however, uncovered that six of the alleged victims were not lynched after all. These six
 non-victims were all white men.
 
-The Beck-Tolnay inventory listed two white brothers, [J. B. Prince](http://sites.jmu.edu/valynchings/va1881122602/) and [J. H. Prince](http://sites.jmu.edu/valynchings/va1881122601/),
+The Beck-Tolnay inventory listed two white brothers, [J. B. Prince](https://sites.lib.jmu.edu/valynchings/va1881122602/) and [J. H. Prince](https://sites.lib.jmu.edu/valynchings/va1881122601/),
 killed when a mob burned down a store on December 26th, 1881 in Green
 Plains, Southampton County. The Prince brothers, however, were merely
 the owners of the store. The article from the *Staunton Spectator* shown
@@ -219,7 +219,7 @@ While there were rumors of a possible lynching for the perpetrators of
 the arson (*not* of the Prince brothers), no further information has
 been found regarding this event.
 
-Both Brundage and the Beck-Tolnay inventory indicated [David Thomas](http://sites.jmu.edu/valynchings/va1880100802/), a 16-year-old white youth, as a victim of a double lynching that allegedly took place on October 8th, 1880 in Nelson county. Thomas and his
+Both Brundage and the Beck-Tolnay inventory indicated [David Thomas](https://sites.lib.jmu.edu/valynchings/va1880100802/), a 16-year-old white youth, as a victim of a double lynching that allegedly took place on October 8th, 1880 in Nelson county. Thomas and his
 brother-in-law George Lowry (also white) were accused of robbery and
 attempting an outrage on a young white woman.
 
@@ -227,9 +227,9 @@ attempting an outrage on a young white woman.
 ![Image of newspaper article from the Richmond Daily Dispatch]({{site.url}}/assets/img/v02/defazio/figure3.png)
 {% endfigure %}
 
-After their arrest, a mob seized [Lowry](http://sites.jmu.edu/valynchings/va1880100801/)
+After their arrest, a mob seized [Lowry](https://sites.lib.jmu.edu/valynchings/va1880100801/)
 from the Nelson county jail and hung him to a nearby oak tree
-([*Alexandria Gazette*](http://sites.jmu.edu/valynchings/files/2018/03/Alexandria-gazette_10-16-1880_2__ran-away_David-Thomas_Nelson_CLIP.jpg)).
+([*Alexandria Gazette*](https://sites.lib.jmu.edu/valynchings/files/2018/03/Alexandria-gazette_10-16-1880_2__ran-away_David-Thomas_Nelson_CLIP.jpg)).
 However, the *Daily Dispatch* of Richmond reported that the mob only
 lynched Lowry and spared the young Thomas. A few months later, Thomas
 was tried and sentenced to six years in prison for robbery.
@@ -238,8 +238,8 @@ was tried and sentenced to six years in prison for robbery.
 ![Image of newspaper article from the Richmond Daily Dispatch]({{site.url}}/assets/img/v02/defazio/figure4.png)
 {% endfigure %}
 
-Two white men, [Evan Griffith](http://sites.jmu.edu/valynchings/va1883012201/)
-and [O. F. Ferrall](http://sites.jmu.edu/valynchings/va1883012202/),
+Two white men, [Evan Griffith](https://sites.lib.jmu.edu/valynchings/va1883012201/)
+and [O. F. Ferrall](https://sites.lib.jmu.edu/valynchings/va1883012202/),
 were accused of cattle theft by deception and allegedly lynched in
 Russell County on January 22nd, 1883, as per the Beck-Tolnay inventory.
 The *Alexandria Gazette* partially confirmed this story on January 25th.
@@ -248,7 +248,7 @@ The *Alexandria Gazette* partially confirmed this story on January 25th.
 ![Image of newspaper article from the Alexandria Gazette]({{site.url}}/assets/img/v02/defazio/figure5.png)
 {% endfigure %}
 
-However, a few days later, both the [*Daily Dispatch*](http://sites.jmu.edu/valynchings/files/2018/03/Daily-Dispatch_01-26-1883_1__Did-Not-Occur_Evan-Griffith_Russell_CLIP.jpg) and the [*Shenandoah Herald*](http://sites.jmu.edu/valynchings/files/2018/03/Shendandoah-Herald_01-31-1883_1__Did-Not-Occur_-Evan-Griffith_Russell_CLIP.jpg)
+However, a few days later, both the [*Daily Dispatch*](https://sites.lib.jmu.edu/valynchings/files/2018/03/Daily-Dispatch_01-26-1883_1__Did-Not-Occur_Evan-Griffith_Russell_CLIP.jpg) and the [*Shenandoah Herald*](https://sites.lib.jmu.edu/valynchings/files/2018/03/Shendandoah-Herald_01-31-1883_1__Did-Not-Occur_-Evan-Griffith_Russell_CLIP.jpg)
 reported that a mob dragged Ferrall and Griffith from jail and took them
 into the nearby woods; upon the "exhibition of ropes and threats of
 hanging", the two men "disgorge(d)" the $18,000 they had stolen, thus
@@ -257,7 +257,7 @@ eschewing the lynching mob (*Daily Dispatch*).
 In addition to revealing these cases where five white men were either
 erroneously reported as lynching victims, or able to escape the mob,
 local newspapers were instrumental in correcting the record regarding
-another alleged white lynching victim: [John Dozier](http://sites.jmu.edu/valynchings/va1880021901/). A white farmer, Dozier was reported as lynched by his neighbors in 1880 in
+another alleged white lynching victim: [John Dozier](https://sites.lib.jmu.edu/valynchings/va1880021901/). A white farmer, Dozier was reported as lynched by his neighbors in 1880 in
 Norfolk County; instead, it was his employee, an unnamed African
 American man, that was killed. Infuriated about his neighbor's cattle
 trespassing on his property, Dozier "revenged himself by shooting the
@@ -393,9 +393,9 @@ Wells, Ida B. "Lynch law in America." *The Arena* 23 (1900): 15--24.
 [^11]: Smith, *Managing White Supremacy*, 155--88. The website has recently been updated
     with additional victims from the 1860s and 1870s.
 
-[^12]: [Philip Mabry](http://sites.jmu.edu/valynchings/VA1890122401/) (or Mobry)
+[^12]: [Philip Mabry](https://sites.lib.jmu.edu/valynchings/VA1890122401/) (or Mobry)
     was allegedly part of a group of African American men who killed a
-    white dentist in Mecklenburg County in 1890. According to the [*Evening Star*](http://sites.jmu.edu/valynchings/files/2018/03/Evening-Star_12-26-1890_5__negro-lynched_Unnamed-negro_Mecklenburg_CLIP.jpg),
+    white dentist in Mecklenburg County in 1890. According to the [*Evening Star*](https://sites.lib.jmu.edu/valynchings/files/2018/03/Evening-Star_12-26-1890_5__negro-lynched_Unnamed-negro_Mecklenburg_CLIP.jpg),
     on the night of December 24th, 1890, Philip Mabry "was taken from
     the jail at Boydton by a large body of masked men and lynched."
     Other reports suggest that two other black men accused of the murder
@@ -405,11 +405,9 @@ Wells, Ida B. "Lynch law in America." *The Arena* 23 (1900): 15--24.
 [^13]: For a similar digital project on lynching in North Carolina and
     South Carolina, see [A Red Record: Revealing Lynchings in North Carolina and South Carolina](http://lynching.web.unc.edu/).
 
-[^14]:  For instance, the inventory now includes the 1932 [lynching of Shedrick Thompson](http://sites.jmu.edu/valynchings/VA1932091501/) in Fauquier County, thanks to the original research generously provided by author and journalist [Jim Hall](https://jim-hall-author.com/).
+[^14]:  For instance, the inventory now includes the 1932 [lynching of Shedrick Thompson](https://sites.lib.jmu.edu/valynchings/VA1932091501/) in Fauquier County, thanks to the original research generously provided by author and journalist [Jim Hall](https://jim-hall-author.com/).
 
-[^15]: The articles are organized in a [relational database](http://sites.jmu.edu/valynchings/articles/) that allows readers to browse, search, access and download the
-    newspaper pages. The database is constantly updated as more
-    newspaper articles are added to the website.
+[^15]: The articles are organized in a [relational database](https://sites.lib.jmu.edu/valynchings/articles/) that allows readers to browse, search, access and download the newspaper pages. The database is constantly updated as more newspaper articles are added to the website.
 
 [^16]: Brundage, *Lynching in the New South*. It is beyond the scope of this paper to compare
     systematically how white and black newspapers covered lynching in
@@ -432,7 +430,7 @@ Wells, Ida B. "Lynch law in America." *The Arena* 23 (1900): 15--24.
 [^22]: Barrow, "Lynching in the Mid‐Atlantic," 265.
 
 [^23]:  Like any other lynching database, this is not a definitive list
-    of victims. The updated inventory of Virginia lynching victims can be consulted on the [project website](http://sites.jmu.edu/valynchings/victims/).
+    of victims. The updated inventory of Virginia lynching victims can be consulted on the [project website](https://sites.lib.jmu.edu/valynchings/victims/).
 
 [^24]: Brundage, *Lynching in the New South*, 86.
 
