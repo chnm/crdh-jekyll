@@ -53,4 +53,4 @@ composer.lock
 *.code-workspace
 vendor
 .bundle
-
+.jekyll-cache
